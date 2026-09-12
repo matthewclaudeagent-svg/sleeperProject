@@ -179,7 +179,10 @@ async function main() {
 
   allMatchups.forEach((matchups, idx) => {
     const week = idx + 1;
-    const played = matchups.some((m) => m.points > 0);
+    // Sleeper reports points as they accrue, so a Thursday kickoff would make an
+    // in-progress week look final and score every team yet to play as a 0-point
+    // loss. Only weeks Sleeper has already advanced past are settled.
+    const played = week < currentWeek && matchups.some((m) => m.points > 0);
 
     // Group the flat matchup list into pairs by matchup_id.
     const pairs = {};
