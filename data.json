@@ -1,0 +1,701 @@
+{
+  "generatedAt": "2026-09-12T05:04:51.285Z",
+  "season": "2026",
+  "currentWeek": 1,
+  "league": {
+    "name": "SoFi Finance",
+    "teams": 12,
+    "playoffTeams": 6,
+    "regularSeasonWeeks": 14,
+    "tradeDeadlineWeek": 11,
+    "tradeDeadlinePassed": false
+  },
+  "teams": [
+    {
+      "rosterId": 10,
+      "name": "Team t-hart",
+      "manager": "tchamihart",
+      "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 39.6,
+      "pointsAgainst": 0,
+      "allPlayWins": 11,
+      "allPlayLosses": 0,
+      "efficiency": 100,
+      "benchPoints": 0,
+      "playoffOdds": 99.95,
+      "topSeedOdds": 68.38,
+      "avgPoints": 39.6,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 39.6,
+          "optimal": 39.6,
+          "benchPoints": 0
+        }
+      ]
+    },
+    {
+      "rosterId": 9,
+      "name": "Schmiddy1",
+      "manager": "Schmiddy1",
+      "avatar": "b3338675f635c2c1f42b469621d38ec6",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 32.22,
+      "pointsAgainst": 20,
+      "allPlayWins": 10,
+      "allPlayLosses": 1,
+      "efficiency": 77.64,
+      "benchPoints": 9.28,
+      "playoffOdds": 99.37,
+      "topSeedOdds": 23.86,
+      "avgPoints": 32.22,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 32.22,
+          "optimal": 41.5,
+          "benchPoints": 9.28
+        }
+      ]
+    },
+    {
+      "rosterId": 7,
+      "name": "jhuang24",
+      "manager": "jhuang24",
+      "avatar": "d55d1f7075eda01948318de4af616075",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 21.5,
+      "pointsAgainst": 3.2,
+      "allPlayWins": 9,
+      "allPlayLosses": 2,
+      "efficiency": 54.43,
+      "benchPoints": 18,
+      "playoffOdds": 93.21,
+      "topSeedOdds": 4.41,
+      "avgPoints": 21.5,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 21.5,
+          "optimal": 39.5,
+          "benchPoints": 18
+        }
+      ]
+    },
+    {
+      "rosterId": 11,
+      "name": "mmcelvaney",
+      "manager": "mmcelvaney",
+      "avatar": "578c6b253dd7b4bab45382e1af102204",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 16.9,
+      "pointsAgainst": 0,
+      "allPlayWins": 7,
+      "allPlayLosses": 4,
+      "efficiency": 92.35,
+      "benchPoints": 1.4,
+      "playoffOdds": 83.55,
+      "topSeedOdds": 1.71,
+      "avgPoints": 16.9,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 16.9,
+          "optimal": 18.3,
+          "benchPoints": 1.4
+        }
+      ]
+    },
+    {
+      "rosterId": 3,
+      "name": "DefendingChampion",
+      "manager": "DelGrosso",
+      "avatar": "7572250c2fb084c434fed0e82229e183",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 12.4,
+      "pointsAgainst": 11,
+      "allPlayWins": 6,
+      "allPlayLosses": 5,
+      "efficiency": 46.1,
+      "benchPoints": 14.5,
+      "playoffOdds": 65.22,
+      "topSeedOdds": 0.57,
+      "avgPoints": 12.4,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 12.4,
+          "optimal": 26.9,
+          "benchPoints": 14.5
+        }
+      ]
+    },
+    {
+      "rosterId": 8,
+      "name": "IR All Stars ",
+      "manager": "mattyicr",
+      "avatar": "b3338675f635c2c1f42b469621d38ec6",
+      "wins": 1,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 2,
+      "pointsAgainst": 0,
+      "allPlayWins": 3,
+      "allPlayLosses": 8,
+      "efficiency": 100,
+      "benchPoints": 0,
+      "playoffOdds": 17,
+      "topSeedOdds": 0.02,
+      "avgPoints": 2,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 2,
+          "optimal": 2,
+          "benchPoints": 0
+        }
+      ]
+    },
+    {
+      "rosterId": 4,
+      "name": "Lapointe12",
+      "manager": "Lapointe12",
+      "avatar": "b3338675f635c2c1f42b469621d38ec6",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pointsFor": 20,
+      "pointsAgainst": 32.22,
+      "allPlayWins": 8,
+      "allPlayLosses": 3,
+      "efficiency": 97.47,
+      "benchPoints": 0.52,
+      "playoffOdds": 80.44,
+      "topSeedOdds": 0.93,
+      "avgPoints": 20,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 20,
+          "optimal": 20.52,
+          "benchPoints": 0.52
+        }
+      ]
+    },
+    {
+      "rosterId": 12,
+      "name": "hniehaus",
+      "manager": "hniehaus",
+      "avatar": "d55d1f7075eda01948318de4af616075",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pointsFor": 11,
+      "pointsAgainst": 12.4,
+      "allPlayWins": 5,
+      "allPlayLosses": 6,
+      "efficiency": 51.16,
+      "benchPoints": 10.5,
+      "playoffOdds": 41.64,
+      "topSeedOdds": 0.12,
+      "avgPoints": 11,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 11,
+          "optimal": 21.5,
+          "benchPoints": 10.5
+        }
+      ]
+    },
+    {
+      "rosterId": 1,
+      "name": "Crashee and Co.",
+      "manager": "skrishnan",
+      "avatar": "b3338675f635c2c1f42b469621d38ec6",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pointsFor": 3.2,
+      "pointsAgainst": 21.5,
+      "allPlayWins": 4,
+      "allPlayLosses": 7,
+      "efficiency": 21.62,
+      "benchPoints": 11.6,
+      "playoffOdds": 7.82,
+      "topSeedOdds": 0,
+      "avgPoints": 3.2,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 3.2,
+          "optimal": 14.8,
+          "benchPoints": 11.6
+        }
+      ]
+    },
+    {
+      "rosterId": 2,
+      "name": "mcooney32",
+      "manager": "mcooney32",
+      "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 16.9,
+      "allPlayWins": 2,
+      "allPlayLosses": 9,
+      "efficiency": null,
+      "benchPoints": 0,
+      "playoffOdds": 4.17,
+      "topSeedOdds": 0,
+      "avgPoints": 0,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 0,
+          "optimal": 0,
+          "benchPoints": 0
+        }
+      ]
+    },
+    {
+      "rosterId": 5,
+      "name": "casper05",
+      "manager": "casper05",
+      "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 2,
+      "allPlayWins": 1,
+      "allPlayLosses": 10,
+      "efficiency": null,
+      "benchPoints": 0,
+      "playoffOdds": 2.69,
+      "topSeedOdds": 0,
+      "avgPoints": 0,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 0,
+          "optimal": 0,
+          "benchPoints": 0
+        }
+      ]
+    },
+    {
+      "rosterId": 6,
+      "name": "Champ",
+      "manager": "Samuraistat",
+      "avatar": "7572250c2fb084c434fed0e82229e183",
+      "wins": 0,
+      "losses": 1,
+      "ties": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 39.6,
+      "allPlayWins": 0,
+      "allPlayLosses": 11,
+      "efficiency": null,
+      "benchPoints": 0,
+      "playoffOdds": 4.94,
+      "topSeedOdds": 0,
+      "avgPoints": 0,
+      "weekly": [
+        {
+          "week": 1,
+          "points": 0,
+          "optimal": 0,
+          "benchPoints": 0
+        }
+      ]
+    }
+  ],
+  "awards": {
+    "weekly": [
+      {
+        "week": 1,
+        "lowScore": {
+          "team": "Champ",
+          "rosterId": 6,
+          "points": 0
+        },
+        "highScore": {
+          "team": "Team t-hart",
+          "rosterId": 10,
+          "points": 39.6
+        },
+        "unluckiest": {
+          "team": "Lapointe12",
+          "rosterId": 4,
+          "points": 20
+        },
+        "luckiest": {
+          "team": "IR All Stars ",
+          "rosterId": 8,
+          "points": 2
+        },
+        "blowout": {
+          "winner": "Team t-hart",
+          "loser": "Champ",
+          "margin": 39.6
+        },
+        "nailbiter": {
+          "winner": "DefendingChampion",
+          "loser": "hniehaus",
+          "margin": 1.4
+        }
+      }
+    ],
+    "wallOfShame": [
+      {
+        "team": "Crashee and Co.",
+        "lowScore": 0,
+        "unluckiest": 0,
+        "luckiest": 0,
+        "blownOut": 0
+      },
+      {
+        "team": "mcooney32",
+        "lowScore": 0,
+        "unluckiest": 0,
+        "luckiest": 0,
+        "blownOut": 0
+      },
+      {
+        "team": "DefendingChampion",
+        "lowScore": 0,
+        "unluckiest": 0,
+        "luckiest": 0,
+        "blownOut": 0
+      },
+      {
+        "team": "Lapointe12",
+        "lowScore": 0,
+        "unluckiest": 1,
+        "luckiest": 0,
+        "blownOut": 0
+      },
+      {
+        "team": "casper05",
+        "lowScore": 0,
+        "unluckiest": 0,
+        "luckiest": 0,
+        "blownOut": 0
+      },
+      {
+        "team": "Champ",
+        "lowScore": 1,
+        "unluckiest": 0,
+        "luckiest": 0,
+        "blownOut": 0
+      },
+      {
+        "team": "jhuang24",
+        "lowScore": 0,
+        "unluckiest": 0,
+        "luckiest": 0,
+        "blownOut": 0
+      },
+      {
+        "team": "IR All Stars ",
+        "lowScore": 0,
+        "unluckiest": 0,
+        "luckiest": 1,
+        "blownOut": 0
+      },
+      {
+        "team": "Schmiddy1",
+        "lowScore": 0,
+        "unluckiest": 0,
+        "luckiest": 0,
+        "blownOut": 0
+      },
+      {
+        "team": "Team t-hart",
+        "lowScore": 0,
+        "unluckiest": 0,
+        "luckiest": 0,
+        "blownOut": 0
+      },
+      {
+        "team": "mmcelvaney",
+        "lowScore": 0,
+        "unluckiest": 0,
+        "luckiest": 0,
+        "blownOut": 0
+      },
+      {
+        "team": "hniehaus",
+        "lowScore": 0,
+        "unluckiest": 0,
+        "luckiest": 0,
+        "blownOut": 0
+      }
+    ]
+  },
+  "h2h": {
+    "2v11": 0,
+    "11v2": 1,
+    "3v12": 1,
+    "12v3": 0,
+    "1v7": 0,
+    "7v1": 1,
+    "5v8": 0,
+    "8v5": 1,
+    "6v10": 0,
+    "10v6": 1,
+    "4v9": 0,
+    "9v4": 1
+  },
+  "transactions": [],
+  "tradeSuggestions": [
+    {
+      "teamA": "DefendingChampion",
+      "teamB": "casper05",
+      "aSends": {
+        "name": "Trevor Lawrence",
+        "pos": "QB",
+        "value": 1705
+      },
+      "bSends": {
+        "name": "Patrick Mahomes",
+        "pos": "QB",
+        "value": 1690
+      },
+      "fairness": 99.12
+    },
+    {
+      "teamA": "DefendingChampion",
+      "teamB": "Lapointe12",
+      "aSends": {
+        "name": "Tucker Kraft",
+        "pos": "TE",
+        "value": 2437
+      },
+      "bSends": {
+        "name": "Jalen Hurts",
+        "pos": "QB",
+        "value": 2529
+      },
+      "fairness": 96.29
+    },
+    {
+      "teamA": "DefendingChampion",
+      "teamB": "Champ",
+      "aSends": {
+        "name": "Tucker Kraft",
+        "pos": "TE",
+        "value": 2437
+      },
+      "bSends": {
+        "name": "Caleb Williams",
+        "pos": "QB",
+        "value": 2602
+      },
+      "fairness": 93.45
+    },
+    {
+      "teamA": "mmcelvaney",
+      "teamB": "hniehaus",
+      "aSends": {
+        "name": "Jayden Daniels",
+        "pos": "QB",
+        "value": 2116
+      },
+      "bSends": {
+        "name": "Justin Herbert",
+        "pos": "QB",
+        "value": 1976
+      },
+      "fairness": 93.16
+    },
+    {
+      "teamA": "Lapointe12",
+      "teamB": "jhuang24",
+      "aSends": {
+        "name": "Dalton Kincaid",
+        "pos": "TE",
+        "value": 998
+      },
+      "bSends": {
+        "name": "Travis Kelce",
+        "pos": "TE",
+        "value": 1080
+      },
+      "fairness": 92.11
+    },
+    {
+      "teamA": "Lapointe12",
+      "teamB": "Champ",
+      "aSends": {
+        "name": "Dalton Kincaid",
+        "pos": "TE",
+        "value": 998
+      },
+      "bSends": {
+        "name": "Isaiah Likely",
+        "pos": "TE",
+        "value": 920
+      },
+      "fairness": 91.87
+    },
+    {
+      "teamA": "IR All Stars ",
+      "teamB": "hniehaus",
+      "aSends": {
+        "name": "Lamar Jackson",
+        "pos": "QB",
+        "value": 4460
+      },
+      "bSends": {
+        "name": "Chris Olave",
+        "pos": "WR",
+        "value": 4921
+      },
+      "fairness": 90.17
+    },
+    {
+      "teamA": "Crashee and Co.",
+      "teamB": "IR All Stars ",
+      "aSends": {
+        "name": "Rashee Rice",
+        "pos": "WR",
+        "value": 3919
+      },
+      "bSends": {
+        "name": "Lamar Jackson",
+        "pos": "QB",
+        "value": 4460
+      },
+      "fairness": 87.09
+    },
+    {
+      "teamA": "DefendingChampion",
+      "teamB": "hniehaus",
+      "aSends": {
+        "name": "Trevor Lawrence",
+        "pos": "QB",
+        "value": 1705
+      },
+      "bSends": {
+        "name": "Justin Herbert",
+        "pos": "QB",
+        "value": 1976
+      },
+      "fairness": 85.28
+    }
+  ],
+  "waiverRoi": [
+    {
+      "player": "Michael Mayer",
+      "pos": "TE",
+      "team": "Champ",
+      "rosterId": 6,
+      "week": 1,
+      "points": 0
+    },
+    {
+      "player": "Cade Otton",
+      "pos": "TE",
+      "team": "Champ",
+      "rosterId": 6,
+      "week": 1,
+      "points": 0
+    },
+    {
+      "player": "Kyler Murray",
+      "pos": "QB",
+      "team": "casper05",
+      "rosterId": 5,
+      "week": 1,
+      "points": 0
+    },
+    {
+      "player": "Denzel Boston",
+      "pos": "WR",
+      "team": "mmcelvaney",
+      "rosterId": 11,
+      "week": 1,
+      "points": 0
+    },
+    {
+      "player": "Jalen Coker",
+      "pos": "WR",
+      "team": "mmcelvaney",
+      "rosterId": 11,
+      "week": 1,
+      "points": 0
+    },
+    {
+      "player": "Tyjae Spears",
+      "pos": "RB",
+      "team": "mmcelvaney",
+      "rosterId": 11,
+      "week": 1,
+      "points": 0
+    },
+    {
+      "player": "Daniel Jones",
+      "pos": "QB",
+      "team": "Champ",
+      "rosterId": 6,
+      "week": 1,
+      "points": 0
+    },
+    {
+      "player": "Raiders",
+      "pos": "DEF",
+      "team": "Crashee and Co.",
+      "rosterId": 1,
+      "week": 1,
+      "points": 0
+    },
+    {
+      "player": "Spencer Shrader",
+      "pos": "K",
+      "team": "casper05",
+      "rosterId": 5,
+      "week": 1,
+      "points": 0
+    },
+    {
+      "player": "Tre Tucker",
+      "pos": "WR",
+      "team": "IR All Stars ",
+      "rosterId": 8,
+      "week": 1,
+      "points": 0
+    },
+    {
+      "player": "Sam Darnold",
+      "pos": "QB",
+      "team": "Lapointe12",
+      "rosterId": 4,
+      "week": 1,
+      "points": 0
+    },
+    {
+      "player": "Juwan Johnson",
+      "pos": "TE",
+      "team": "Lapointe12",
+      "rosterId": 4,
+      "week": 1,
+      "points": 0
+    }
+  ],
+  "recaps": {}
+}
