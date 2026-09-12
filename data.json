@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T18:45:46.069Z",
+  "generatedAt": "2026-09-12T18:58:42.498Z",
   "season": "2026",
   "currentWeek": 1,
   "league": {
@@ -12,238 +12,23 @@
   },
   "teams": [
     {
-      "rosterId": 10,
-      "name": "Team t-hart",
-      "manager": "tchamihart",
-      "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
-      "wins": 1,
-      "losses": 0,
-      "ties": 0,
-      "pointsFor": 39.6,
-      "pointsAgainst": 0,
-      "allPlayWins": 11,
-      "allPlayLosses": 0,
-      "efficiency": 100,
-      "benchPoints": 0,
-      "playoffOdds": 99.91,
-      "topSeedOdds": 68.03,
-      "avgPoints": 39.6,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 39.6,
-          "optimal": 39.6,
-          "benchPoints": 0
-        }
-      ]
-    },
-    {
-      "rosterId": 9,
-      "name": "Schmiddy1",
-      "manager": "Schmiddy1",
-      "avatar": "b3338675f635c2c1f42b469621d38ec6",
-      "wins": 1,
-      "losses": 0,
-      "ties": 0,
-      "pointsFor": 32.22,
-      "pointsAgainst": 20,
-      "allPlayWins": 10,
-      "allPlayLosses": 1,
-      "efficiency": 77.64,
-      "benchPoints": 9.28,
-      "playoffOdds": 99.31,
-      "topSeedOdds": 24,
-      "avgPoints": 32.22,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 32.22,
-          "optimal": 41.5,
-          "benchPoints": 9.28
-        }
-      ]
-    },
-    {
-      "rosterId": 7,
-      "name": "jhuang24",
-      "manager": "jhuang24",
-      "avatar": "d55d1f7075eda01948318de4af616075",
-      "wins": 1,
-      "losses": 0,
-      "ties": 0,
-      "pointsFor": 21.5,
-      "pointsAgainst": 3.2,
-      "allPlayWins": 9,
-      "allPlayLosses": 2,
-      "efficiency": 54.43,
-      "benchPoints": 18,
-      "playoffOdds": 92.72,
-      "topSeedOdds": 4.59,
-      "avgPoints": 21.5,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 21.5,
-          "optimal": 39.5,
-          "benchPoints": 18
-        }
-      ]
-    },
-    {
-      "rosterId": 11,
-      "name": "mmcelvaney",
-      "manager": "mmcelvaney",
-      "avatar": "578c6b253dd7b4bab45382e1af102204",
-      "wins": 1,
-      "losses": 0,
-      "ties": 0,
-      "pointsFor": 16.9,
-      "pointsAgainst": 0,
-      "allPlayWins": 7,
-      "allPlayLosses": 4,
-      "efficiency": 92.35,
-      "benchPoints": 1.4,
-      "playoffOdds": 82.56,
-      "topSeedOdds": 1.71,
-      "avgPoints": 16.9,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 16.9,
-          "optimal": 18.3,
-          "benchPoints": 1.4
-        }
-      ]
-    },
-    {
-      "rosterId": 3,
-      "name": "DefendingChampion",
-      "manager": "DelGrosso",
-      "avatar": "7572250c2fb084c434fed0e82229e183",
-      "wins": 1,
-      "losses": 0,
-      "ties": 0,
-      "pointsFor": 12.4,
-      "pointsAgainst": 11,
-      "allPlayWins": 6,
-      "allPlayLosses": 5,
-      "efficiency": 46.1,
-      "benchPoints": 14.5,
-      "playoffOdds": 65.88,
-      "topSeedOdds": 0.65,
-      "avgPoints": 12.4,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 12.4,
-          "optimal": 26.9,
-          "benchPoints": 14.5
-        }
-      ]
-    },
-    {
-      "rosterId": 8,
-      "name": "IR All Stars ",
-      "manager": "mattyicr",
-      "avatar": "b3338675f635c2c1f42b469621d38ec6",
-      "wins": 1,
-      "losses": 0,
-      "ties": 0,
-      "pointsFor": 2,
-      "pointsAgainst": 0,
-      "allPlayWins": 3,
-      "allPlayLosses": 8,
-      "efficiency": 100,
-      "benchPoints": 0,
-      "playoffOdds": 16.78,
-      "topSeedOdds": 0.01,
-      "avgPoints": 2,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 2,
-          "optimal": 2,
-          "benchPoints": 0
-        }
-      ]
-    },
-    {
-      "rosterId": 4,
-      "name": "Lapointe12",
-      "manager": "Lapointe12",
-      "avatar": "b3338675f635c2c1f42b469621d38ec6",
-      "wins": 0,
-      "losses": 1,
-      "ties": 0,
-      "pointsFor": 20,
-      "pointsAgainst": 32.22,
-      "allPlayWins": 8,
-      "allPlayLosses": 3,
-      "efficiency": 97.47,
-      "benchPoints": 0.52,
-      "playoffOdds": 81.45,
-      "topSeedOdds": 0.97,
-      "avgPoints": 20,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 20,
-          "optimal": 20.52,
-          "benchPoints": 0.52
-        }
-      ]
-    },
-    {
-      "rosterId": 12,
-      "name": "hniehaus",
-      "manager": "hniehaus",
-      "avatar": "d55d1f7075eda01948318de4af616075",
-      "wins": 0,
-      "losses": 1,
-      "ties": 0,
-      "pointsFor": 11,
-      "pointsAgainst": 12.4,
-      "allPlayWins": 5,
-      "allPlayLosses": 6,
-      "efficiency": 51.16,
-      "benchPoints": 10.5,
-      "playoffOdds": 41.95,
-      "topSeedOdds": 0.04,
-      "avgPoints": 11,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 11,
-          "optimal": 21.5,
-          "benchPoints": 10.5
-        }
-      ]
-    },
-    {
       "rosterId": 1,
       "name": "Crashee and Co.",
       "manager": "skrishnan",
       "avatar": "b3338675f635c2c1f42b469621d38ec6",
       "wins": 0,
-      "losses": 1,
+      "losses": 0,
       "ties": 0,
-      "pointsFor": 3.2,
-      "pointsAgainst": 21.5,
-      "allPlayWins": 4,
-      "allPlayLosses": 7,
-      "efficiency": 21.62,
-      "benchPoints": 11.6,
-      "playoffOdds": 8.3,
-      "topSeedOdds": 0,
-      "avgPoints": 3.2,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 3.2,
-          "optimal": 14.8,
-          "benchPoints": 11.6
-        }
-      ]
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "allPlayWins": 0,
+      "allPlayLosses": 0,
+      "efficiency": null,
+      "benchPoints": 0,
+      "playoffOdds": 49.95,
+      "topSeedOdds": 8.3,
+      "avgPoints": 100,
+      "weekly": []
     },
     {
       "rosterId": 2,
@@ -251,25 +36,56 @@
       "manager": "mcooney32",
       "avatar": "82aec8e811b839b8ec25d7b458afd57b",
       "wins": 0,
-      "losses": 1,
+      "losses": 0,
       "ties": 0,
       "pointsFor": 0,
-      "pointsAgainst": 16.9,
-      "allPlayWins": 2,
-      "allPlayLosses": 9,
+      "pointsAgainst": 0,
+      "allPlayWins": 0,
+      "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 4.07,
-      "topSeedOdds": 0,
-      "avgPoints": 0,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 0,
-          "optimal": 0,
-          "benchPoints": 0
-        }
-      ]
+      "playoffOdds": 49.8,
+      "topSeedOdds": 8.19,
+      "avgPoints": 100,
+      "weekly": []
+    },
+    {
+      "rosterId": 3,
+      "name": "DefendingChampion",
+      "manager": "DelGrosso",
+      "avatar": "7572250c2fb084c434fed0e82229e183",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "allPlayWins": 0,
+      "allPlayLosses": 0,
+      "efficiency": null,
+      "benchPoints": 0,
+      "playoffOdds": 49.75,
+      "topSeedOdds": 8.34,
+      "avgPoints": 100,
+      "weekly": []
+    },
+    {
+      "rosterId": 4,
+      "name": "Lapointe12",
+      "manager": "Lapointe12",
+      "avatar": "b3338675f635c2c1f42b469621d38ec6",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "allPlayWins": 0,
+      "allPlayLosses": 0,
+      "efficiency": null,
+      "benchPoints": 0,
+      "playoffOdds": 50.18,
+      "topSeedOdds": 8.42,
+      "avgPoints": 100,
+      "weekly": []
     },
     {
       "rosterId": 5,
@@ -277,25 +93,18 @@
       "manager": "casper05",
       "avatar": "8eb8f8bf999945d523f2c4033f70473e",
       "wins": 0,
-      "losses": 1,
+      "losses": 0,
       "ties": 0,
       "pointsFor": 0,
-      "pointsAgainst": 2,
-      "allPlayWins": 1,
-      "allPlayLosses": 10,
+      "pointsAgainst": 0,
+      "allPlayWins": 0,
+      "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 2.51,
-      "topSeedOdds": 0,
-      "avgPoints": 0,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 0,
-          "optimal": 0,
-          "benchPoints": 0
-        }
-      ]
+      "playoffOdds": 51.55,
+      "topSeedOdds": 8.57,
+      "avgPoints": 100,
+      "weekly": []
     },
     {
       "rosterId": 6,
@@ -303,63 +112,136 @@
       "manager": "Samuraistat",
       "avatar": "7572250c2fb084c434fed0e82229e183",
       "wins": 0,
-      "losses": 1,
+      "losses": 0,
       "ties": 0,
       "pointsFor": 0,
-      "pointsAgainst": 39.6,
+      "pointsAgainst": 0,
       "allPlayWins": 0,
-      "allPlayLosses": 11,
+      "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 4.56,
-      "topSeedOdds": 0,
-      "avgPoints": 0,
-      "weekly": [
-        {
-          "week": 1,
-          "points": 0,
-          "optimal": 0,
-          "benchPoints": 0
-        }
-      ]
+      "playoffOdds": 50.46,
+      "topSeedOdds": 8.3,
+      "avgPoints": 100,
+      "weekly": []
+    },
+    {
+      "rosterId": 7,
+      "name": "jhuang24",
+      "manager": "jhuang24",
+      "avatar": "d55d1f7075eda01948318de4af616075",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "allPlayWins": 0,
+      "allPlayLosses": 0,
+      "efficiency": null,
+      "benchPoints": 0,
+      "playoffOdds": 50.09,
+      "topSeedOdds": 8.78,
+      "avgPoints": 100,
+      "weekly": []
+    },
+    {
+      "rosterId": 8,
+      "name": "IR All Stars ",
+      "manager": "mattyicr",
+      "avatar": "b3338675f635c2c1f42b469621d38ec6",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "allPlayWins": 0,
+      "allPlayLosses": 0,
+      "efficiency": null,
+      "benchPoints": 0,
+      "playoffOdds": 49.79,
+      "topSeedOdds": 8.16,
+      "avgPoints": 100,
+      "weekly": []
+    },
+    {
+      "rosterId": 9,
+      "name": "Schmiddy1",
+      "manager": "Schmiddy1",
+      "avatar": "b3338675f635c2c1f42b469621d38ec6",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "allPlayWins": 0,
+      "allPlayLosses": 0,
+      "efficiency": null,
+      "benchPoints": 0,
+      "playoffOdds": 48.91,
+      "topSeedOdds": 8.02,
+      "avgPoints": 100,
+      "weekly": []
+    },
+    {
+      "rosterId": 10,
+      "name": "Team t-hart",
+      "manager": "tchamihart",
+      "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "allPlayWins": 0,
+      "allPlayLosses": 0,
+      "efficiency": null,
+      "benchPoints": 0,
+      "playoffOdds": 49.88,
+      "topSeedOdds": 8.31,
+      "avgPoints": 100,
+      "weekly": []
+    },
+    {
+      "rosterId": 11,
+      "name": "mmcelvaney",
+      "manager": "mmcelvaney",
+      "avatar": "578c6b253dd7b4bab45382e1af102204",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "allPlayWins": 0,
+      "allPlayLosses": 0,
+      "efficiency": null,
+      "benchPoints": 0,
+      "playoffOdds": 50.03,
+      "topSeedOdds": 8.47,
+      "avgPoints": 100,
+      "weekly": []
+    },
+    {
+      "rosterId": 12,
+      "name": "hniehaus",
+      "manager": "hniehaus",
+      "avatar": "d55d1f7075eda01948318de4af616075",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0,
+      "pointsFor": 0,
+      "pointsAgainst": 0,
+      "allPlayWins": 0,
+      "allPlayLosses": 0,
+      "efficiency": null,
+      "benchPoints": 0,
+      "playoffOdds": 49.61,
+      "topSeedOdds": 8.14,
+      "avgPoints": 100,
+      "weekly": []
     }
   ],
   "awards": {
-    "weekly": [
-      {
-        "week": 1,
-        "lowScore": {
-          "team": "Champ",
-          "rosterId": 6,
-          "points": 0
-        },
-        "highScore": {
-          "team": "Team t-hart",
-          "rosterId": 10,
-          "points": 39.6
-        },
-        "unluckiest": {
-          "team": "Lapointe12",
-          "rosterId": 4,
-          "points": 20
-        },
-        "luckiest": {
-          "team": "IR All Stars ",
-          "rosterId": 8,
-          "points": 2
-        },
-        "blowout": {
-          "winner": "Team t-hart",
-          "loser": "Champ",
-          "margin": 39.6
-        },
-        "nailbiter": {
-          "winner": "DefendingChampion",
-          "loser": "hniehaus",
-          "margin": 1.4
-        }
-      }
-    ],
+    "weekly": [],
     "wallOfShame": [
       {
         "team": "Crashee and Co.",
@@ -385,7 +267,7 @@
       {
         "team": "Lapointe12",
         "lowScore": 0,
-        "unluckiest": 1,
+        "unluckiest": 0,
         "luckiest": 0,
         "blownOut": 0
       },
@@ -398,7 +280,7 @@
       },
       {
         "team": "Champ",
-        "lowScore": 1,
+        "lowScore": 0,
         "unluckiest": 0,
         "luckiest": 0,
         "blownOut": 0
@@ -414,7 +296,7 @@
         "team": "IR All Stars ",
         "lowScore": 0,
         "unluckiest": 0,
-        "luckiest": 1,
+        "luckiest": 0,
         "blownOut": 0
       },
       {
@@ -447,20 +329,7 @@
       }
     ]
   },
-  "h2h": {
-    "2v11": 0,
-    "11v2": 1,
-    "3v12": 1,
-    "12v3": 0,
-    "1v7": 0,
-    "7v1": 1,
-    "5v8": 0,
-    "8v5": 1,
-    "6v10": 0,
-    "10v6": 1,
-    "4v9": 0,
-    "9v4": 1
-  },
+  "h2h": {},
   "transactions": [],
   "tradeSuggestions": [
     {
