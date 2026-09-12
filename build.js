@@ -176,6 +176,7 @@ async function main() {
   const weeklyAwards = [];
   const h2h = {};
   const remainingGames = [];
+  const playerPoints = {};
 
   allMatchups.forEach((matchups, idx) => {
     const week = idx + 1;
@@ -217,6 +218,9 @@ async function main() {
         m.players_points || {},
         players
       );
+      for (const [playerId, pts] of Object.entries(m.players_points || {})) {
+        playerPoints[playerId] = (playerPoints[playerId] || 0) + pts;
+      }
       t.actualPoints += m.points || 0;
       t.optimalPoints += optimal.points;
       t.weekly.push({
@@ -391,6 +395,41 @@ async function main() {
     }
   }
 
+  // Current rosters. Sleeper returns `starters` in slot order, using "0" for an
+  // empty slot, so the index lines up with STARTER_SLOTS. Points are what the
+  // player scored while rostered in completed weeks, so a waiver pickup does not
+  // get credit for the weeks before anyone owned him.
+  const entry = (id) => ({
+    id,
+    name: players[id] ? players[id].name : id,
+    pos: players[id] ? players[id].pos : null,
+    nflTeam: players[id] ? players[id].team : null,
+    points: round(playerPoints[id] || 0),
+  });
+
+  const rosterDetail = rosters.map((r) => {
+    const t = teamBy[r.roster_id] || {};
+    const starters = (r.starters || []).map((id, i) => ({
+      slot: STARTER_SLOTS[i] || 'FLEX',
+      ...(id && id !== '0'
+        ? entry(id)
+        : { id: null, name: 'Empty', pos: null, nflTeam: null, points: 0 }),
+    }));
+    const started = new Set((r.starters || []).filter((id) => id && id !== '0'));
+    const onIr = new Set(r.reserve || []);
+    return {
+      rosterId: r.roster_id,
+      name: t.name || `Team ${r.roster_id}`,
+      manager: t.manager || 'Unknown',
+      starters,
+      bench: (r.players || [])
+        .filter((id) => !started.has(id) && !onIr.has(id))
+        .map(entry)
+        .sort((a, b) => b.points - a.points),
+      ir: (r.reserve || []).map(entry),
+    };
+  });
+
   const recaps = await buildRecaps(weeklyAwards, teams, currentWeek);
 
   const data = {
@@ -439,6 +478,7 @@ async function main() {
     })),
     tradeSuggestions,
     waiverRoi,
+    rosters: rosterDetail,
     recaps,
   };
 

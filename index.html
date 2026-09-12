@@ -241,6 +241,28 @@ svg { display: block; width: 100%; height: auto; }
 .cell.l { background: var(--bar-track); color: var(--ink-2); }
 .cell.self { background: transparent; color: var(--line); }
 
+/* ---------- rosters ---------- */
+
+.roster {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 13px 15px;
+  margin-bottom: 12px;
+}
+.roster-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+.roster-head .nm { font-weight: 600; font-size: 16.5px; font-variation-settings: 'wdth' 106; }
+.roster-head .sub { color: var(--ink-2); font-size: 13px; flex: none; }
+.roster h3 {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--ink-2);
+  margin: 14px 0 2px;
+}
+.roster table { font-size: 14px; }
+.roster td.name { font-weight: 400; }
+.roster table.starters td:first-child { color: var(--ink-2); }
+
 /* ---------- recap ---------- */
 
 .recap { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 18px 20px; max-width: 66ch; }
@@ -269,6 +291,11 @@ svg { display: block; width: 100%; height: auto; }
     <h2>Standings and playoff odds</h2>
     <div class="board" id="board"></div>
     <p class="note" id="board-note"></p>
+  </section>
+
+  <section class="panel" id="p-rosters" role="tabpanel" hidden>
+    <h2>Rosters <span class="hint">— points are what each player scored while rostered</span></h2>
+    <div id="rosters"></div>
   </section>
 
   <section class="panel" id="p-awards" role="tabpanel" hidden>
@@ -314,6 +341,7 @@ svg { display: block; width: 100%; height: auto; }
 const LEAGUE_ID = '1390786042679812096';
 const TABS = [
   ['board', 'Board'],
+  ['rosters', 'Rosters'],
   ['awards', 'Awards'],
   ['stats', 'Stats'],
   ['h2h', 'Head to head'],
@@ -403,6 +431,7 @@ function render() {
     `Week <b>${d.currentWeek}</b> of ${d.league.regularSeasonWeeks} &nbsp;·&nbsp; ${d.league.teams} teams &nbsp;·&nbsp; updated ${updated}`;
 
   renderBoard(d);
+  renderRosters(d);
   renderAwards(d);
   renderStats(d);
   renderMatrix(d);
@@ -477,6 +506,48 @@ function renderAwards(d) {
       { text: s.lowScore, cls: s.lowScore ? 'neg' : null },
       s.unluckiest,
       s.luckiest]));
+}
+
+function renderRosters(d) {
+  const host = document.getElementById('rosters');
+  host.innerHTML = '';
+  const list = d.rosters || [];
+  if (!list.length) {
+    host.appendChild(el('p', 'empty', 'Rosters appear the next time the league data is built.'));
+    return;
+  }
+  const byId = {};
+  list.forEach((r) => { byId[r.rosterId] = r; });
+
+  const section = (card, label, cls, headers, rows) => {
+    if (!rows.length) return;
+    card.appendChild(el('h3', null, label));
+    const wrap = el('div', 'tbl-scroll');
+    const node = el('table', cls);
+    table(node, headers, rows);
+    wrap.appendChild(node);
+    card.appendChild(wrap);
+  };
+  const line = (p) => [p.name, p.pos || '—', p.nflTeam || '—', { text: fmt(p.points), cls: 'pos' }];
+
+  d.teams.forEach((t) => {
+    const r = byId[t.rosterId];
+    if (!r) return;
+    const card = el('section', 'roster');
+    const head = el('div', 'roster-head');
+    head.appendChild(el('div', 'nm', r.name));
+    head.appendChild(el('div', 'sub', r.manager));
+    card.appendChild(head);
+
+    section(card, 'Starters', 'starters', ['Slot', 'Player', 'Pos', 'Team', 'Points'],
+      r.starters.map((p) => [p.slot, ...line(p)]));
+    section(card, 'Bench', null, ['Player', 'Pos', 'Team', 'Points'],
+      r.bench.map(line));
+    section(card, 'Injured reserve', null, ['Player', 'Pos', 'Team', 'Points'],
+      (r.ir || []).map(line));
+
+    host.appendChild(card);
+  });
 }
 
 function renderStats(d) {
