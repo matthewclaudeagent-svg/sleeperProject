@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T18:58:42.498Z",
+  "generatedAt": "2026-09-12T19:47:36.063Z",
   "season": "2026",
   "currentWeek": 1,
   "league": {
@@ -25,8 +25,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 49.95,
-      "topSeedOdds": 8.3,
+      "playoffOdds": 51.27,
+      "topSeedOdds": 8.32,
       "avgPoints": 100,
       "weekly": []
     },
@@ -44,8 +44,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 49.8,
-      "topSeedOdds": 8.19,
+      "playoffOdds": 49.87,
+      "topSeedOdds": 7.78,
       "avgPoints": 100,
       "weekly": []
     },
@@ -63,8 +63,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 49.75,
-      "topSeedOdds": 8.34,
+      "playoffOdds": 49.41,
+      "topSeedOdds": 8.22,
       "avgPoints": 100,
       "weekly": []
     },
@@ -82,8 +82,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 50.18,
-      "topSeedOdds": 8.42,
+      "playoffOdds": 50.48,
+      "topSeedOdds": 8.17,
       "avgPoints": 100,
       "weekly": []
     },
@@ -101,8 +101,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 51.55,
-      "topSeedOdds": 8.57,
+      "playoffOdds": 49.46,
+      "topSeedOdds": 8.01,
       "avgPoints": 100,
       "weekly": []
     },
@@ -120,8 +120,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 50.46,
-      "topSeedOdds": 8.3,
+      "playoffOdds": 50.24,
+      "topSeedOdds": 8.75,
       "avgPoints": 100,
       "weekly": []
     },
@@ -139,8 +139,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 50.09,
-      "topSeedOdds": 8.78,
+      "playoffOdds": 49.62,
+      "topSeedOdds": 8.22,
       "avgPoints": 100,
       "weekly": []
     },
@@ -158,8 +158,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 49.79,
-      "topSeedOdds": 8.16,
+      "playoffOdds": 49.9,
+      "topSeedOdds": 8.63,
       "avgPoints": 100,
       "weekly": []
     },
@@ -177,8 +177,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 48.91,
-      "topSeedOdds": 8.02,
+      "playoffOdds": 49.73,
+      "topSeedOdds": 8.29,
       "avgPoints": 100,
       "weekly": []
     },
@@ -196,8 +196,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 49.88,
-      "topSeedOdds": 8.31,
+      "playoffOdds": 50.48,
+      "topSeedOdds": 8.56,
       "avgPoints": 100,
       "weekly": []
     },
@@ -215,8 +215,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 50.03,
-      "topSeedOdds": 8.47,
+      "playoffOdds": 49.59,
+      "topSeedOdds": 8.12,
       "avgPoints": 100,
       "weekly": []
     },
@@ -234,8 +234,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 49.61,
-      "topSeedOdds": 8.14,
+      "playoffOdds": 49.95,
+      "topSeedOdds": 8.93,
       "avgPoints": 100,
       "weekly": []
     }
@@ -333,34 +333,34 @@
   "transactions": [],
   "tradeSuggestions": [
     {
-      "teamA": "DefendingChampion",
-      "teamB": "Lapointe12",
-      "aSends": {
-        "name": "Tucker Kraft",
-        "pos": "TE",
-        "value": 2371
-      },
-      "bSends": {
-        "name": "Jalen Hurts",
-        "pos": "QB",
-        "value": 2376
-      },
-      "fairness": 99.79
-    },
-    {
       "teamA": "Lapointe12",
       "teamB": "Champ",
       "aSends": {
         "name": "Dalton Kincaid",
         "pos": "TE",
-        "value": 939
+        "value": 947
       },
       "bSends": {
         "name": "Isaiah Likely",
         "pos": "TE",
-        "value": 949
+        "value": 946
       },
-      "fairness": 98.94
+      "fairness": 99.89
+    },
+    {
+      "teamA": "DefendingChampion",
+      "teamB": "Lapointe12",
+      "aSends": {
+        "name": "Tucker Kraft",
+        "pos": "TE",
+        "value": 2384
+      },
+      "bSends": {
+        "name": "Jalen Hurts",
+        "pos": "QB",
+        "value": 2387
+      },
+      "fairness": 99.87
     },
     {
       "teamA": "DefendingChampion",
@@ -368,14 +368,14 @@
       "aSends": {
         "name": "Tucker Kraft",
         "pos": "TE",
-        "value": 2371
+        "value": 2384
       },
       "bSends": {
         "name": "Caleb Williams",
         "pos": "QB",
-        "value": 2492
+        "value": 2493
       },
-      "fairness": 95.02
+      "fairness": 95.53
     },
     {
       "teamA": "DefendingChampion",
@@ -383,14 +383,14 @@
       "aSends": {
         "name": "Trevor Lawrence",
         "pos": "QB",
-        "value": 1629
+        "value": 1649
       },
       "bSends": {
         "name": "Patrick Mahomes",
         "pos": "QB",
-        "value": 1721
+        "value": 1730
       },
-      "fairness": 94.51
+      "fairness": 95.21
     },
     {
       "teamA": "mmcelvaney",
@@ -398,14 +398,14 @@
       "aSends": {
         "name": "Jayden Daniels",
         "pos": "QB",
-        "value": 2126
+        "value": 2127
       },
       "bSends": {
         "name": "Justin Herbert",
         "pos": "QB",
-        "value": 2011
+        "value": 2013
       },
-      "fairness": 94.44
+      "fairness": 94.49
     },
     {
       "teamA": "IR All Stars ",
@@ -413,14 +413,14 @@
       "aSends": {
         "name": "Lamar Jackson",
         "pos": "QB",
-        "value": 4490
+        "value": 4476
       },
       "bSends": {
         "name": "Chris Olave",
         "pos": "WR",
-        "value": 4916
+        "value": 4880
       },
-      "fairness": 90.94
+      "fairness": 91.36
     },
     {
       "teamA": "Crashee and Co.",
@@ -428,29 +428,14 @@
       "aSends": {
         "name": "Rashee Rice",
         "pos": "WR",
-        "value": 3917
+        "value": 3889
       },
       "bSends": {
         "name": "Lamar Jackson",
         "pos": "QB",
-        "value": 4490
+        "value": 4476
       },
-      "fairness": 86.37
-    },
-    {
-      "teamA": "Champ",
-      "teamB": "jhuang24",
-      "aSends": {
-        "name": "Isaiah Likely",
-        "pos": "TE",
-        "value": 949
-      },
-      "bSends": {
-        "name": "Travis Kelce",
-        "pos": "TE",
-        "value": 1097
-      },
-      "fairness": 85.53
+      "fairness": 85.97
     }
   ],
   "waiverRoi": [
@@ -549,6 +534,1420 @@
       "rosterId": 4,
       "week": 1,
       "points": 0
+    }
+  ],
+  "rosters": [
+    {
+      "rosterId": 1,
+      "name": "Crashee and Co.",
+      "manager": "skrishnan",
+      "starters": [
+        {
+          "slot": "QB",
+          "id": "11563",
+          "name": "Bo Nix",
+          "pos": "QB",
+          "nflTeam": "DEN",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "8138",
+          "name": "James Cook",
+          "pos": "RB",
+          "nflTeam": "BUF",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "12527",
+          "name": "Ashton Jeanty",
+          "pos": "RB",
+          "nflTeam": "LV",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "10229",
+          "name": "Rashee Rice",
+          "pos": "WR",
+          "nflTeam": "KC",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "8146",
+          "name": "Garrett Wilson",
+          "pos": "WR",
+          "nflTeam": "NYJ",
+          "points": 0
+        },
+        {
+          "slot": "TE",
+          "id": "4217",
+          "name": "George Kittle",
+          "pos": "TE",
+          "nflTeam": "SF",
+          "points": 0
+        },
+        {
+          "slot": "FLEX",
+          "id": "7543",
+          "name": "Travis Etienne",
+          "pos": "RB",
+          "nflTeam": "NO",
+          "points": 0
+        },
+        {
+          "slot": "K",
+          "id": "3451",
+          "name": "Ka'imi Fairbairn",
+          "pos": "K",
+          "nflTeam": "HOU",
+          "points": 0
+        },
+        {
+          "slot": "DEF",
+          "id": "LV",
+          "name": "Raiders",
+          "pos": "DEF",
+          "nflTeam": "LV",
+          "points": 0
+        }
+      ],
+      "bench": [
+        {
+          "id": "10232",
+          "name": "Michael Wilson",
+          "pos": "WR",
+          "nflTeam": "ARI",
+          "points": 0
+        },
+        {
+          "id": "11583",
+          "name": "Jonathon Brooks",
+          "pos": "RB",
+          "nflTeam": "CAR",
+          "points": 0
+        },
+        {
+          "id": "3214",
+          "name": "Hunter Henry",
+          "pos": "TE",
+          "nflTeam": "NE",
+          "points": 0
+        },
+        {
+          "id": "8167",
+          "name": "Christian Watson",
+          "pos": "WR",
+          "nflTeam": "GB",
+          "points": 0
+        },
+        {
+          "id": "NE",
+          "name": "Patriots",
+          "pos": "DEF",
+          "nflTeam": "NE",
+          "points": 0
+        }
+      ],
+      "ir": []
+    },
+    {
+      "rosterId": 2,
+      "name": "mcooney32",
+      "manager": "mcooney32",
+      "starters": [
+        {
+          "slot": "QB",
+          "id": "6770",
+          "name": "Joe Burrow",
+          "pos": "QB",
+          "nflTeam": "CIN",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "13287",
+          "name": "Jeremiyah Love",
+          "pos": "RB",
+          "nflTeam": "ARI",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "8151",
+          "name": "Kenneth Walker",
+          "pos": "RB",
+          "nflTeam": "KC",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "7564",
+          "name": "Ja'Marr Chase",
+          "pos": "WR",
+          "nflTeam": "CIN",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "5927",
+          "name": "Terry McLaurin",
+          "pos": "WR",
+          "nflTeam": "WAS",
+          "points": 0
+        },
+        {
+          "slot": "TE",
+          "id": "7553",
+          "name": "Kyle Pitts",
+          "pos": "TE",
+          "nflTeam": "ATL",
+          "points": 0
+        },
+        {
+          "slot": "FLEX",
+          "id": "9487",
+          "name": "Parker Washington",
+          "pos": "WR",
+          "nflTeam": "JAX",
+          "points": 0
+        },
+        {
+          "slot": "K",
+          "id": "8259",
+          "name": "Cameron Dicker",
+          "pos": "K",
+          "nflTeam": "LAC",
+          "points": 0
+        },
+        {
+          "slot": "DEF",
+          "id": "PHI",
+          "name": "Eagles",
+          "pos": "DEF",
+          "nflTeam": "PHI",
+          "points": 0
+        }
+      ],
+      "bench": [
+        {
+          "id": "5022",
+          "name": "Dallas Goedert",
+          "pos": "TE",
+          "nflTeam": "PHI",
+          "points": 0
+        },
+        {
+          "id": "5967",
+          "name": "Tony Pollard",
+          "pos": "RB",
+          "nflTeam": "TEN",
+          "points": 0
+        },
+        {
+          "id": "6804",
+          "name": "Jordan Love",
+          "pos": "QB",
+          "nflTeam": "GB",
+          "points": 0
+        },
+        {
+          "id": "8134",
+          "name": "Khalil Shakir",
+          "pos": "WR",
+          "nflTeam": "BUF",
+          "points": 0
+        },
+        {
+          "id": "8142",
+          "name": "Alec Pierce",
+          "pos": "WR",
+          "nflTeam": "IND",
+          "points": 0
+        }
+      ],
+      "ir": []
+    },
+    {
+      "rosterId": 3,
+      "name": "DefendingChampion",
+      "manager": "DelGrosso",
+      "starters": [
+        {
+          "slot": "QB",
+          "id": "7523",
+          "name": "Trevor Lawrence",
+          "pos": "QB",
+          "nflTeam": "JAX",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "11584",
+          "name": "Bucky Irving",
+          "pos": "RB",
+          "nflTeam": "TB",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "12512",
+          "name": "Quinshon Judkins",
+          "pos": "RB",
+          "nflTeam": "CLE",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "9493",
+          "name": "Puka Nacua",
+          "pos": "WR",
+          "nflTeam": "LAR",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "7569",
+          "name": "Nico Collins",
+          "pos": "WR",
+          "nflTeam": "HOU",
+          "points": 0
+        },
+        {
+          "slot": "TE",
+          "id": "9484",
+          "name": "Tucker Kraft",
+          "pos": "TE",
+          "nflTeam": "GB",
+          "points": 0
+        },
+        {
+          "slot": "FLEX",
+          "id": "11632",
+          "name": "Malik Nabers",
+          "pos": "WR",
+          "nflTeam": "NYG",
+          "points": 0
+        },
+        {
+          "slot": "K",
+          "id": "11539",
+          "name": "Jake Bates",
+          "pos": "K",
+          "nflTeam": "DET",
+          "points": 0
+        },
+        {
+          "slot": "DEF",
+          "id": "PIT",
+          "name": "Steelers",
+          "pos": "DEF",
+          "nflTeam": "PIT",
+          "points": 0
+        }
+      ],
+      "bench": [
+        {
+          "id": "12506",
+          "name": "Harold Fannin",
+          "pos": "TE",
+          "nflTeam": "CLE",
+          "points": 0
+        },
+        {
+          "id": "13269",
+          "name": "Fernando Mendoza",
+          "pos": "QB",
+          "nflTeam": "LV",
+          "points": 0
+        },
+        {
+          "id": "7611",
+          "name": "Rhamondre Stevenson",
+          "pos": "RB",
+          "nflTeam": "NE",
+          "points": 0
+        },
+        {
+          "id": "9500",
+          "name": "Josh Downs",
+          "pos": "WR",
+          "nflTeam": "IND",
+          "points": 0
+        },
+        {
+          "id": "9754",
+          "name": "Quentin Johnston",
+          "pos": "WR",
+          "nflTeam": "LAC",
+          "points": 0
+        }
+      ],
+      "ir": []
+    },
+    {
+      "rosterId": 4,
+      "name": "Lapointe12",
+      "manager": "Lapointe12",
+      "starters": [
+        {
+          "slot": "QB",
+          "id": "6904",
+          "name": "Jalen Hurts",
+          "pos": "QB",
+          "nflTeam": "PHI",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "9226",
+          "name": "De'Von Achane",
+          "pos": "RB",
+          "nflTeam": "MIA",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "6790",
+          "name": "D'Andre Swift",
+          "pos": "RB",
+          "nflTeam": "CHI",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "6794",
+          "name": "Justin Jefferson",
+          "pos": "WR",
+          "nflTeam": "MIN",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "12514",
+          "name": "Emeka Egbuka",
+          "pos": "WR",
+          "nflTeam": "TB",
+          "points": 0
+        },
+        {
+          "slot": "TE",
+          "id": "7002",
+          "name": "Juwan Johnson",
+          "pos": "TE",
+          "nflTeam": "NO",
+          "points": 0
+        },
+        {
+          "slot": "FLEX",
+          "id": "9997",
+          "name": "Zay Flowers",
+          "pos": "WR",
+          "nflTeam": "BAL",
+          "points": 0
+        },
+        {
+          "slot": "K",
+          "id": "2747",
+          "name": "Jason Myers",
+          "pos": "K",
+          "nflTeam": "SEA",
+          "points": 0
+        },
+        {
+          "slot": "DEF",
+          "id": "SEA",
+          "name": "Seahawks",
+          "pos": "DEF",
+          "nflTeam": "SEA",
+          "points": 0
+        }
+      ],
+      "bench": [
+        {
+          "id": "10236",
+          "name": "Dalton Kincaid",
+          "pos": "TE",
+          "nflTeam": "BUF",
+          "points": 0
+        },
+        {
+          "id": "12474",
+          "name": "Woody Marks",
+          "pos": "RB",
+          "nflTeam": "HOU",
+          "points": 0
+        },
+        {
+          "id": "4943",
+          "name": "Sam Darnold",
+          "pos": "QB",
+          "nflTeam": "SEA",
+          "points": 0
+        },
+        {
+          "id": "6806",
+          "name": "J.K. Dobbins",
+          "pos": "RB",
+          "nflTeam": "DEN",
+          "points": 0
+        },
+        {
+          "id": "7567",
+          "name": "Kenny Gainwell",
+          "pos": "RB",
+          "nflTeam": "TB",
+          "points": 0
+        }
+      ],
+      "ir": []
+    },
+    {
+      "rosterId": 5,
+      "name": "casper05",
+      "manager": "casper05",
+      "starters": [
+        {
+          "slot": "QB",
+          "id": "5849",
+          "name": "Kyler Murray",
+          "pos": "QB",
+          "nflTeam": "MIN",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "12507",
+          "name": "Omarion Hampton",
+          "pos": "RB",
+          "nflTeam": "LAC",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "12490",
+          "name": "Bhayshul Tuten",
+          "pos": "RB",
+          "nflTeam": "JAX",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "6786",
+          "name": "CeeDee Lamb",
+          "pos": "WR",
+          "nflTeam": "DAL",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "11635",
+          "name": "Ladd McConkey",
+          "pos": "WR",
+          "nflTeam": "LAC",
+          "points": 0
+        },
+        {
+          "slot": "TE",
+          "id": "12518",
+          "name": "Tyler Warren",
+          "pos": "TE",
+          "nflTeam": "IND",
+          "points": 0
+        },
+        {
+          "slot": "FLEX",
+          "id": "7526",
+          "name": "Jaylen Waddle",
+          "pos": "WR",
+          "nflTeam": "DEN",
+          "points": 0
+        },
+        {
+          "slot": "K",
+          "id": "12185",
+          "name": "Spencer Shrader",
+          "pos": "K",
+          "nflTeam": "IND",
+          "points": 0
+        },
+        {
+          "slot": "DEF",
+          "id": "JAX",
+          "name": "Jaguars",
+          "pos": "DEF",
+          "nflTeam": "JAX",
+          "points": 0
+        }
+      ],
+      "bench": [
+        {
+          "id": "10222",
+          "name": "Jayden Reed",
+          "pos": "WR",
+          "nflTeam": "GB",
+          "points": 0
+        },
+        {
+          "id": "11581",
+          "name": "MarShawn Lloyd",
+          "pos": "RB",
+          "nflTeam": "GB",
+          "points": 0
+        },
+        {
+          "id": "12489",
+          "name": "RJ Harvey",
+          "pos": "RB",
+          "nflTeam": "DEN",
+          "points": 0
+        },
+        {
+          "id": "4046",
+          "name": "Patrick Mahomes",
+          "pos": "QB",
+          "nflTeam": "KC",
+          "points": 0
+        },
+        {
+          "id": "8408",
+          "name": "Jordan Mason",
+          "pos": "RB",
+          "nflTeam": "MIN",
+          "points": 0
+        }
+      ],
+      "ir": []
+    },
+    {
+      "rosterId": 6,
+      "name": "Champ",
+      "manager": "Samuraistat",
+      "starters": [
+        {
+          "slot": "QB",
+          "id": "11560",
+          "name": "Caleb Williams",
+          "pos": "QB",
+          "nflTeam": "CHI",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "7588",
+          "name": "Javonte Williams",
+          "pos": "RB",
+          "nflTeam": "DAL",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "5892",
+          "name": "David Montgomery",
+          "pos": "RB",
+          "nflTeam": "HOU",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "7547",
+          "name": "Amon-Ra St. Brown",
+          "pos": "WR",
+          "nflTeam": "DET",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "8112",
+          "name": "Drake London",
+          "pos": "WR",
+          "nflTeam": "ATL",
+          "points": 0
+        },
+        {
+          "slot": "TE",
+          "id": "8131",
+          "name": "Isaiah Likely",
+          "pos": "TE",
+          "nflTeam": "NYG",
+          "points": 0
+        },
+        {
+          "slot": "FLEX",
+          "id": "4983",
+          "name": "DJ Moore",
+          "pos": "WR",
+          "nflTeam": "BUF",
+          "points": 0
+        },
+        {
+          "slot": "K",
+          "id": "1945",
+          "name": "Chris Boswell",
+          "pos": "K",
+          "nflTeam": "PIT",
+          "points": 0
+        },
+        {
+          "slot": "DEF",
+          "id": "DET",
+          "name": "Lions",
+          "pos": "DEF",
+          "nflTeam": "DET",
+          "points": 0
+        }
+      ],
+      "bench": [
+        {
+          "id": "11628",
+          "name": "Marvin Harrison",
+          "pos": "WR",
+          "nflTeam": "ARI",
+          "points": 0
+        },
+        {
+          "id": "12534",
+          "name": "Kyle Monangai",
+          "pos": "RB",
+          "nflTeam": "CHI",
+          "points": 0
+        },
+        {
+          "id": "5870",
+          "name": "Daniel Jones",
+          "pos": "QB",
+          "nflTeam": "IND",
+          "points": 0
+        },
+        {
+          "id": "8132",
+          "name": "Tyler Allgeier",
+          "pos": "RB",
+          "nflTeam": "ARI",
+          "points": 0
+        },
+        {
+          "id": "9482",
+          "name": "Michael Mayer",
+          "pos": "TE",
+          "nflTeam": "LV",
+          "points": 0
+        }
+      ],
+      "ir": []
+    },
+    {
+      "rosterId": 7,
+      "name": "jhuang24",
+      "manager": "jhuang24",
+      "starters": [
+        {
+          "slot": "QB",
+          "id": "4984",
+          "name": "Josh Allen",
+          "pos": "QB",
+          "nflTeam": "BUF",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "9221",
+          "name": "Jahmyr Gibbs",
+          "pos": "RB",
+          "nflTeam": "DET",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "8150",
+          "name": "Kyren Williams",
+          "pos": "RB",
+          "nflTeam": "LAR",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "12519",
+          "name": "Luther Burden",
+          "pos": "WR",
+          "nflTeam": "CHI",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "8148",
+          "name": "Jameson Williams",
+          "pos": "WR",
+          "nflTeam": "DET",
+          "points": 0
+        },
+        {
+          "slot": "TE",
+          "id": "1466",
+          "name": "Travis Kelce",
+          "pos": "TE",
+          "nflTeam": "KC",
+          "points": 0
+        },
+        {
+          "slot": "FLEX",
+          "id": "8228",
+          "name": "Jaylen Warren",
+          "pos": "RB",
+          "nflTeam": "PIT",
+          "points": 0
+        },
+        {
+          "slot": "K",
+          "id": "12713",
+          "name": "Andy Borregales",
+          "pos": "K",
+          "nflTeam": "NE",
+          "points": 0
+        },
+        {
+          "slot": "DEF",
+          "id": "BAL",
+          "name": "Ravens",
+          "pos": "DEF",
+          "nflTeam": "BAL",
+          "points": 0
+        }
+      ],
+      "bench": [
+        {
+          "id": "3163",
+          "name": "Jared Goff",
+          "pos": "QB",
+          "nflTeam": "DET",
+          "points": 0
+        },
+        {
+          "id": "4037",
+          "name": "Chris Godwin",
+          "pos": "WR",
+          "nflTeam": "TB",
+          "points": 0
+        },
+        {
+          "id": "4199",
+          "name": "Aaron Jones",
+          "pos": "RB",
+          "nflTeam": "MIN",
+          "points": 0
+        },
+        {
+          "id": "5846",
+          "name": "DK Metcalf",
+          "pos": "WR",
+          "nflTeam": "PIT",
+          "points": 0
+        },
+        {
+          "id": "5872",
+          "name": "Deebo Samuel",
+          "pos": "WR",
+          "nflTeam": "SF",
+          "points": 0
+        }
+      ],
+      "ir": []
+    },
+    {
+      "rosterId": 8,
+      "name": "IR All Stars ",
+      "manager": "mattyicr",
+      "starters": [
+        {
+          "slot": "QB",
+          "id": "4881",
+          "name": "Lamar Jackson",
+          "pos": "QB",
+          "nflTeam": "BAL",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "9509",
+          "name": "Bijan Robinson",
+          "pos": "RB",
+          "nflTeam": "ATL",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "7021",
+          "name": "Rico Dowdle",
+          "pos": "RB",
+          "nflTeam": "PIT",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "8137",
+          "name": "George Pickens",
+          "pos": "WR",
+          "nflTeam": "DAL",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "2449",
+          "name": "Stefon Diggs",
+          "pos": "WR",
+          "nflTeam": "WAS",
+          "points": 0
+        },
+        {
+          "slot": "TE",
+          "id": "8130",
+          "name": "Trey McBride",
+          "pos": "TE",
+          "nflTeam": "ARI",
+          "points": 0
+        },
+        {
+          "slot": "FLEX",
+          "id": "11620",
+          "name": "Rome Odunze",
+          "pos": "WR",
+          "nflTeam": "CHI",
+          "points": 0
+        },
+        {
+          "slot": "K",
+          "id": "11786",
+          "name": "Cam Little",
+          "pos": "K",
+          "nflTeam": "JAX",
+          "points": 0
+        },
+        {
+          "slot": "DEF",
+          "id": "LAR",
+          "name": "Rams",
+          "pos": "DEF",
+          "nflTeam": "LAR",
+          "points": 0
+        }
+      ],
+      "bench": [
+        {
+          "id": "10213",
+          "name": "Tre Tucker",
+          "pos": "WR",
+          "nflTeam": "LV",
+          "points": 0
+        },
+        {
+          "id": "12529",
+          "name": "TreVeyon Henderson",
+          "pos": "RB",
+          "nflTeam": "NE",
+          "points": 0
+        },
+        {
+          "id": "13281",
+          "name": "Jordyn Tyson",
+          "pos": "WR",
+          "nflTeam": "NO",
+          "points": 0
+        },
+        {
+          "id": "13305",
+          "name": "Mike Washington",
+          "pos": "RB",
+          "nflTeam": "LV",
+          "points": 0
+        },
+        {
+          "id": "5844",
+          "name": "T.J. Hockenson",
+          "pos": "TE",
+          "nflTeam": "MIN",
+          "points": 0
+        }
+      ],
+      "ir": [
+        {
+          "id": "9502",
+          "name": "Tank Dell",
+          "pos": "WR",
+          "nflTeam": "HOU",
+          "points": 0
+        }
+      ]
+    },
+    {
+      "rosterId": 9,
+      "name": "Schmiddy1",
+      "manager": "Schmiddy1",
+      "starters": [
+        {
+          "slot": "QB",
+          "id": "11564",
+          "name": "Drake Maye",
+          "pos": "QB",
+          "nflTeam": "NE",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "4034",
+          "name": "Christian McCaffrey",
+          "pos": "RB",
+          "nflTeam": "SF",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "3198",
+          "name": "Derrick Henry",
+          "pos": "RB",
+          "nflTeam": "BAL",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "7525",
+          "name": "DeVonta Smith",
+          "pos": "WR",
+          "nflTeam": "PHI",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "2133",
+          "name": "Davante Adams",
+          "pos": "WR",
+          "nflTeam": "LAR",
+          "points": 0
+        },
+        {
+          "slot": "TE",
+          "id": "10859",
+          "name": "Sam LaPorta",
+          "pos": "TE",
+          "nflTeam": "DET",
+          "points": 0
+        },
+        {
+          "slot": "FLEX",
+          "id": "7594",
+          "name": "Chuba Hubbard",
+          "pos": "RB",
+          "nflTeam": "CAR",
+          "points": 0
+        },
+        {
+          "slot": "K",
+          "id": "4227",
+          "name": "Harrison Butker",
+          "pos": "K",
+          "nflTeam": "KC",
+          "points": 0
+        },
+        {
+          "slot": "DEF",
+          "id": "DEN",
+          "name": "Broncos",
+          "pos": "DEF",
+          "nflTeam": "DEN",
+          "points": 0
+        }
+      ],
+      "bench": [
+        {
+          "id": "11624",
+          "name": "Xavier Worthy",
+          "pos": "WR",
+          "nflTeam": "KC",
+          "points": 0
+        },
+        {
+          "id": "13294",
+          "name": "Makai Lemon",
+          "pos": "WR",
+          "nflTeam": "PHI",
+          "points": 0
+        },
+        {
+          "id": "13298",
+          "name": "KC Concepcion",
+          "pos": "WR",
+          "nflTeam": "CLE",
+          "points": 0
+        },
+        {
+          "id": "8126",
+          "name": "Wan'Dale Robinson",
+          "pos": "WR",
+          "nflTeam": "TEN",
+          "points": 0
+        },
+        {
+          "id": "8183",
+          "name": "Brock Purdy",
+          "pos": "QB",
+          "nflTeam": "SF",
+          "points": 0
+        }
+      ],
+      "ir": []
+    },
+    {
+      "rosterId": 10,
+      "name": "Team t-hart",
+      "manager": "tchamihart",
+      "starters": [
+        {
+          "slot": "QB",
+          "id": "4892",
+          "name": "Baker Mayfield",
+          "pos": "QB",
+          "nflTeam": "TB",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "13286",
+          "name": "Jadarian Price",
+          "pos": "RB",
+          "nflTeam": "SEA",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "8155",
+          "name": "Breece Hall",
+          "pos": "RB",
+          "nflTeam": "NYJ",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "9488",
+          "name": "Jaxon Smith-Njigba",
+          "pos": "WR",
+          "nflTeam": "SEA",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "5859",
+          "name": "A.J. Brown",
+          "pos": "WR",
+          "nflTeam": "NE",
+          "points": 0
+        },
+        {
+          "slot": "TE",
+          "id": "5012",
+          "name": "Mark Andrews",
+          "pos": "TE",
+          "nflTeam": "BAL",
+          "points": 0
+        },
+        {
+          "slot": "FLEX",
+          "id": "6801",
+          "name": "Tee Higgins",
+          "pos": "WR",
+          "nflTeam": "CIN",
+          "points": 0
+        },
+        {
+          "slot": "K",
+          "id": "11792",
+          "name": "Will Reichard",
+          "pos": "K",
+          "nflTeam": "MIN",
+          "points": 0
+        },
+        {
+          "slot": "DEF",
+          "id": "MIN",
+          "name": "Vikings",
+          "pos": "DEF",
+          "nflTeam": "MIN",
+          "points": 0
+        }
+      ],
+      "bench": [
+        {
+          "id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "pos": "RB",
+          "nflTeam": "WAS",
+          "points": 0
+        },
+        {
+          "id": "5045",
+          "name": "Courtland Sutton",
+          "pos": "WR",
+          "nflTeam": "DEN",
+          "points": 0
+        },
+        {
+          "id": "5850",
+          "name": "Josh Jacobs",
+          "pos": "RB",
+          "nflTeam": "GB",
+          "points": 0
+        },
+        {
+          "id": "6819",
+          "name": "Michael Pittman",
+          "pos": "WR",
+          "nflTeam": "PIT",
+          "points": 0
+        },
+        {
+          "id": "9756",
+          "name": "Jordan Addison",
+          "pos": "WR",
+          "nflTeam": "MIN",
+          "points": 0
+        }
+      ],
+      "ir": []
+    },
+    {
+      "rosterId": 11,
+      "name": "mmcelvaney",
+      "manager": "mmcelvaney",
+      "starters": [
+        {
+          "slot": "QB",
+          "id": "11566",
+          "name": "Jayden Daniels",
+          "pos": "QB",
+          "nflTeam": "WAS",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "6813",
+          "name": "Jonathan Taylor",
+          "pos": "RB",
+          "nflTeam": "IND",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "12481",
+          "name": "Cam Skattebo",
+          "pos": "RB",
+          "nflTeam": "NYG",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "12526",
+          "name": "Tetairoa McMillan",
+          "pos": "WR",
+          "nflTeam": "CAR",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "2216",
+          "name": "Mike Evans",
+          "pos": "WR",
+          "nflTeam": "SF",
+          "points": 0
+        },
+        {
+          "slot": "TE",
+          "id": "8110",
+          "name": "Jake Ferguson",
+          "pos": "TE",
+          "nflTeam": "DAL",
+          "points": 0
+        },
+        {
+          "slot": "FLEX",
+          "id": "11646",
+          "name": "Jalen Coker",
+          "pos": "WR",
+          "nflTeam": "CAR",
+          "points": 0
+        },
+        {
+          "slot": "K",
+          "id": "11533",
+          "name": "Brandon Aubrey",
+          "pos": "K",
+          "nflTeam": "DAL",
+          "points": 0
+        },
+        {
+          "slot": "DEF",
+          "id": "HOU",
+          "name": "Texans",
+          "pos": "DEF",
+          "nflTeam": "HOU",
+          "points": 0
+        }
+      ],
+      "bench": [
+        {
+          "id": "11604",
+          "name": "Brock Bowers",
+          "pos": "TE",
+          "nflTeam": "LV",
+          "points": 0
+        },
+        {
+          "id": "13346",
+          "name": "Denzel Boston",
+          "pos": "WR",
+          "nflTeam": "CLE",
+          "points": 0
+        },
+        {
+          "id": "5947",
+          "name": "Jakobi Meyers",
+          "pos": "WR",
+          "nflTeam": "JAX",
+          "points": 0
+        },
+        {
+          "id": "8676",
+          "name": "Rashid Shaheed",
+          "pos": "WR",
+          "nflTeam": "SEA",
+          "points": 0
+        },
+        {
+          "id": "9508",
+          "name": "Tyjae Spears",
+          "pos": "RB",
+          "nflTeam": "TEN",
+          "points": 0
+        }
+      ],
+      "ir": []
+    },
+    {
+      "rosterId": 12,
+      "name": "hniehaus",
+      "manager": "hniehaus",
+      "starters": [
+        {
+          "slot": "QB",
+          "id": "6797",
+          "name": "Justin Herbert",
+          "pos": "QB",
+          "nflTeam": "LAC",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "4866",
+          "name": "Saquon Barkley",
+          "pos": "RB",
+          "nflTeam": "PHI",
+          "points": 0
+        },
+        {
+          "slot": "RB",
+          "id": "9224",
+          "name": "Chase Brown",
+          "pos": "RB",
+          "nflTeam": "CIN",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "8144",
+          "name": "Chris Olave",
+          "pos": "WR",
+          "nflTeam": "NO",
+          "points": 0
+        },
+        {
+          "slot": "WR",
+          "id": "13279",
+          "name": "Carnell Tate",
+          "pos": "WR",
+          "nflTeam": "TEN",
+          "points": 0
+        },
+        {
+          "slot": "TE",
+          "id": "12517",
+          "name": "Colston Loveland",
+          "pos": "TE",
+          "nflTeam": "CHI",
+          "points": 0
+        },
+        {
+          "slot": "FLEX",
+          "id": "11631",
+          "name": "Brian Thomas",
+          "pos": "WR",
+          "nflTeam": "JAX",
+          "points": 0
+        },
+        {
+          "slot": "K",
+          "id": "12015",
+          "name": "Harrison Mevis",
+          "pos": "K",
+          "nflTeam": "LAR",
+          "points": 0
+        },
+        {
+          "slot": "DEF",
+          "id": "SF",
+          "name": "49ers",
+          "pos": "DEF",
+          "nflTeam": "SF",
+          "points": 0
+        }
+      ],
+      "bench": [
+        {
+          "id": "11586",
+          "name": "Blake Corum",
+          "pos": "RB",
+          "nflTeam": "LAR",
+          "points": 0
+        },
+        {
+          "id": "12508",
+          "name": "Jaxson Dart",
+          "pos": "QB",
+          "nflTeam": "NYG",
+          "points": 0
+        },
+        {
+          "id": "13417",
+          "name": "De'Zhaun Stribling",
+          "pos": "WR",
+          "nflTeam": "SF",
+          "points": 0
+        },
+        {
+          "id": "421",
+          "name": "Matthew Stafford",
+          "pos": "QB",
+          "nflTeam": "LAR",
+          "points": 0
+        },
+        {
+          "id": "8136",
+          "name": "Rachaad White",
+          "pos": "RB",
+          "nflTeam": "WAS",
+          "points": 0
+        }
+      ],
+      "ir": []
     }
   ],
   "recaps": {}
