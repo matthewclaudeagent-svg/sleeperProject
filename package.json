@@ -1,0 +1,12 @@
+{
+  "name": "sofi-finance-league-dashboard",
+  "version": "1.0.0",
+  "description": "Static Sleeper fantasy football league dashboard. Builds data.json from the Sleeper API; no runtime dependencies.",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node build.js"
+  }
+}
