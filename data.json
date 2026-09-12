@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T05:04:51.285Z",
+  "generatedAt": "2026-09-12T18:45:46.069Z",
   "season": "2026",
   "currentWeek": 1,
   "league": {
@@ -25,8 +25,8 @@
       "allPlayLosses": 0,
       "efficiency": 100,
       "benchPoints": 0,
-      "playoffOdds": 99.95,
-      "topSeedOdds": 68.38,
+      "playoffOdds": 99.91,
+      "topSeedOdds": 68.03,
       "avgPoints": 39.6,
       "weekly": [
         {
@@ -51,8 +51,8 @@
       "allPlayLosses": 1,
       "efficiency": 77.64,
       "benchPoints": 9.28,
-      "playoffOdds": 99.37,
-      "topSeedOdds": 23.86,
+      "playoffOdds": 99.31,
+      "topSeedOdds": 24,
       "avgPoints": 32.22,
       "weekly": [
         {
@@ -77,8 +77,8 @@
       "allPlayLosses": 2,
       "efficiency": 54.43,
       "benchPoints": 18,
-      "playoffOdds": 93.21,
-      "topSeedOdds": 4.41,
+      "playoffOdds": 92.72,
+      "topSeedOdds": 4.59,
       "avgPoints": 21.5,
       "weekly": [
         {
@@ -103,7 +103,7 @@
       "allPlayLosses": 4,
       "efficiency": 92.35,
       "benchPoints": 1.4,
-      "playoffOdds": 83.55,
+      "playoffOdds": 82.56,
       "topSeedOdds": 1.71,
       "avgPoints": 16.9,
       "weekly": [
@@ -129,8 +129,8 @@
       "allPlayLosses": 5,
       "efficiency": 46.1,
       "benchPoints": 14.5,
-      "playoffOdds": 65.22,
-      "topSeedOdds": 0.57,
+      "playoffOdds": 65.88,
+      "topSeedOdds": 0.65,
       "avgPoints": 12.4,
       "weekly": [
         {
@@ -155,8 +155,8 @@
       "allPlayLosses": 8,
       "efficiency": 100,
       "benchPoints": 0,
-      "playoffOdds": 17,
-      "topSeedOdds": 0.02,
+      "playoffOdds": 16.78,
+      "topSeedOdds": 0.01,
       "avgPoints": 2,
       "weekly": [
         {
@@ -181,8 +181,8 @@
       "allPlayLosses": 3,
       "efficiency": 97.47,
       "benchPoints": 0.52,
-      "playoffOdds": 80.44,
-      "topSeedOdds": 0.93,
+      "playoffOdds": 81.45,
+      "topSeedOdds": 0.97,
       "avgPoints": 20,
       "weekly": [
         {
@@ -207,8 +207,8 @@
       "allPlayLosses": 6,
       "efficiency": 51.16,
       "benchPoints": 10.5,
-      "playoffOdds": 41.64,
-      "topSeedOdds": 0.12,
+      "playoffOdds": 41.95,
+      "topSeedOdds": 0.04,
       "avgPoints": 11,
       "weekly": [
         {
@@ -233,7 +233,7 @@
       "allPlayLosses": 7,
       "efficiency": 21.62,
       "benchPoints": 11.6,
-      "playoffOdds": 7.82,
+      "playoffOdds": 8.3,
       "topSeedOdds": 0,
       "avgPoints": 3.2,
       "weekly": [
@@ -259,7 +259,7 @@
       "allPlayLosses": 9,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 4.17,
+      "playoffOdds": 4.07,
       "topSeedOdds": 0,
       "avgPoints": 0,
       "weekly": [
@@ -285,7 +285,7 @@
       "allPlayLosses": 10,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 2.69,
+      "playoffOdds": 2.51,
       "topSeedOdds": 0,
       "avgPoints": 0,
       "weekly": [
@@ -311,7 +311,7 @@
       "allPlayLosses": 11,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 4.94,
+      "playoffOdds": 4.56,
       "topSeedOdds": 0,
       "avgPoints": 0,
       "weekly": [
@@ -465,33 +465,33 @@
   "tradeSuggestions": [
     {
       "teamA": "DefendingChampion",
-      "teamB": "casper05",
-      "aSends": {
-        "name": "Trevor Lawrence",
-        "pos": "QB",
-        "value": 1705
-      },
-      "bSends": {
-        "name": "Patrick Mahomes",
-        "pos": "QB",
-        "value": 1690
-      },
-      "fairness": 99.12
-    },
-    {
-      "teamA": "DefendingChampion",
       "teamB": "Lapointe12",
       "aSends": {
         "name": "Tucker Kraft",
         "pos": "TE",
-        "value": 2437
+        "value": 2371
       },
       "bSends": {
         "name": "Jalen Hurts",
         "pos": "QB",
-        "value": 2529
+        "value": 2376
       },
-      "fairness": 96.29
+      "fairness": 99.79
+    },
+    {
+      "teamA": "Lapointe12",
+      "teamB": "Champ",
+      "aSends": {
+        "name": "Dalton Kincaid",
+        "pos": "TE",
+        "value": 939
+      },
+      "bSends": {
+        "name": "Isaiah Likely",
+        "pos": "TE",
+        "value": 949
+      },
+      "fairness": 98.94
     },
     {
       "teamA": "DefendingChampion",
@@ -499,14 +499,29 @@
       "aSends": {
         "name": "Tucker Kraft",
         "pos": "TE",
-        "value": 2437
+        "value": 2371
       },
       "bSends": {
         "name": "Caleb Williams",
         "pos": "QB",
-        "value": 2602
+        "value": 2492
       },
-      "fairness": 93.45
+      "fairness": 95.02
+    },
+    {
+      "teamA": "DefendingChampion",
+      "teamB": "casper05",
+      "aSends": {
+        "name": "Trevor Lawrence",
+        "pos": "QB",
+        "value": 1629
+      },
+      "bSends": {
+        "name": "Patrick Mahomes",
+        "pos": "QB",
+        "value": 1721
+      },
+      "fairness": 94.51
     },
     {
       "teamA": "mmcelvaney",
@@ -514,44 +529,14 @@
       "aSends": {
         "name": "Jayden Daniels",
         "pos": "QB",
-        "value": 2116
+        "value": 2126
       },
       "bSends": {
         "name": "Justin Herbert",
         "pos": "QB",
-        "value": 1976
+        "value": 2011
       },
-      "fairness": 93.16
-    },
-    {
-      "teamA": "Lapointe12",
-      "teamB": "jhuang24",
-      "aSends": {
-        "name": "Dalton Kincaid",
-        "pos": "TE",
-        "value": 998
-      },
-      "bSends": {
-        "name": "Travis Kelce",
-        "pos": "TE",
-        "value": 1080
-      },
-      "fairness": 92.11
-    },
-    {
-      "teamA": "Lapointe12",
-      "teamB": "Champ",
-      "aSends": {
-        "name": "Dalton Kincaid",
-        "pos": "TE",
-        "value": 998
-      },
-      "bSends": {
-        "name": "Isaiah Likely",
-        "pos": "TE",
-        "value": 920
-      },
-      "fairness": 91.87
+      "fairness": 94.44
     },
     {
       "teamA": "IR All Stars ",
@@ -559,14 +544,14 @@
       "aSends": {
         "name": "Lamar Jackson",
         "pos": "QB",
-        "value": 4460
+        "value": 4490
       },
       "bSends": {
         "name": "Chris Olave",
         "pos": "WR",
-        "value": 4921
+        "value": 4916
       },
-      "fairness": 90.17
+      "fairness": 90.94
     },
     {
       "teamA": "Crashee and Co.",
@@ -574,29 +559,29 @@
       "aSends": {
         "name": "Rashee Rice",
         "pos": "WR",
-        "value": 3919
+        "value": 3917
       },
       "bSends": {
         "name": "Lamar Jackson",
         "pos": "QB",
-        "value": 4460
+        "value": 4490
       },
-      "fairness": 87.09
+      "fairness": 86.37
     },
     {
-      "teamA": "DefendingChampion",
-      "teamB": "hniehaus",
+      "teamA": "Champ",
+      "teamB": "jhuang24",
       "aSends": {
-        "name": "Trevor Lawrence",
-        "pos": "QB",
-        "value": 1705
+        "name": "Isaiah Likely",
+        "pos": "TE",
+        "value": 949
       },
       "bSends": {
-        "name": "Justin Herbert",
-        "pos": "QB",
-        "value": 1976
+        "name": "Travis Kelce",
+        "pos": "TE",
+        "value": 1097
       },
-      "fairness": 85.28
+      "fairness": 85.53
     }
   ],
   "waiverRoi": [
@@ -697,5 +682,7 @@
       "points": 0
     }
   ],
-  "recaps": {}
+  "recaps": {
+    "1": "Week 1 of SoFi Finance Fantasy is in the books, and what a way to kick off the season. Team t-hart came out swinging with a league-high 39.6 points, which is honestly impressive for week 1 and slightly concerning for everyone else. They also had the pleasure of facing Champ, who put up a historic 0 points — not 0.0, not a rounding error, just pure, uncut zero. That's a full bye week's worth of production. The blowout margin was 39.6 points, which means the score difference was literally the entire winning score. Champ, buddy, we need to talk. Did you draft? Did you set a lineup? Are you okay?\n\nOn the other end of the drama spectrum, DefendingChampion squeaked by hniehaus by just 1.4 points in the week's nail-biter, 12.4 to 11. Both of those scores are bad enough that neither team should feel great about it, but DefendingChampion gets to feel slightly less bad, which is apparently what defending a championship looks like in this league. hniehaus, you lost to a team that barely cracked double digits. Let that marinate.\n\nSpecial shoutout to IR All Stars, who scored a whopping 2 points and somehow still won their matchup. Two points. The name \"IR All Stars\" is doing a lot of heavy lifting as a self-own, and yet the football gods smiled upon them anyway. Meanwhile, Lapointe12 scored 20 points — a genuinely respectable week 1 total — and still lost, making them this week's unluckiest team. Twenty points, a loss, and they have to watch IR All Stars celebrate with their 2-point victory. Justice is dead.\n\nRounding out the carnage, mcooney32 and casper05 join Champ in the 0-point club, which is a support group no one asked to be part of. Three teams. Zero points. Combined. The SoFi finance office may want to schedule a mandatory fantasy football tutorial during lunch. Schmiddy1 (32.22) and jhuang24 (21.5) round out the winners looking sharp, while Crashee and Co. limps in at 3.2 points, narrowly avoiding the goose egg but not narrowly avoiding embarrassment. See everyone in week 2 — hopefully with lineups actually set this time."
+  }
 }
