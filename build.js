@@ -1,4 +1,4 @@
-// Builds data.json for the SoFi Finance league dashboard.
+// Builds data.json for the Finance League dashboard.
 // Run: node build.js   (Node 20+, no dependencies)
 
 const fs = require('fs');
@@ -523,7 +523,7 @@ async function buildRecaps(weeklyAwards, teams, currentWeek) {
     .map((t, i) => `${i + 1}. ${t.name} (${t.wins}-${t.losses}, ${round(t.pointsFor)} PF)`)
     .join('\n');
 
-  const prompt = `Write a fantasy football weekly recap for a 12-team full-PPR league called SoFi Finance, played among coworkers. This is week ${lastComplete}.
+  const prompt = `Write a fantasy football weekly recap for a 12-team full-PPR league called the Finance League, played among coworkers. This is week ${lastComplete}.
 
 Awards this week:
 ${JSON.stringify(awards, null, 2)}

@@ -4,8 +4,11 @@ Context for Claude Code. Read this before making changes.
 
 ## What this is
 
-A static fantasy football dashboard for a 12-team Sleeper league of SoFi
+A static fantasy football dashboard for a 12-team Sleeper league played among
 coworkers. GitHub Actions rebuilds `data.json` hourly; GitHub Pages serves it.
+
+The site is public, so keep real-world identifying detail out of it: no employer,
+no full names, nothing tying the managers to where they work.
 
 Read `README.md` for setup and the full feature list. This file covers how to
 work on the code.
@@ -55,13 +58,12 @@ this needs a real assignment algorithm.
 
 ## Design
 
-The palette is SoFi's actual brand colors, defined as CSS custom properties at
-the top of `index.html`:
+The palette is defined as CSS custom properties at the top of `index.html`:
 
 | Token | Light | Dark |
 | --- | --- | --- |
 | `--ink` | `#201747` Valhalla | `#ECE9F8` |
-| `--cyan` | `#00A2C7` SoFi Blue | `#2DC6F2` |
+| `--cyan` | `#00A2C7` | `#2DC6F2` |
 | `--bright` | `#2DC6F2` Picton | `#66DBFF` |
 | `--rose` | `#D64570` | `#FF6B9D` |
 

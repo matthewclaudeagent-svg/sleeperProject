@@ -1,4 +1,4 @@
-# SoFi Finance — League Dashboard
+# Finance League — Dashboard
 
 A static dashboard for a 12-team full-PPR Sleeper league. A GitHub Actions cron
 rebuilds `data.json` every hour; GitHub Pages serves the page. No server, no
