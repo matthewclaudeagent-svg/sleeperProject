@@ -17,9 +17,13 @@ work on the code.
 
 **All computation lives in `build.js`. The page renders, it does not calculate.**
 If you find yourself writing math in `index.html`, it belongs in the build script
-and should be written into `data.json` instead. The only exception is the live
-score section, which fetches Sleeper directly because an hourly cron can't cover
-Sunday afternoon.
+and should be written into `data.json` instead. The only exception is live
+scoring, which fetches Sleeper directly because an hourly cron can't cover Sunday
+afternoon. That one poll feeds two things: the live game cards, and the "This
+week" column on the Rosters tab, which it rewrites in place by `data-live`
+player id. `build.js` still writes a `livePoints` value for every player as the
+hourly fallback, so the column is right even if the browser's request to Sleeper
+never lands.
 
 **No dependencies.** Both files are plain JavaScript, no build step, no bundler,
 no framework, no CSS library. Node 20's built-in `fetch` covers all HTTP. Adding

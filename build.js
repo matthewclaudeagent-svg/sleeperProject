@@ -177,6 +177,7 @@ async function main() {
   const h2h = {};
   const remainingGames = [];
   const playerPoints = {};
+  const livePoints = {};
 
   allMatchups.forEach((matchups, idx) => {
     const week = idx + 1;
@@ -193,6 +194,17 @@ async function main() {
     }
 
     if (!played) {
+      // The week in progress still has real per-player points. They are wrong to
+      // score as final, but right to show on a roster, so they are kept apart
+      // from playerPoints. The page overwrites these from its own live poll;
+      // this is the hourly fallback for when that request cannot get through.
+      if (week === currentWeek) {
+        for (const m of matchups) {
+          for (const [playerId, pts] of Object.entries(m.players_points || {})) {
+            livePoints[playerId] = (livePoints[playerId] || 0) + pts;
+          }
+        }
+      }
       for (const pair of Object.values(pairs)) {
         if (pair.length === 2) remainingGames.push([pair[0].roster_id, pair[1].roster_id]);
       }
@@ -405,6 +417,7 @@ async function main() {
     pos: players[id] ? players[id].pos : null,
     nflTeam: players[id] ? players[id].team : null,
     points: round(playerPoints[id] || 0),
+    livePoints: round(livePoints[id] || 0),
   });
 
   const rosterDetail = rosters.map((r) => {

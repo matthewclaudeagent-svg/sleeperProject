@@ -262,6 +262,14 @@ svg { display: block; width: 100%; height: auto; }
 .roster table { font-size: 14px; }
 .roster td.name { font-weight: 400; }
 .roster table.starters td:first-child { color: var(--ink-2); }
+.live-pts { color: var(--ink-2); }
+@media (prefers-reduced-motion: no-preference) {
+  .live-pts.bumped { animation: bump 1.2s ease-out; }
+}
+@keyframes bump {
+  0% { color: var(--bright); }
+  100% { color: var(--ink-2); }
+}
 
 /* ---------- recap ---------- */
 
@@ -415,6 +423,7 @@ function table(node, headers, rows) {
     cells.forEach((c, i) => {
       const td = el('td', i === 0 ? 'name' : (c && c.cls) || null);
       td.textContent = c && c.text != null ? c.text : c;
+      if (c && c.live) td.dataset.live = c.live;
       tr.appendChild(td);
     });
     tbody.appendChild(tr);
@@ -528,7 +537,13 @@ function renderRosters(d) {
     wrap.appendChild(node);
     card.appendChild(wrap);
   };
-  const line = (p) => [p.name, p.pos || '—', p.nflTeam || '—', { text: fmt(p.points), cls: 'pos' }];
+  const line = (p) => [
+    p.name,
+    p.pos || '—',
+    p.nflTeam || '—',
+    { text: fmt(p.points), cls: 'pos' },
+    { text: fmt(p.livePoints || 0), cls: 'live-pts', live: p.id || undefined },
+  ];
 
   d.teams.forEach((t) => {
     const r = byId[t.rosterId];
@@ -539,11 +554,11 @@ function renderRosters(d) {
     head.appendChild(el('div', 'sub', r.manager));
     card.appendChild(head);
 
-    section(card, 'Starters', 'starters', ['Slot', 'Player', 'Pos', 'Team', 'Points'],
+    section(card, 'Starters', 'starters', ['Slot', 'Player', 'Pos', 'Team', 'Points', 'This week'],
       r.starters.map((p) => [p.slot, ...line(p)]));
-    section(card, 'Bench', null, ['Player', 'Pos', 'Team', 'Points'],
+    section(card, 'Bench', null, ['Player', 'Pos', 'Team', 'Points', 'This week'],
       r.bench.map(line));
-    section(card, 'Injured reserve', null, ['Player', 'Pos', 'Team', 'Points'],
+    section(card, 'Injured reserve', null, ['Player', 'Pos', 'Team', 'Points', 'This week'],
       (r.ir || []).map(line));
 
     host.appendChild(card);
@@ -705,12 +720,34 @@ function renderRecap(d) {
 
 /* ---------- live scores ---------- */
 
+function updateLivePlayerPoints(matchups) {
+  const pts = {};
+  matchups.forEach((m) => {
+    Object.entries(m.players_points || {}).forEach(([id, p]) => { pts[id] = p; });
+  });
+  document.querySelectorAll('[data-live]').forEach((td) => {
+    const v = pts[td.dataset.live];
+    if (v == null) return;
+    const next = fmt(v);
+    if (td.textContent === next) return;
+    td.textContent = next;
+    td.classList.remove('bumped');
+    void td.offsetWidth;
+    td.classList.add('bumped');
+  });
+}
+
 async function pollLive() {
   if (!DATA) return;
   try {
     const res = await fetch(`https://api.sleeper.app/v1/league/${LEAGUE_ID}/matchups/${DATA.currentWeek}`);
     if (!res.ok) throw new Error(res.status);
     const matchups = await res.json();
+
+    // Roster points tick even before any team total moves, so this runs ahead of
+    // the in-progress check below.
+    updateLivePlayerPoints(matchups);
+
     if (!matchups.some((m) => m.points > 0)) { document.getElementById('live-wrap').innerHTML = ''; return; }
 
     const nameBy = {};
