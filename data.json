@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T14:44:35.033Z",
+  "generatedAt": "2026-09-13T17:47:16.807Z",
   "season": "2026",
   "currentWeek": 1,
   "league": {
@@ -25,8 +25,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 50.37,
-      "topSeedOdds": 8.55,
+      "playoffOdds": 49.32,
+      "topSeedOdds": 8.58,
       "avgPoints": 100,
       "weekly": []
     },
@@ -44,8 +44,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 50.57,
-      "topSeedOdds": 8.31,
+      "playoffOdds": 50.27,
+      "topSeedOdds": 8.69,
       "avgPoints": 100,
       "weekly": []
     },
@@ -63,8 +63,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 49.44,
-      "topSeedOdds": 8.43,
+      "playoffOdds": 50.32,
+      "topSeedOdds": 8.49,
       "avgPoints": 100,
       "weekly": []
     },
@@ -82,8 +82,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 50.17,
-      "topSeedOdds": 8.29,
+      "playoffOdds": 49.64,
+      "topSeedOdds": 8.12,
       "avgPoints": 100,
       "weekly": []
     },
@@ -101,8 +101,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 49.73,
-      "topSeedOdds": 8.41,
+      "playoffOdds": 50.43,
+      "topSeedOdds": 8.34,
       "avgPoints": 100,
       "weekly": []
     },
@@ -120,8 +120,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 49.74,
-      "topSeedOdds": 7.93,
+      "playoffOdds": 49.38,
+      "topSeedOdds": 8.25,
       "avgPoints": 100,
       "weekly": []
     },
@@ -139,8 +139,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 50.34,
-      "topSeedOdds": 8.35,
+      "playoffOdds": 50.53,
+      "topSeedOdds": 8.65,
       "avgPoints": 100,
       "weekly": []
     },
@@ -158,8 +158,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 50.22,
-      "topSeedOdds": 8.56,
+      "playoffOdds": 49.82,
+      "topSeedOdds": 8.45,
       "avgPoints": 100,
       "weekly": []
     },
@@ -177,8 +177,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 49.45,
-      "topSeedOdds": 8.24,
+      "playoffOdds": 49.48,
+      "topSeedOdds": 7.96,
       "avgPoints": 100,
       "weekly": []
     },
@@ -196,8 +196,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 49.84,
-      "topSeedOdds": 7.93,
+      "playoffOdds": 50.05,
+      "topSeedOdds": 7.85,
       "avgPoints": 100,
       "weekly": []
     },
@@ -215,8 +215,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 49.87,
-      "topSeedOdds": 8.55,
+      "playoffOdds": 49.99,
+      "topSeedOdds": 8.57,
       "avgPoints": 100,
       "weekly": []
     },
@@ -234,8 +234,8 @@
       "allPlayLosses": 0,
       "efficiency": null,
       "benchPoints": 0,
-      "playoffOdds": 50.26,
-      "topSeedOdds": 8.45,
+      "playoffOdds": 50.77,
+      "topSeedOdds": 8.05,
       "avgPoints": 100,
       "weekly": []
     }
@@ -338,14 +338,14 @@
       "aSends": {
         "name": "Trevor Lawrence",
         "pos": "QB",
-        "value": 1644
+        "value": 1657
       },
       "bSends": {
         "name": "Patrick Mahomes",
         "pos": "QB",
-        "value": 1677
+        "value": 1664
       },
-      "fairness": 98.01
+      "fairness": 99.58
     },
     {
       "teamA": "Lapointe12",
@@ -353,14 +353,14 @@
       "aSends": {
         "name": "Dalton Kincaid",
         "pos": "TE",
-        "value": 939
+        "value": 937
       },
       "bSends": {
         "name": "Isaiah Likely",
         "pos": "TE",
-        "value": 920
+        "value": 922
       },
-      "fairness": 97.96
+      "fairness": 98.39
     },
     {
       "teamA": "DefendingChampion",
@@ -368,14 +368,14 @@
       "aSends": {
         "name": "Tucker Kraft",
         "pos": "TE",
-        "value": 2378
+        "value": 2351
       },
       "bSends": {
         "name": "Caleb Williams",
         "pos": "QB",
-        "value": 2437
+        "value": 2405
       },
-      "fairness": 97.55
+      "fairness": 97.73
     },
     {
       "teamA": "DefendingChampion",
@@ -383,14 +383,14 @@
       "aSends": {
         "name": "Tucker Kraft",
         "pos": "TE",
-        "value": 2378
+        "value": 2351
       },
       "bSends": {
         "name": "Jalen Hurts",
         "pos": "QB",
-        "value": 2523
+        "value": 2430
       },
-      "fairness": 94.08
+      "fairness": 96.7
     },
     {
       "teamA": "mmcelvaney",
@@ -398,14 +398,14 @@
       "aSends": {
         "name": "Jayden Daniels",
         "pos": "QB",
-        "value": 1998
+        "value": 1942
       },
       "bSends": {
         "name": "Justin Herbert",
         "pos": "QB",
-        "value": 2137
+        "value": 2070
       },
-      "fairness": 93.28
+      "fairness": 93.62
     },
     {
       "teamA": "IR All Stars ",
@@ -413,14 +413,14 @@
       "aSends": {
         "name": "Lamar Jackson",
         "pos": "QB",
-        "value": 4473
+        "value": 4448
       },
       "bSends": {
         "name": "Chris Olave",
         "pos": "WR",
-        "value": 4886
+        "value": 4828
       },
-      "fairness": 91.17
+      "fairness": 91.81
     },
     {
       "teamA": "Crashee and Co.",
@@ -428,14 +428,14 @@
       "aSends": {
         "name": "Rashee Rice",
         "pos": "WR",
-        "value": 3923
+        "value": 3928
       },
       "bSends": {
         "name": "Lamar Jackson",
         "pos": "QB",
-        "value": 4473
+        "value": 4448
       },
-      "fairness": 86.9
+      "fairness": 87.58
     }
   ],
   "waiverRoi": [
@@ -558,7 +558,7 @@
           "pos": "RB",
           "nflTeam": "BUF",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 5
         },
         {
           "slot": "RB",
@@ -585,7 +585,7 @@
           "pos": "WR",
           "nflTeam": "NYJ",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 1.4
         },
         {
           "slot": "TE",
@@ -603,7 +603,7 @@
           "pos": "RB",
           "nflTeam": "NO",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 0.3
         },
         {
           "slot": "K",
@@ -612,7 +612,7 @@
           "pos": "K",
           "nflTeam": "HOU",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 1
         },
         {
           "slot": "DEF",
@@ -639,7 +639,7 @@
           "pos": "RB",
           "nflTeam": "CAR",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 0.2
         },
         {
           "id": "3214",
@@ -680,7 +680,7 @@
           "pos": "QB",
           "nflTeam": "CIN",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 5.2
         },
         {
           "slot": "RB",
@@ -734,7 +734,7 @@
           "pos": "WR",
           "nflTeam": "JAX",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 16.9
         },
         {
           "slot": "K",
@@ -770,7 +770,7 @@
           "pos": "RB",
           "nflTeam": "TEN",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 1.2
         },
         {
           "id": "6804",
@@ -786,7 +786,7 @@
           "pos": "WR",
           "nflTeam": "BUF",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 6.5
         },
         {
           "id": "8142",
@@ -794,7 +794,7 @@
           "pos": "WR",
           "nflTeam": "IND",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 2.3
         }
       ],
       "ir": []
@@ -811,7 +811,7 @@
           "pos": "QB",
           "nflTeam": "JAX",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 12.56
         },
         {
           "slot": "RB",
@@ -820,7 +820,7 @@
           "pos": "RB",
           "nflTeam": "TB",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 3
         },
         {
           "slot": "RB",
@@ -829,7 +829,7 @@
           "pos": "RB",
           "nflTeam": "CLE",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 2.4
         },
         {
           "slot": "WR",
@@ -847,7 +847,7 @@
           "pos": "WR",
           "nflTeam": "HOU",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 6.1
         },
         {
           "slot": "TE",
@@ -874,7 +874,7 @@
           "pos": "K",
           "nflTeam": "DET",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 1
         },
         {
           "slot": "DEF",
@@ -883,7 +883,7 @@
           "pos": "DEF",
           "nflTeam": "PIT",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 5
         }
       ],
       "bench": [
@@ -917,7 +917,7 @@
           "pos": "WR",
           "nflTeam": "IND",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 5.6
         },
         {
           "id": "9754",
@@ -960,7 +960,7 @@
           "pos": "RB",
           "nflTeam": "CHI",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 12.5
         },
         {
           "slot": "WR",
@@ -978,7 +978,7 @@
           "pos": "WR",
           "nflTeam": "TB",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 4.7
         },
         {
           "slot": "TE",
@@ -996,7 +996,7 @@
           "pos": "WR",
           "nflTeam": "BAL",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 8.6
         },
         {
           "slot": "K",
@@ -1032,7 +1032,7 @@
           "pos": "RB",
           "nflTeam": "HOU",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 0.4
         },
         {
           "id": "4943",
@@ -1056,7 +1056,7 @@
           "pos": "RB",
           "nflTeam": "TB",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 0.9
         }
       ],
       "ir": []
@@ -1091,7 +1091,7 @@
           "pos": "RB",
           "nflTeam": "JAX",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 0.9
         },
         {
           "slot": "WR",
@@ -1118,7 +1118,7 @@
           "pos": "TE",
           "nflTeam": "IND",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 1.2
         },
         {
           "slot": "FLEX",
@@ -1136,7 +1136,7 @@
           "pos": "K",
           "nflTeam": "IND",
           "points": 0,
-          "livePoints": 0
+          "livePoints": -1
         },
         {
           "slot": "DEF",
@@ -1145,7 +1145,7 @@
           "pos": "DEF",
           "nflTeam": "JAX",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 15
         }
       ],
       "bench": [
@@ -1204,7 +1204,7 @@
           "pos": "QB",
           "nflTeam": "CHI",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 11.02
         },
         {
           "slot": "RB",
@@ -1222,7 +1222,7 @@
           "pos": "RB",
           "nflTeam": "HOU",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 7.8
         },
         {
           "slot": "WR",
@@ -1231,7 +1231,7 @@
           "pos": "WR",
           "nflTeam": "DET",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 4.8
         },
         {
           "slot": "WR",
@@ -1267,7 +1267,7 @@
           "pos": "K",
           "nflTeam": "PIT",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 4
         },
         {
           "slot": "DEF",
@@ -1276,7 +1276,7 @@
           "pos": "DEF",
           "nflTeam": "DET",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 10
         }
       ],
       "bench": [
@@ -1294,7 +1294,7 @@
           "pos": "RB",
           "nflTeam": "CHI",
           "points": 0,
-          "livePoints": 0
+          "livePoints": -0.1
         },
         {
           "id": "5870",
@@ -1302,7 +1302,7 @@
           "pos": "QB",
           "nflTeam": "IND",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 1.44
         },
         {
           "id": "8132",
@@ -1335,7 +1335,7 @@
           "pos": "QB",
           "nflTeam": "BUF",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 10.26
         },
         {
           "slot": "RB",
@@ -1344,7 +1344,7 @@
           "pos": "RB",
           "nflTeam": "DET",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 13.3
         },
         {
           "slot": "RB",
@@ -1362,7 +1362,7 @@
           "pos": "WR",
           "nflTeam": "CHI",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 2.4
         },
         {
           "slot": "WR",
@@ -1371,7 +1371,7 @@
           "pos": "WR",
           "nflTeam": "DET",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 2
         },
         {
           "slot": "TE",
@@ -1389,7 +1389,7 @@
           "pos": "RB",
           "nflTeam": "PIT",
           "points": 0,
-          "livePoints": 0
+          "livePoints": -0.3
         },
         {
           "slot": "K",
@@ -1407,7 +1407,7 @@
           "pos": "DEF",
           "nflTeam": "BAL",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 10
         }
       ],
       "bench": [
@@ -1417,7 +1417,7 @@
           "pos": "QB",
           "nflTeam": "DET",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 2.84
         },
         {
           "id": "4037",
@@ -1425,7 +1425,7 @@
           "pos": "WR",
           "nflTeam": "TB",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 2.9
         },
         {
           "id": "4199",
@@ -1441,7 +1441,7 @@
           "pos": "WR",
           "nflTeam": "PIT",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 3.5
         },
         {
           "id": "5872",
@@ -1466,7 +1466,7 @@
           "pos": "QB",
           "nflTeam": "BAL",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 11.42
         },
         {
           "slot": "RB",
@@ -1475,7 +1475,7 @@
           "pos": "RB",
           "nflTeam": "ATL",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 14.8
         },
         {
           "slot": "RB",
@@ -1484,7 +1484,7 @@
           "pos": "RB",
           "nflTeam": "PIT",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 1
         },
         {
           "slot": "WR",
@@ -1520,7 +1520,7 @@
           "pos": "WR",
           "nflTeam": "CHI",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 5.7
         },
         {
           "slot": "K",
@@ -1529,7 +1529,7 @@
           "pos": "K",
           "nflTeam": "JAX",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 2
         },
         {
           "slot": "DEF",
@@ -1624,7 +1624,7 @@
           "pos": "RB",
           "nflTeam": "BAL",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 7.8
         },
         {
           "slot": "WR",
@@ -1651,7 +1651,7 @@
           "pos": "TE",
           "nflTeam": "DET",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 6.2
         },
         {
           "slot": "FLEX",
@@ -1660,7 +1660,7 @@
           "pos": "RB",
           "nflTeam": "CAR",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 8.3
         },
         {
           "slot": "K",
@@ -1704,7 +1704,7 @@
           "pos": "WR",
           "nflTeam": "CLE",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 1.9
         },
         {
           "id": "8126",
@@ -1737,7 +1737,7 @@
           "pos": "QB",
           "nflTeam": "TB",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 0.32
         },
         {
           "slot": "RB",
@@ -1755,7 +1755,7 @@
           "pos": "RB",
           "nflTeam": "NYJ",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 2
         },
         {
           "slot": "WR",
@@ -1843,7 +1843,7 @@
           "pos": "WR",
           "nflTeam": "PIT",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 3.1
         },
         {
           "id": "9756",
@@ -1877,7 +1877,7 @@
           "pos": "RB",
           "nflTeam": "IND",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 8.4
         },
         {
           "slot": "RB",
@@ -1922,7 +1922,7 @@
           "pos": "WR",
           "nflTeam": "CAR",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 3.6
         },
         {
           "slot": "K",
@@ -1940,7 +1940,7 @@
           "pos": "DEF",
           "nflTeam": "HOU",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 5
         }
       ],
       "bench": [
@@ -1966,7 +1966,7 @@
           "pos": "WR",
           "nflTeam": "JAX",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 0.2
         },
         {
           "id": "8676",
@@ -1982,7 +1982,7 @@
           "pos": "RB",
           "nflTeam": "TEN",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 0.1
         }
       ],
       "ir": []
@@ -2017,7 +2017,7 @@
           "pos": "RB",
           "nflTeam": "CIN",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 2.7
         },
         {
           "slot": "WR",
@@ -2035,7 +2035,7 @@
           "pos": "WR",
           "nflTeam": "TEN",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 2.2
         },
         {
           "slot": "TE",
@@ -2053,7 +2053,7 @@
           "pos": "WR",
           "nflTeam": "JAX",
           "points": 0,
-          "livePoints": 0
+          "livePoints": 5.7
         },
         {
           "slot": "K",
