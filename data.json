@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T14:54:44.717Z",
+  "generatedAt": "2026-10-07T20:19:20.804Z",
   "season": "2026",
   "currentWeek": 5,
   "league": {
@@ -25,8 +25,8 @@
       "allPlayLosses": 8,
       "efficiency": 90.98,
       "benchPoints": 54.32,
-      "playoffOdds": 100,
-      "topSeedOdds": 83.15,
+      "playoffOdds": 99.99,
+      "topSeedOdds": 83.47,
       "avgPoints": 136.99,
       "weekly": [
         {
@@ -69,8 +69,8 @@
       "allPlayLosses": 24,
       "efficiency": 91.99,
       "benchPoints": 39.8,
-      "playoffOdds": 64.44,
-      "topSeedOdds": 0.33,
+      "playoffOdds": 63.19,
+      "topSeedOdds": 0.34,
       "avgPoints": 114.22,
       "weekly": [
         {
@@ -113,8 +113,8 @@
       "allPlayLosses": 24,
       "efficiency": 85.61,
       "benchPoints": 75.1,
-      "playoffOdds": 50.43,
-      "topSeedOdds": 0.35,
+      "playoffOdds": 49.61,
+      "topSeedOdds": 0.37,
       "avgPoints": 111.73,
       "weekly": [
         {
@@ -157,8 +157,8 @@
       "allPlayLosses": 13,
       "efficiency": 94.49,
       "benchPoints": 33.08,
-      "playoffOdds": 95.92,
-      "topSeedOdds": 11.44,
+      "playoffOdds": 95.83,
+      "topSeedOdds": 11.42,
       "avgPoints": 141.81,
       "weekly": [
         {
@@ -201,8 +201,8 @@
       "allPlayLosses": 16,
       "efficiency": 84.97,
       "benchPoints": 92.9,
-      "playoffOdds": 93.1,
-      "topSeedOdds": 3.03,
+      "playoffOdds": 92.86,
+      "topSeedOdds": 2.77,
       "avgPoints": 131.33,
       "weekly": [
         {
@@ -245,8 +245,8 @@
       "allPlayLosses": 19,
       "efficiency": 90.49,
       "benchPoints": 53.3,
-      "playoffOdds": 69.78,
-      "topSeedOdds": 1.32,
+      "playoffOdds": 69.9,
+      "topSeedOdds": 1.17,
       "avgPoints": 126.86,
       "weekly": [
         {
@@ -289,8 +289,8 @@
       "allPlayLosses": 22,
       "efficiency": 87.52,
       "benchPoints": 69.44,
-      "playoffOdds": 55.53,
-      "topSeedOdds": 0.25,
+      "playoffOdds": 56.65,
+      "topSeedOdds": 0.32,
       "avgPoints": 121.76,
       "weekly": [
         {
@@ -333,8 +333,8 @@
       "allPlayLosses": 17,
       "efficiency": 94.86,
       "benchPoints": 27.3,
-      "playoffOdds": 49.8,
-      "topSeedOdds": 0.12,
+      "playoffOdds": 51.22,
+      "topSeedOdds": 0.14,
       "avgPoints": 125.85,
       "weekly": [
         {
@@ -377,7 +377,7 @@
       "allPlayLosses": 27,
       "efficiency": 83.62,
       "benchPoints": 91.48,
-      "playoffOdds": 13.24,
+      "playoffOdds": 12.91,
       "topSeedOdds": 0,
       "avgPoints": 116.79,
       "weekly": [
@@ -421,7 +421,7 @@
       "allPlayLosses": 28,
       "efficiency": 84.89,
       "benchPoints": 75.62,
-      "playoffOdds": 2.2,
+      "playoffOdds": 2.28,
       "topSeedOdds": 0,
       "avgPoints": 106.24,
       "weekly": [
@@ -465,8 +465,8 @@
       "allPlayLosses": 31,
       "efficiency": 82.4,
       "benchPoints": 88.54,
-      "playoffOdds": 5.45,
-      "topSeedOdds": 0.01,
+      "playoffOdds": 5.43,
+      "topSeedOdds": 0,
       "avgPoints": 103.61,
       "weekly": [
         {
@@ -509,7 +509,7 @@
       "allPlayLosses": 35,
       "efficiency": 86.01,
       "benchPoints": 61.82,
-      "playoffOdds": 0.11,
+      "playoffOdds": 0.13,
       "topSeedOdds": 0,
       "avgPoints": 95.04,
       "weekly": [
@@ -992,49 +992,19 @@
   ],
   "tradeSuggestions": [
     {
-      "teamA": "Crashee and Co.",
-      "teamB": "Lapointe12",
-      "aSends": {
-        "name": "Drake Maye",
-        "pos": "QB",
-        "value": 1351
-      },
-      "bSends": {
-        "name": "Jalen Hurts",
-        "pos": "QB",
-        "value": 1351
-      },
-      "fairness": 100
-    },
-    {
       "teamA": "Schmiddy1",
       "teamB": "Team t-hart",
       "aSends": {
         "name": "Sam LaPorta",
         "pos": "TE",
-        "value": 1562
+        "value": 1624
       },
       "bSends": {
         "name": "Dak Prescott",
         "pos": "QB",
-        "value": 1564
+        "value": 1623
       },
-      "fairness": 99.87
-    },
-    {
-      "teamA": "Lapointe12",
-      "teamB": "Team t-hart",
-      "aSends": {
-        "name": "Dalton Kincaid",
-        "pos": "TE",
-        "value": 1567
-      },
-      "bSends": {
-        "name": "Dak Prescott",
-        "pos": "QB",
-        "value": 1564
-      },
-      "fairness": 99.81
+      "fairness": 99.94
     },
     {
       "teamA": "DefendingChampion",
@@ -1042,89 +1012,14 @@
       "aSends": {
         "name": "Trevor Lawrence",
         "pos": "QB",
-        "value": 1596
+        "value": 1528
       },
       "bSends": {
         "name": "Dalton Kincaid",
         "pos": "TE",
-        "value": 1567
+        "value": 1518
       },
-      "fairness": 98.17
-    },
-    {
-      "teamA": "DefendingChampion",
-      "teamB": "Schmiddy1",
-      "aSends": {
-        "name": "Trevor Lawrence",
-        "pos": "QB",
-        "value": 1596
-      },
-      "bSends": {
-        "name": "Sam LaPorta",
-        "pos": "TE",
-        "value": 1562
-      },
-      "fairness": 97.85
-    },
-    {
-      "teamA": "mcooney32",
-      "teamB": "Team t-hart",
-      "aSends": {
-        "name": "Kenyon Sadiq",
-        "pos": "TE",
-        "value": 499
-      },
-      "bSends": {
-        "name": "Mark Andrews",
-        "pos": "TE",
-        "value": 514
-      },
-      "fairness": 97.04
-    },
-    {
-      "teamA": "Crashee and Co.",
-      "teamB": "jhuang24",
-      "aSends": {
-        "name": "Trey McBride",
-        "pos": "TE",
-        "value": 5735
-      },
-      "bSends": {
-        "name": "Josh Allen",
-        "pos": "QB",
-        "value": 5998
-      },
-      "fairness": 95.52
-    },
-    {
-      "teamA": "Crashee and Co.",
-      "teamB": "Schmiddy1",
-      "aSends": {
-        "name": "Drake Maye",
-        "pos": "QB",
-        "value": 1351
-      },
-      "bSends": {
-        "name": "Jared Goff",
-        "pos": "QB",
-        "value": 1282
-      },
-      "fairness": 94.76
-    },
-    {
-      "teamA": "Lapointe12",
-      "teamB": "Schmiddy1",
-      "aSends": {
-        "name": "Jalen Hurts",
-        "pos": "QB",
-        "value": 1351
-      },
-      "bSends": {
-        "name": "Jared Goff",
-        "pos": "QB",
-        "value": 1282
-      },
-      "fairness": 94.76
+      "fairness": 99.34
     },
     {
       "teamA": "mcooney32",
@@ -1132,29 +1027,29 @@
       "aSends": {
         "name": "Joe Burrow",
         "pos": "QB",
-        "value": 2438
+        "value": 2367
       },
       "bSends": {
         "name": "Tyler Warren",
         "pos": "TE",
-        "value": 2311
+        "value": 2340
       },
-      "fairness": 94.65
+      "fairness": 98.85
     },
     {
-      "teamA": "IR All Stars ",
+      "teamA": "Lapointe12",
       "teamB": "Schmiddy1",
       "aSends": {
-        "name": "Bryce Young",
+        "name": "Jalen Hurts",
         "pos": "QB",
-        "value": 1178
+        "value": 1292
       },
       "bSends": {
         "name": "Jared Goff",
         "pos": "QB",
-        "value": 1282
+        "value": 1261
       },
-      "fairness": 91.54
+      "fairness": 97.57
     },
     {
       "teamA": "Schmiddy1",
@@ -1162,14 +1057,119 @@
       "aSends": {
         "name": "Davante Adams",
         "pos": "WR",
-        "value": 2944
+        "value": 3158
       },
       "bSends": {
         "name": "Lamar Jackson",
         "pos": "QB",
-        "value": 3250
+        "value": 3260
       },
-      "fairness": 90.12
+      "fairness": 96.82
+    },
+    {
+      "teamA": "Crashee and Co.",
+      "teamB": "jhuang24",
+      "aSends": {
+        "name": "Trey McBride",
+        "pos": "TE",
+        "value": 5702
+      },
+      "bSends": {
+        "name": "Josh Allen",
+        "pos": "QB",
+        "value": 5982
+      },
+      "fairness": 95.21
+    },
+    {
+      "teamA": "mcooney32",
+      "teamB": "Team t-hart",
+      "aSends": {
+        "name": "Kenyon Sadiq",
+        "pos": "TE",
+        "value": 502
+      },
+      "bSends": {
+        "name": "Mark Andrews",
+        "pos": "TE",
+        "value": 529
+      },
+      "fairness": 94.76
+    },
+    {
+      "teamA": "IR All Stars ",
+      "teamB": "Schmiddy1",
+      "aSends": {
+        "name": "Bryce Young",
+        "pos": "QB",
+        "value": 1192
+      },
+      "bSends": {
+        "name": "Jared Goff",
+        "pos": "QB",
+        "value": 1261
+      },
+      "fairness": 94.37
+    },
+    {
+      "teamA": "DefendingChampion",
+      "teamB": "Schmiddy1",
+      "aSends": {
+        "name": "Trevor Lawrence",
+        "pos": "QB",
+        "value": 1528
+      },
+      "bSends": {
+        "name": "Sam LaPorta",
+        "pos": "TE",
+        "value": 1624
+      },
+      "fairness": 93.91
+    },
+    {
+      "teamA": "Lapointe12",
+      "teamB": "Team t-hart",
+      "aSends": {
+        "name": "Dalton Kincaid",
+        "pos": "TE",
+        "value": 1518
+      },
+      "bSends": {
+        "name": "Dak Prescott",
+        "pos": "QB",
+        "value": 1623
+      },
+      "fairness": 93.31
+    },
+    {
+      "teamA": "Lapointe12",
+      "teamB": "IR All Stars ",
+      "aSends": {
+        "name": "Jalen Hurts",
+        "pos": "QB",
+        "value": 1292
+      },
+      "bSends": {
+        "name": "Bryce Young",
+        "pos": "QB",
+        "value": 1192
+      },
+      "fairness": 91.95
+    },
+    {
+      "teamA": "Crashee and Co.",
+      "teamB": "Lapointe12",
+      "aSends": {
+        "name": "Drake Maye",
+        "pos": "QB",
+        "value": 1415
+      },
+      "bSends": {
+        "name": "Jalen Hurts",
+        "pos": "QB",
+        "value": 1292
+      },
+      "fairness": 90.91
     }
   ],
   "waiverRoi": [
@@ -1382,11 +1382,11 @@
       "starters": [
         {
           "slot": "QB",
-          "id": "9758",
-          "name": "C.J. Stroud",
+          "id": "11564",
+          "name": "Drake Maye",
           "pos": "QB",
-          "nflTeam": "HOU",
-          "points": 23.08,
+          "nflTeam": "NE",
+          "points": 54.76,
           "livePoints": 0
         },
         {
@@ -1436,11 +1436,11 @@
         },
         {
           "slot": "FLEX",
-          "id": "10229",
-          "name": "Rashee Rice",
+          "id": "8167",
+          "name": "Christian Watson",
           "pos": "WR",
-          "nflTeam": "KC",
-          "points": 38,
+          "nflTeam": "GB",
+          "points": 77.1,
           "livePoints": 0
         },
         {
@@ -1454,29 +1454,21 @@
         },
         {
           "slot": "DEF",
-          "id": "GB",
-          "name": "Packers",
+          "id": "DAL",
+          "name": "Cowboys",
           "pos": "DEF",
-          "nflTeam": "GB",
-          "points": 8,
+          "nflTeam": "DAL",
+          "points": 0,
           "livePoints": 0
         }
       ],
       "bench": [
         {
-          "id": "8167",
-          "name": "Christian Watson",
+          "id": "10229",
+          "name": "Rashee Rice",
           "pos": "WR",
-          "nflTeam": "GB",
-          "points": 77.1,
-          "livePoints": 0
-        },
-        {
-          "id": "11564",
-          "name": "Drake Maye",
-          "pos": "QB",
-          "nflTeam": "NE",
-          "points": 54.76,
+          "nflTeam": "KC",
+          "points": 38,
           "livePoints": 0
         },
         {
@@ -1485,6 +1477,14 @@
           "pos": "RB",
           "nflTeam": "SEA",
           "points": 28.4,
+          "livePoints": 0
+        },
+        {
+          "id": "9758",
+          "name": "C.J. Stroud",
+          "pos": "QB",
+          "nflTeam": "HOU",
+          "points": 23.08,
           "livePoints": 0
         },
         {
@@ -1558,11 +1558,11 @@
         },
         {
           "slot": "TE",
-          "id": "5022",
-          "name": "Dallas Goedert",
+          "id": "5844",
+          "name": "T.J. Hockenson",
           "pos": "TE",
-          "nflTeam": "PHI",
-          "points": 25.1,
+          "nflTeam": "MIN",
+          "points": 19.5,
           "livePoints": 0
         },
         {
@@ -1585,11 +1585,12 @@
         },
         {
           "slot": "DEF",
-          "id": null,
-          "name": "Empty",
-          "pos": null,
-          "nflTeam": null,
-          "points": 0
+          "id": "CIN",
+          "name": "Bengals",
+          "pos": "DEF",
+          "nflTeam": "CIN",
+          "points": 3,
+          "livePoints": 0
         }
       ],
       "bench": [
@@ -1610,11 +1611,11 @@
           "livePoints": 0
         },
         {
-          "id": "5844",
-          "name": "T.J. Hockenson",
+          "id": "5022",
+          "name": "Dallas Goedert",
           "pos": "TE",
-          "nflTeam": "MIN",
-          "points": 19.5,
+          "nflTeam": "PHI",
+          "points": 25.1,
           "livePoints": 0
         },
         {
@@ -1623,14 +1624,6 @@
           "pos": "TE",
           "nflTeam": "ATL",
           "points": 11.7,
-          "livePoints": 0
-        },
-        {
-          "id": "CIN",
-          "name": "Bengals",
-          "pos": "DEF",
-          "nflTeam": "CIN",
-          "points": 3,
           "livePoints": 0
         },
         {
@@ -1913,11 +1906,11 @@
       "starters": [
         {
           "slot": "QB",
-          "id": "4046",
-          "name": "Patrick Mahomes",
+          "id": "5849",
+          "name": "Kyler Murray",
           "pos": "QB",
-          "nflTeam": "KC",
-          "points": 85.58,
+          "nflTeam": "MIN",
+          "points": 12.04,
           "livePoints": 0
         },
         {
@@ -1967,11 +1960,12 @@
         },
         {
           "slot": "FLEX",
-          "id": null,
-          "name": "Empty",
-          "pos": null,
-          "nflTeam": null,
-          "points": 0
+          "id": "13287",
+          "name": "Jeremiyah Love",
+          "pos": "RB",
+          "nflTeam": "ARI",
+          "points": 48.9,
+          "livePoints": 0
         },
         {
           "slot": "K",
@@ -1994,11 +1988,11 @@
       ],
       "bench": [
         {
-          "id": "13287",
-          "name": "Jeremiyah Love",
-          "pos": "RB",
-          "nflTeam": "ARI",
-          "points": 48.9,
+          "id": "4046",
+          "name": "Patrick Mahomes",
+          "pos": "QB",
+          "nflTeam": "KC",
+          "points": 85.58,
           "livePoints": 0
         },
         {
@@ -2023,14 +2017,6 @@
           "pos": "RB",
           "nflTeam": "GB",
           "points": 26,
-          "livePoints": 0
-        },
-        {
-          "id": "13294",
-          "name": "Makai Lemon",
-          "pos": "WR",
-          "nflTeam": "PHI",
-          "points": 10.1,
           "livePoints": 0
         },
         {
@@ -2150,14 +2136,6 @@
           "livePoints": 0
         },
         {
-          "id": "5001",
-          "name": "Dalton Schultz",
-          "pos": "TE",
-          "nflTeam": "HOU",
-          "points": 34.9,
-          "livePoints": 0
-        },
-        {
           "id": "8132",
           "name": "Tyler Allgeier",
           "pos": "RB",
@@ -2179,6 +2157,14 @@
           "pos": "RB",
           "nflTeam": "NO",
           "points": 1.9,
+          "livePoints": 0
+        },
+        {
+          "id": "9480",
+          "name": "Brenton Strange",
+          "pos": "TE",
+          "nflTeam": "JAX",
+          "points": 0,
           "livePoints": 0
         }
       ],
