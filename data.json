@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:34:27.382Z",
+  "generatedAt": "2026-10-21T17:46:48.734Z",
   "season": "2026",
   "currentWeek": 7,
   "league": {
@@ -25,8 +25,8 @@
       "allPlayLosses": 13,
       "efficiency": 92.28,
       "benchPoints": 69.34,
-      "playoffOdds": 99.98,
-      "topSeedOdds": 93.59,
+      "playoffOdds": 100,
+      "topSeedOdds": 93.37,
       "avgPoints": 138.11,
       "weekly": [
         {
@@ -81,8 +81,8 @@
       "allPlayLosses": 31,
       "efficiency": 94.25,
       "benchPoints": 43.3,
-      "playoffOdds": 85.97,
-      "topSeedOdds": 1.13,
+      "playoffOdds": 86.8,
+      "topSeedOdds": 1.38,
       "avgPoints": 118.33,
       "weekly": [
         {
@@ -137,8 +137,8 @@
       "allPlayLosses": 33,
       "efficiency": 85.04,
       "benchPoints": 123.1,
-      "playoffOdds": 69.22,
-      "topSeedOdds": 0.56,
+      "playoffOdds": 69.18,
+      "topSeedOdds": 0.57,
       "avgPoints": 116.63,
       "weekly": [
         {
@@ -193,8 +193,8 @@
       "allPlayLosses": 19,
       "efficiency": 94.82,
       "benchPoints": 44.98,
-      "playoffOdds": 95.45,
-      "topSeedOdds": 2.81,
+      "playoffOdds": 95.33,
+      "topSeedOdds": 2.8,
       "avgPoints": 137.1,
       "weekly": [
         {
@@ -249,8 +249,8 @@
       "allPlayLosses": 27,
       "efficiency": 89.3,
       "benchPoints": 96.66,
-      "playoffOdds": 83.54,
-      "topSeedOdds": 1.57,
+      "playoffOdds": 83.61,
+      "topSeedOdds": 1.37,
       "avgPoints": 134.44,
       "weekly": [
         {
@@ -305,8 +305,8 @@
       "allPlayLosses": 29,
       "efficiency": 91.07,
       "benchPoints": 72.86,
-      "playoffOdds": 69.49,
-      "topSeedOdds": 0.26,
+      "playoffOdds": 68.62,
+      "topSeedOdds": 0.36,
       "avgPoints": 123.88,
       "weekly": [
         {
@@ -361,8 +361,8 @@
       "allPlayLosses": 30,
       "efficiency": 86.98,
       "benchPoints": 107.7,
-      "playoffOdds": 57.57,
-      "topSeedOdds": 0.06,
+      "playoffOdds": 57.55,
+      "topSeedOdds": 0.11,
       "avgPoints": 119.95,
       "weekly": [
         {
@@ -417,8 +417,8 @@
       "allPlayLosses": 40,
       "efficiency": 86.34,
       "benchPoints": 105.04,
-      "playoffOdds": 21.28,
-      "topSeedOdds": 0.02,
+      "playoffOdds": 20.91,
+      "topSeedOdds": 0.04,
       "avgPoints": 110.64,
       "weekly": [
         {
@@ -473,7 +473,7 @@
       "allPlayLosses": 38,
       "efficiency": 94.41,
       "benchPoints": 38.9,
-      "playoffOdds": 6.5,
+      "playoffOdds": 7.03,
       "topSeedOdds": 0,
       "avgPoints": 109.58,
       "weekly": [
@@ -529,7 +529,7 @@
       "allPlayLosses": 41,
       "efficiency": 85.35,
       "benchPoints": 111.74,
-      "playoffOdds": 10.8,
+      "playoffOdds": 10.79,
       "topSeedOdds": 0,
       "avgPoints": 108.5,
       "weekly": [
@@ -641,7 +641,7 @@
       "allPlayLosses": 51,
       "efficiency": 90.26,
       "benchPoints": 63.22,
-      "playoffOdds": 0.04,
+      "playoffOdds": 0.02,
       "topSeedOdds": 0,
       "avgPoints": 97.64,
       "weekly": [
@@ -1864,14 +1864,6 @@
           "livePoints": 0
         },
         {
-          "id": "9758",
-          "name": "C.J. Stroud",
-          "pos": "QB",
-          "nflTeam": "HOU",
-          "points": 68,
-          "livePoints": 0
-        },
-        {
           "id": "4037",
           "name": "Chris Godwin",
           "pos": "WR",
@@ -1893,6 +1885,14 @@
           "pos": "RB",
           "nflTeam": "NO",
           "points": 1.9,
+          "livePoints": 0
+        },
+        {
+          "id": "11655",
+          "name": "Tyrone Tracy",
+          "pos": "RB",
+          "nflTeam": "NYG",
+          "points": 0,
           "livePoints": 0
         }
       ],
@@ -2220,11 +2220,11 @@
         },
         {
           "slot": "FLEX",
-          "id": "10236",
-          "name": "Dalton Kincaid",
-          "pos": "TE",
-          "nflTeam": "BUF",
-          "points": 60.5,
+          "id": "6794",
+          "name": "Justin Jefferson",
+          "pos": "WR",
+          "nflTeam": "MIN",
+          "points": 63.7,
           "livePoints": 0
         },
         {
@@ -2264,11 +2264,11 @@
           "livePoints": 0
         },
         {
-          "id": "6794",
-          "name": "Justin Jefferson",
-          "pos": "WR",
-          "nflTeam": "MIN",
-          "points": 63.7,
+          "id": "10236",
+          "name": "Dalton Kincaid",
+          "pos": "TE",
+          "nflTeam": "BUF",
+          "points": 60.5,
           "livePoints": 0
         },
         {
