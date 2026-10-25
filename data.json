@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T22:06:54.344Z",
+  "generatedAt": "2026-10-25T00:41:00.775Z",
   "season": "2026",
   "currentWeek": 7,
   "league": {
@@ -25,8 +25,8 @@
       "allPlayLosses": 13,
       "efficiency": 92.28,
       "benchPoints": 69.34,
-      "playoffOdds": 99.99,
-      "topSeedOdds": 93.44,
+      "playoffOdds": 100,
+      "topSeedOdds": 92.96,
       "avgPoints": 138.11,
       "weekly": [
         {
@@ -81,8 +81,8 @@
       "allPlayLosses": 31,
       "efficiency": 94.25,
       "benchPoints": 43.3,
-      "playoffOdds": 86.18,
-      "topSeedOdds": 1.39,
+      "playoffOdds": 86.55,
+      "topSeedOdds": 1.29,
       "avgPoints": 118.33,
       "weekly": [
         {
@@ -137,8 +137,8 @@
       "allPlayLosses": 33,
       "efficiency": 85.04,
       "benchPoints": 123.1,
-      "playoffOdds": 69.41,
-      "topSeedOdds": 0.49,
+      "playoffOdds": 69.17,
+      "topSeedOdds": 0.61,
       "avgPoints": 116.63,
       "weekly": [
         {
@@ -193,8 +193,8 @@
       "allPlayLosses": 19,
       "efficiency": 94.82,
       "benchPoints": 44.98,
-      "playoffOdds": 95.23,
-      "topSeedOdds": 2.99,
+      "playoffOdds": 95.25,
+      "topSeedOdds": 3.07,
       "avgPoints": 137.1,
       "weekly": [
         {
@@ -249,8 +249,8 @@
       "allPlayLosses": 27,
       "efficiency": 89.3,
       "benchPoints": 96.66,
-      "playoffOdds": 84.02,
-      "topSeedOdds": 1.26,
+      "playoffOdds": 83.85,
+      "topSeedOdds": 1.65,
       "avgPoints": 134.44,
       "weekly": [
         {
@@ -305,8 +305,8 @@
       "allPlayLosses": 29,
       "efficiency": 91.07,
       "benchPoints": 72.86,
-      "playoffOdds": 68.03,
-      "topSeedOdds": 0.32,
+      "playoffOdds": 68.95,
+      "topSeedOdds": 0.28,
       "avgPoints": 123.88,
       "weekly": [
         {
@@ -361,8 +361,8 @@
       "allPlayLosses": 30,
       "efficiency": 86.98,
       "benchPoints": 107.7,
-      "playoffOdds": 57.27,
-      "topSeedOdds": 0.09,
+      "playoffOdds": 57.2,
+      "topSeedOdds": 0.13,
       "avgPoints": 119.95,
       "weekly": [
         {
@@ -417,8 +417,8 @@
       "allPlayLosses": 40,
       "efficiency": 86.34,
       "benchPoints": 105.04,
-      "playoffOdds": 21.8,
-      "topSeedOdds": 0.01,
+      "playoffOdds": 21.54,
+      "topSeedOdds": 0,
       "avgPoints": 110.64,
       "weekly": [
         {
@@ -473,7 +473,7 @@
       "allPlayLosses": 38,
       "efficiency": 94.41,
       "benchPoints": 38.9,
-      "playoffOdds": 7.05,
+      "playoffOdds": 6.72,
       "topSeedOdds": 0.01,
       "avgPoints": 109.58,
       "weekly": [
@@ -529,7 +529,7 @@
       "allPlayLosses": 41,
       "efficiency": 85.35,
       "benchPoints": 111.74,
-      "playoffOdds": 10.81,
+      "playoffOdds": 10.56,
       "topSeedOdds": 0,
       "avgPoints": 108.5,
       "weekly": [
@@ -3121,11 +3121,11 @@
       "starters": [
         {
           "slot": "QB",
-          "id": "4881",
-          "name": "Lamar Jackson",
+          "id": "9758",
+          "name": "C.J. Stroud",
           "pos": "QB",
-          "nflTeam": "BAL",
-          "points": 80.08,
+          "nflTeam": "HOU",
+          "points": 68,
           "livePoints": 0
         },
         {
@@ -3211,6 +3211,14 @@
           "livePoints": 0
         },
         {
+          "id": "4881",
+          "name": "Lamar Jackson",
+          "pos": "QB",
+          "nflTeam": "BAL",
+          "points": 80.08,
+          "livePoints": 0
+        },
+        {
           "id": "12534",
           "name": "Kyle Monangai",
           "pos": "RB",
@@ -3232,14 +3240,6 @@
           "pos": "TE",
           "nflTeam": "DAL",
           "points": 44.5,
-          "livePoints": 0
-        },
-        {
-          "id": "8154",
-          "name": "Brian Robinson Jr.",
-          "pos": "RB",
-          "nflTeam": "ATL",
-          "points": 4.6,
           "livePoints": 0
         }
       ],
