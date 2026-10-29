@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T07:48:03.327Z",
+  "generatedAt": "2026-10-29T14:46:29.155Z",
   "season": "2026",
   "currentWeek": 8,
   "league": {
@@ -25,8 +25,8 @@
       "allPlayLosses": 17,
       "efficiency": 89.79,
       "benchPoints": 107.64,
-      "playoffOdds": 99.95,
-      "topSeedOdds": 86.4,
+      "playoffOdds": 100,
+      "topSeedOdds": 86.42,
       "avgPoints": 135.18,
       "weekly": [
         {
@@ -87,8 +87,8 @@
       "allPlayLosses": 34,
       "efficiency": 85.32,
       "benchPoints": 143.9,
-      "playoffOdds": 93.12,
-      "topSeedOdds": 3.55,
+      "playoffOdds": 92.81,
+      "topSeedOdds": 3.52,
       "avgPoints": 119.51,
       "weekly": [
         {
@@ -149,8 +149,8 @@
       "allPlayLosses": 41,
       "efficiency": 93.82,
       "benchPoints": 52.2,
-      "playoffOdds": 76.34,
-      "topSeedOdds": 1.12,
+      "playoffOdds": 76.51,
+      "topSeedOdds": 1.13,
       "avgPoints": 113.29,
       "weekly": [
         {
@@ -211,8 +211,8 @@
       "allPlayLosses": 29,
       "efficiency": 90.51,
       "benchPoints": 98.66,
-      "playoffOdds": 93.01,
-      "topSeedOdds": 6.37,
+      "playoffOdds": 93.49,
+      "topSeedOdds": 5.94,
       "avgPoints": 134.35,
       "weekly": [
         {
@@ -273,8 +273,8 @@
       "allPlayLosses": 32,
       "efficiency": 91.76,
       "benchPoints": 77.86,
-      "playoffOdds": 83.22,
-      "topSeedOdds": 1.44,
+      "playoffOdds": 82.92,
+      "topSeedOdds": 1.63,
       "avgPoints": 123.83,
       "weekly": [
         {
@@ -335,8 +335,8 @@
       "allPlayLosses": 25,
       "efficiency": 92.85,
       "benchPoints": 71.56,
-      "playoffOdds": 86,
-      "topSeedOdds": 1.02,
+      "playoffOdds": 85.67,
+      "topSeedOdds": 1.29,
       "avgPoints": 132.76,
       "weekly": [
         {
@@ -397,7 +397,7 @@
       "allPlayLosses": 41,
       "efficiency": 86.45,
       "benchPoints": 125.5,
-      "playoffOdds": 26.14,
+      "playoffOdds": 26.86,
       "topSeedOdds": 0.03,
       "avgPoints": 114.37,
       "weekly": [
@@ -459,8 +459,8 @@
       "allPlayLosses": 38,
       "efficiency": 95.36,
       "benchPoints": 38.9,
-      "playoffOdds": 21.94,
-      "topSeedOdds": 0.02,
+      "playoffOdds": 22.1,
+      "topSeedOdds": 0.03,
       "avgPoints": 114.26,
       "weekly": [
         {
@@ -521,8 +521,8 @@
       "allPlayLosses": 48,
       "efficiency": 87.18,
       "benchPoints": 111.64,
-      "playoffOdds": 11.8,
-      "topSeedOdds": 0.04,
+      "playoffOdds": 11.83,
+      "topSeedOdds": 0.01,
       "avgPoints": 108.42,
       "weekly": [
         {
@@ -583,8 +583,8 @@
       "allPlayLosses": 48,
       "efficiency": 86.72,
       "benchPoints": 115.84,
-      "playoffOdds": 7.35,
-      "topSeedOdds": 0.01,
+      "playoffOdds": 6.68,
+      "topSeedOdds": 0,
       "avgPoints": 108.03,
       "weekly": [
         {
@@ -1536,14 +1536,14 @@
       "aSends": {
         "name": "Trevor Lawrence",
         "pos": "QB",
-        "value": 2023
+        "value": 1999
       },
       "bSends": {
         "name": "Sam LaPorta",
         "pos": "TE",
-        "value": 2050
+        "value": 2003
       },
-      "fairness": 98.67
+      "fairness": 99.8
     },
     {
       "teamA": "mcooney32",
@@ -1551,14 +1551,14 @@
       "aSends": {
         "name": "Joe Burrow",
         "pos": "QB",
-        "value": 2919
+        "value": 2969
       },
       "bSends": {
         "name": "George Kittle",
         "pos": "TE",
-        "value": 3035
+        "value": 3056
       },
-      "fairness": 96.1
+      "fairness": 97.11
     },
     {
       "teamA": "Crashee and Co.",
@@ -1566,14 +1566,14 @@
       "aSends": {
         "name": "Trey McBride",
         "pos": "TE",
-        "value": 6368
+        "value": 6354
       },
       "bSends": {
         "name": "Josh Allen",
         "pos": "QB",
-        "value": 6641
+        "value": 6601
       },
-      "fairness": 95.8
+      "fairness": 96.19
     },
     {
       "teamA": "Schmiddy1",
@@ -1581,14 +1581,14 @@
       "aSends": {
         "name": "Pat Freiermuth",
         "pos": "TE",
-        "value": 257
+        "value": 222
       },
       "bSends": {
         "name": "Mark Andrews",
         "pos": "TE",
-        "value": 237
+        "value": 207
       },
-      "fairness": 91.9
+      "fairness": 93.01
     },
     {
       "teamA": "DefendingChampion",
@@ -1596,14 +1596,14 @@
       "aSends": {
         "name": "Trevor Lawrence",
         "pos": "QB",
-        "value": 2023
+        "value": 1999
       },
       "bSends": {
         "name": "Tyler Warren",
         "pos": "TE",
-        "value": 2246
+        "value": 2201
       },
-      "fairness": 89.55
+      "fairness": 90.38
     },
     {
       "teamA": "DefendingChampion",
@@ -1611,14 +1611,14 @@
       "aSends": {
         "name": "Trevor Lawrence",
         "pos": "QB",
-        "value": 2023
+        "value": 1999
       },
       "bSends": {
         "name": "Isaiah Likely",
         "pos": "TE",
-        "value": 2301
+        "value": 2298
       },
-      "fairness": 87.14
+      "fairness": 86.08
     },
     {
       "teamA": "mcooney32",
@@ -1626,14 +1626,14 @@
       "aSends": {
         "name": "Chris Olave",
         "pos": "WR",
-        "value": 5066
+        "value": 5024
       },
       "bSends": {
         "name": "Brock Bowers",
         "pos": "TE",
-        "value": 5773
+        "value": 5818
       },
-      "fairness": 86.95
+      "fairness": 85.35
     }
   ],
   "waiverRoi": [
@@ -2863,14 +2863,6 @@
           "livePoints": 0
         },
         {
-          "id": "11637",
-          "name": "Keon Coleman",
-          "pos": "WR",
-          "nflTeam": "BUF",
-          "points": 28.3,
-          "livePoints": 0
-        },
-        {
           "id": "11610",
           "name": "Malik Washington",
           "pos": "WR",
@@ -2891,6 +2883,14 @@
           "name": "Jordyn Tyson",
           "pos": "WR",
           "nflTeam": "NO",
+          "points": 0,
+          "livePoints": 0
+        },
+        {
+          "id": "7561",
+          "name": "Elijah Mitchell",
+          "pos": "RB",
+          "nflTeam": "PHI",
           "points": 0,
           "livePoints": 0
         }
@@ -3167,11 +3167,11 @@
           "livePoints": 0
         },
         {
-          "id": "9757",
-          "name": "Kendre Miller",
+          "id": "13345",
+          "name": "Jonah Coleman",
           "pos": "RB",
-          "nflTeam": "NO",
-          "points": 7.7,
+          "nflTeam": "DEN",
+          "points": 0,
           "livePoints": 0
         }
       ],
