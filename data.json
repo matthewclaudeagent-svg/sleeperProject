@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:14:09.442Z",
+  "generatedAt": "2026-10-31T07:44:08.800Z",
   "season": "2026",
   "currentWeek": 8,
   "league": {
@@ -26,7 +26,7 @@
       "efficiency": 89.79,
       "benchPoints": 107.64,
       "playoffOdds": 100,
-      "topSeedOdds": 86.57,
+      "topSeedOdds": 86.23,
       "avgPoints": 135.18,
       "weekly": [
         {
@@ -87,8 +87,8 @@
       "allPlayLosses": 34,
       "efficiency": 85.32,
       "benchPoints": 143.9,
-      "playoffOdds": 92.63,
-      "topSeedOdds": 3.71,
+      "playoffOdds": 92.44,
+      "topSeedOdds": 3.66,
       "avgPoints": 119.51,
       "weekly": [
         {
@@ -149,8 +149,8 @@
       "allPlayLosses": 41,
       "efficiency": 93.82,
       "benchPoints": 52.2,
-      "playoffOdds": 75.63,
-      "topSeedOdds": 1.09,
+      "playoffOdds": 76.38,
+      "topSeedOdds": 1.06,
       "avgPoints": 113.29,
       "weekly": [
         {
@@ -211,8 +211,8 @@
       "allPlayLosses": 29,
       "efficiency": 90.51,
       "benchPoints": 98.66,
-      "playoffOdds": 92.87,
-      "topSeedOdds": 6,
+      "playoffOdds": 93.15,
+      "topSeedOdds": 6.12,
       "avgPoints": 134.35,
       "weekly": [
         {
@@ -273,8 +273,8 @@
       "allPlayLosses": 32,
       "efficiency": 91.76,
       "benchPoints": 77.86,
-      "playoffOdds": 83.47,
-      "topSeedOdds": 1.47,
+      "playoffOdds": 83.29,
+      "topSeedOdds": 1.7,
       "avgPoints": 123.83,
       "weekly": [
         {
@@ -335,8 +335,8 @@
       "allPlayLosses": 25,
       "efficiency": 92.85,
       "benchPoints": 71.56,
-      "playoffOdds": 85.86,
-      "topSeedOdds": 1.04,
+      "playoffOdds": 85.35,
+      "topSeedOdds": 1.15,
       "avgPoints": 132.76,
       "weekly": [
         {
@@ -397,8 +397,8 @@
       "allPlayLosses": 41,
       "efficiency": 86.45,
       "benchPoints": 125.5,
-      "playoffOdds": 26.6,
-      "topSeedOdds": 0.06,
+      "playoffOdds": 26.01,
+      "topSeedOdds": 0.04,
       "avgPoints": 114.37,
       "weekly": [
         {
@@ -459,8 +459,8 @@
       "allPlayLosses": 38,
       "efficiency": 95.36,
       "benchPoints": 38.9,
-      "playoffOdds": 22.66,
-      "topSeedOdds": 0.05,
+      "playoffOdds": 22.79,
+      "topSeedOdds": 0.03,
       "avgPoints": 114.26,
       "weekly": [
         {
@@ -521,7 +521,7 @@
       "allPlayLosses": 48,
       "efficiency": 87.18,
       "benchPoints": 111.64,
-      "playoffOdds": 11.79,
+      "playoffOdds": 12.02,
       "topSeedOdds": 0.01,
       "avgPoints": 108.42,
       "weekly": [
@@ -583,7 +583,7 @@
       "allPlayLosses": 48,
       "efficiency": 86.72,
       "benchPoints": 115.84,
-      "playoffOdds": 7.36,
+      "playoffOdds": 7.17,
       "topSeedOdds": 0,
       "avgPoints": 108.03,
       "weekly": [
@@ -645,7 +645,7 @@
       "allPlayLosses": 49,
       "efficiency": 85.28,
       "benchPoints": 124.72,
-      "playoffOdds": 0.95,
+      "playoffOdds": 1.22,
       "topSeedOdds": 0,
       "avgPoints": 103.24,
       "weekly": [
@@ -1531,19 +1531,19 @@
   ],
   "tradeSuggestions": [
     {
-      "teamA": "DefendingChampion",
-      "teamB": "Champ",
+      "teamA": "mcooney32",
+      "teamB": "hniehaus",
       "aSends": {
-        "name": "Trevor Lawrence",
+        "name": "Joe Burrow",
         "pos": "QB",
-        "value": 2271
+        "value": 3265
       },
       "bSends": {
-        "name": "Isaiah Likely",
+        "name": "George Kittle",
         "pos": "TE",
-        "value": 2226
+        "value": 3193
       },
-      "fairness": 98
+      "fairness": 97.77
     },
     {
       "teamA": "DefendingChampion",
@@ -1551,29 +1551,14 @@
       "aSends": {
         "name": "Trevor Lawrence",
         "pos": "QB",
-        "value": 2271
+        "value": 2306
       },
       "bSends": {
         "name": "Tyler Warren",
         "pos": "TE",
-        "value": 2213
+        "value": 2387
       },
-      "fairness": 97.41
-    },
-    {
-      "teamA": "mcooney32",
-      "teamB": "hniehaus",
-      "aSends": {
-        "name": "Joe Burrow",
-        "pos": "QB",
-        "value": 3282
-      },
-      "bSends": {
-        "name": "George Kittle",
-        "pos": "TE",
-        "value": 3194
-      },
-      "fairness": 97.28
+      "fairness": 96.55
     },
     {
       "teamA": "Crashee and Co.",
@@ -1581,14 +1566,29 @@
       "aSends": {
         "name": "Trey McBride",
         "pos": "TE",
-        "value": 6372
+        "value": 6332
       },
       "bSends": {
         "name": "Josh Allen",
         "pos": "QB",
-        "value": 6076
+        "value": 6079
       },
-      "fairness": 95.24
+      "fairness": 95.92
+    },
+    {
+      "teamA": "casper05",
+      "teamB": "Champ",
+      "aSends": {
+        "name": "Tyler Warren",
+        "pos": "TE",
+        "value": 2387
+      },
+      "bSends": {
+        "name": "Caleb Williams",
+        "pos": "QB",
+        "value": 2210
+      },
+      "fairness": 92.3
     },
     {
       "teamA": "IR All Stars ",
@@ -1596,29 +1596,44 @@
       "aSends": {
         "name": "Bryce Young",
         "pos": "QB",
-        "value": 820
+        "value": 840
       },
       "bSends": {
         "name": "Matthew Stafford",
         "pos": "QB",
-        "value": 860
+        "value": 914
       },
-      "fairness": 95.24
+      "fairness": 91.56
     },
     {
-      "teamA": "DefendingChampion",
+      "teamA": "mcooney32",
+      "teamB": "mmcelvaney",
+      "aSends": {
+        "name": "Chris Olave",
+        "pos": "WR",
+        "value": 5107
+      },
+      "bSends": {
+        "name": "Brock Bowers",
+        "pos": "TE",
+        "value": 5850
+      },
+      "fairness": 86.44
+    },
+    {
+      "teamA": "Champ",
       "teamB": "IR All Stars ",
       "aSends": {
-        "name": "Trevor Lawrence",
+        "name": "Caleb Williams",
         "pos": "QB",
-        "value": 2271
+        "value": 2210
       },
       "bSends": {
         "name": "Sam LaPorta",
         "pos": "TE",
-        "value": 1999
+        "value": 1929
       },
-      "fairness": 87.26
+      "fairness": 86.42
     }
   ],
   "waiverRoi": [
