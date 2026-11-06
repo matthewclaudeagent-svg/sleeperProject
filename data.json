@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T01:54:48.463Z",
+  "generatedAt": "2026-11-06T08:45:39.520Z",
   "season": "2026",
   "currentWeek": 9,
   "league": {
@@ -26,7 +26,7 @@
       "efficiency": 88.64,
       "benchPoints": 140.64,
       "playoffOdds": 100,
-      "topSeedOdds": 88.16,
+      "topSeedOdds": 87.26,
       "avgPoints": 137.13,
       "weekly": [
         {
@@ -93,8 +93,8 @@
       "allPlayLosses": 37,
       "efficiency": 85.5,
       "benchPoints": 163.52,
-      "playoffOdds": 98.05,
-      "topSeedOdds": 5.19,
+      "playoffOdds": 98.07,
+      "topSeedOdds": 5.52,
       "avgPoints": 120.51,
       "weekly": [
         {
@@ -161,8 +161,8 @@
       "allPlayLosses": 49,
       "efficiency": 92.97,
       "benchPoints": 67.2,
-      "playoffOdds": 86.73,
-      "topSeedOdds": 1.04,
+      "playoffOdds": 86.99,
+      "topSeedOdds": 1.16,
       "avgPoints": 111.13,
       "weekly": [
         {
@@ -229,8 +229,8 @@
       "allPlayLosses": 31,
       "efficiency": 90.81,
       "benchPoints": 108.46,
-      "playoffOdds": 96.45,
-      "topSeedOdds": 5.2,
+      "playoffOdds": 97.03,
+      "topSeedOdds": 5.59,
       "avgPoints": 134,
       "weekly": [
         {
@@ -297,8 +297,8 @@
       "allPlayLosses": 32,
       "efficiency": 91.98,
       "benchPoints": 89.7,
-      "playoffOdds": 86.65,
-      "topSeedOdds": 0.35,
+      "playoffOdds": 86.77,
+      "topSeedOdds": 0.39,
       "avgPoints": 128.63,
       "weekly": [
         {
@@ -365,8 +365,8 @@
       "allPlayLosses": 41,
       "efficiency": 91.63,
       "benchPoints": 87.76,
-      "playoffOdds": 67.44,
-      "topSeedOdds": 0.04,
+      "playoffOdds": 67.15,
+      "topSeedOdds": 0.06,
       "avgPoints": 120.11,
       "weekly": [
         {
@@ -433,7 +433,7 @@
       "allPlayLosses": 39,
       "efficiency": 96.06,
       "benchPoints": 38.9,
-      "playoffOdds": 45.87,
+      "playoffOdds": 45.24,
       "topSeedOdds": 0.02,
       "avgPoints": 118.59,
       "weekly": [
@@ -501,7 +501,7 @@
       "allPlayLosses": 51,
       "efficiency": 86.38,
       "benchPoints": 140.48,
-      "playoffOdds": 9.64,
+      "playoffOdds": 9.52,
       "topSeedOdds": 0,
       "avgPoints": 111.41,
       "weekly": [
@@ -569,7 +569,7 @@
       "allPlayLosses": 54,
       "efficiency": 88.39,
       "benchPoints": 112.94,
-      "playoffOdds": 6.65,
+      "playoffOdds": 6.71,
       "topSeedOdds": 0,
       "avgPoints": 107.44,
       "weekly": [
@@ -637,7 +637,7 @@
       "allPlayLosses": 53,
       "efficiency": 86.21,
       "benchPoints": 135.12,
-      "playoffOdds": 0.33,
+      "playoffOdds": 0.25,
       "topSeedOdds": 0,
       "avgPoints": 105.55,
       "weekly": [
@@ -705,7 +705,7 @@
       "allPlayLosses": 59,
       "efficiency": 86.36,
       "benchPoints": 132.44,
-      "playoffOdds": 1.95,
+      "playoffOdds": 1.99,
       "topSeedOdds": 0,
       "avgPoints": 104.85,
       "weekly": [
@@ -773,7 +773,7 @@
       "allPlayLosses": 65,
       "efficiency": 90.43,
       "benchPoints": 83.92,
-      "playoffOdds": 0.24,
+      "playoffOdds": 0.28,
       "topSeedOdds": 0,
       "avgPoints": 99.14,
       "weekly": [
@@ -1673,64 +1673,34 @@
   ],
   "tradeSuggestions": [
     {
-      "teamA": "Crashee and Co.",
-      "teamB": "jhuang24",
-      "aSends": {
-        "name": "Trey McBride",
-        "pos": "TE",
-        "value": 6229
-      },
-      "bSends": {
-        "name": "Josh Allen",
-        "pos": "QB",
-        "value": 6347
-      },
-      "fairness": 98.12
-    },
-    {
-      "teamA": "IR All Stars ",
-      "teamB": "Team t-hart",
-      "aSends": {
-        "name": "Sam LaPorta",
-        "pos": "TE",
-        "value": 1613
-      },
-      "bSends": {
-        "name": "Dak Prescott",
-        "pos": "QB",
-        "value": 1578
-      },
-      "fairness": 97.81
-    },
-    {
       "teamA": "mcooney32",
       "teamB": "hniehaus",
       "aSends": {
         "name": "Joe Burrow",
         "pos": "QB",
-        "value": 3512
+        "value": 3547
       },
       "bSends": {
         "name": "George Kittle",
         "pos": "TE",
-        "value": 3422
+        "value": 3420
       },
-      "fairness": 97.4
+      "fairness": 96.35
     },
     {
-      "teamA": "Lapointe12",
-      "teamB": "hniehaus",
+      "teamA": "Crashee and Co.",
+      "teamB": "jhuang24",
       "aSends": {
-        "name": "C.J. Stroud",
-        "pos": "QB",
-        "value": 828
+        "name": "Trey McBride",
+        "pos": "TE",
+        "value": 6252
       },
       "bSends": {
-        "name": "Matthew Stafford",
+        "name": "Josh Allen",
         "pos": "QB",
-        "value": 804
+        "value": 6584
       },
-      "fairness": 97.06
+      "fairness": 94.83
     },
     {
       "teamA": "jhuang24",
@@ -1738,14 +1708,14 @@
       "aSends": {
         "name": "Josh Allen",
         "pos": "QB",
-        "value": 6347
+        "value": 6584
       },
       "bSends": {
         "name": "Brock Bowers",
         "pos": "TE",
-        "value": 6703
+        "value": 6979
       },
-      "fairness": 94.54
+      "fairness": 94.18
     },
     {
       "teamA": "DefendingChampion",
@@ -1753,14 +1723,29 @@
       "aSends": {
         "name": "Tucker Kraft",
         "pos": "TE",
-        "value": 1721
+        "value": 1808
       },
       "bSends": {
         "name": "Isaiah Likely",
         "pos": "TE",
-        "value": 1870
+        "value": 1918
       },
-      "fairness": 91.7
+      "fairness": 94.1
+    },
+    {
+      "teamA": "IR All Stars ",
+      "teamB": "Team t-hart",
+      "aSends": {
+        "name": "Sam LaPorta",
+        "pos": "TE",
+        "value": 1656
+      },
+      "bSends": {
+        "name": "Dak Prescott",
+        "pos": "QB",
+        "value": 1489
+      },
+      "fairness": 89.38
     }
   ],
   "waiverRoi": [
@@ -1949,20 +1934,20 @@
       "points": 21.3
     },
     {
+      "player": "Brenton Strange",
+      "pos": "TE",
+      "team": "Champ",
+      "rosterId": 6,
+      "week": 5,
+      "points": 21.1
+    },
+    {
       "player": "Jonah Coleman",
       "pos": "RB",
       "team": "Team t-hart",
       "rosterId": 10,
       "week": 3,
       "points": 20.4
-    },
-    {
-      "player": "Hunter Henry",
-      "pos": "TE",
-      "team": "jhuang24",
-      "rosterId": 7,
-      "week": 5,
-      "points": 20.1
     }
   ],
   "rosters": [
@@ -2128,7 +2113,7 @@
           "pos": "WR",
           "nflTeam": "JAX",
           "points": 95.5,
-          "livePoints": 2.1
+          "livePoints": 14.1
         },
         {
           "slot": "WR",
@@ -2232,7 +2217,7 @@
           "pos": "QB",
           "nflTeam": "JAX",
           "points": 137.6,
-          "livePoints": 4
+          "livePoints": 13.58
         },
         {
           "slot": "RB",
@@ -2390,7 +2375,7 @@
           "pos": "WR",
           "nflTeam": "BAL",
           "points": 122.2,
-          "livePoints": 1.6
+          "livePoints": 5.3
         },
         {
           "slot": "WR",
@@ -2661,7 +2646,7 @@
           "pos": "RB",
           "nflTeam": "JAX",
           "points": 118.3,
-          "livePoints": 7.6
+          "livePoints": 8.9
         },
         {
           "slot": "WR",
@@ -2715,7 +2700,7 @@
           "pos": "DEF",
           "nflTeam": "JAX",
           "points": 66,
-          "livePoints": 7
+          "livePoints": 11
         }
       ],
       "bench": [
@@ -2749,7 +2734,7 @@
           "pos": "TE",
           "nflTeam": "JAX",
           "points": 30.7,
-          "livePoints": 0
+          "livePoints": 4.2
         },
         {
           "id": "9753",
@@ -2968,7 +2953,7 @@
           "pos": "K",
           "nflTeam": "JAX",
           "points": 61,
-          "livePoints": 4
+          "livePoints": 17
         },
         {
           "slot": "DEF",
@@ -3099,7 +3084,7 @@
           "pos": "RB",
           "nflTeam": "BAL",
           "points": 136.7,
-          "livePoints": 2.98
+          "livePoints": 5.58
         },
         {
           "slot": "K",
@@ -3225,12 +3210,11 @@
         },
         {
           "slot": "TE",
-          "id": "9482",
-          "name": "Michael Mayer",
-          "pos": "TE",
-          "nflTeam": "LV",
-          "points": 9.2,
-          "livePoints": 0
+          "id": null,
+          "name": "Empty",
+          "pos": null,
+          "nflTeam": null,
+          "points": 0
         },
         {
           "slot": "FLEX",
@@ -3267,6 +3251,14 @@
           "pos": "RB",
           "nflTeam": "NO",
           "points": 65.8,
+          "livePoints": 0
+        },
+        {
+          "id": "3214",
+          "name": "Hunter Henry",
+          "pos": "TE",
+          "nflTeam": "NE",
+          "points": 58.8,
           "livePoints": 0
         },
         {
