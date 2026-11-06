@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T16:28:55.108Z",
+  "generatedAt": "2026-11-06T21:52:29.127Z",
   "season": "2026",
   "currentWeek": 9,
   "league": {
@@ -26,7 +26,7 @@
       "efficiency": 88.64,
       "benchPoints": 140.64,
       "playoffOdds": 100,
-      "topSeedOdds": 88.95,
+      "topSeedOdds": 88.24,
       "avgPoints": 137.13,
       "weekly": [
         {
@@ -93,8 +93,8 @@
       "allPlayLosses": 37,
       "efficiency": 85.5,
       "benchPoints": 163.52,
-      "playoffOdds": 98.15,
-      "topSeedOdds": 5.17,
+      "playoffOdds": 98.26,
+      "topSeedOdds": 5.23,
       "avgPoints": 120.51,
       "weekly": [
         {
@@ -161,8 +161,8 @@
       "allPlayLosses": 49,
       "efficiency": 92.97,
       "benchPoints": 67.2,
-      "playoffOdds": 86.95,
-      "topSeedOdds": 0.92,
+      "playoffOdds": 86.88,
+      "topSeedOdds": 1.03,
       "avgPoints": 111.13,
       "weekly": [
         {
@@ -229,8 +229,8 @@
       "allPlayLosses": 31,
       "efficiency": 90.81,
       "benchPoints": 108.46,
-      "playoffOdds": 96.69,
-      "topSeedOdds": 4.53,
+      "playoffOdds": 96.33,
+      "topSeedOdds": 5.08,
       "avgPoints": 134,
       "weekly": [
         {
@@ -297,8 +297,8 @@
       "allPlayLosses": 32,
       "efficiency": 91.98,
       "benchPoints": 89.7,
-      "playoffOdds": 85.95,
-      "topSeedOdds": 0.32,
+      "playoffOdds": 87.11,
+      "topSeedOdds": 0.34,
       "avgPoints": 128.63,
       "weekly": [
         {
@@ -365,8 +365,8 @@
       "allPlayLosses": 41,
       "efficiency": 91.63,
       "benchPoints": 87.76,
-      "playoffOdds": 67.61,
-      "topSeedOdds": 0.09,
+      "playoffOdds": 67.25,
+      "topSeedOdds": 0.05,
       "avgPoints": 120.11,
       "weekly": [
         {
@@ -433,8 +433,8 @@
       "allPlayLosses": 39,
       "efficiency": 96.06,
       "benchPoints": 38.9,
-      "playoffOdds": 45.57,
-      "topSeedOdds": 0.02,
+      "playoffOdds": 45.35,
+      "topSeedOdds": 0.03,
       "avgPoints": 118.59,
       "weekly": [
         {
@@ -501,7 +501,7 @@
       "allPlayLosses": 51,
       "efficiency": 86.38,
       "benchPoints": 140.48,
-      "playoffOdds": 9.95,
+      "playoffOdds": 9.61,
       "topSeedOdds": 0,
       "avgPoints": 111.41,
       "weekly": [
@@ -569,7 +569,7 @@
       "allPlayLosses": 54,
       "efficiency": 88.39,
       "benchPoints": 112.94,
-      "playoffOdds": 6.29,
+      "playoffOdds": 6.31,
       "topSeedOdds": 0,
       "avgPoints": 107.44,
       "weekly": [
@@ -705,7 +705,7 @@
       "allPlayLosses": 59,
       "efficiency": 86.36,
       "benchPoints": 132.44,
-      "playoffOdds": 2.22,
+      "playoffOdds": 2.31,
       "topSeedOdds": 0,
       "avgPoints": 104.85,
       "weekly": [
@@ -773,7 +773,7 @@
       "allPlayLosses": 65,
       "efficiency": 90.43,
       "benchPoints": 83.92,
-      "playoffOdds": 0.28,
+      "playoffOdds": 0.25,
       "topSeedOdds": 0,
       "avgPoints": 99.14,
       "weekly": [
@@ -1678,29 +1678,14 @@
       "aSends": {
         "name": "Josh Allen",
         "pos": "QB",
-        "value": 6624
+        "value": 6774
       },
       "bSends": {
         "name": "Brock Bowers",
         "pos": "TE",
-        "value": 6948
+        "value": 6949
       },
-      "fairness": 95.23
-    },
-    {
-      "teamA": "Crashee and Co.",
-      "teamB": "jhuang24",
-      "aSends": {
-        "name": "Trey McBride",
-        "pos": "TE",
-        "value": 6287
-      },
-      "bSends": {
-        "name": "Josh Allen",
-        "pos": "QB",
-        "value": 6624
-      },
-      "fairness": 94.78
+      "fairness": 97.45
     },
     {
       "teamA": "DefendingChampion",
@@ -1708,14 +1693,29 @@
       "aSends": {
         "name": "Tucker Kraft",
         "pos": "TE",
-        "value": 1768
+        "value": 1893
       },
       "bSends": {
         "name": "Isaiah Likely",
         "pos": "TE",
-        "value": 1911
+        "value": 1990
       },
-      "fairness": 92.23
+      "fairness": 95
+    },
+    {
+      "teamA": "Crashee and Co.",
+      "teamB": "jhuang24",
+      "aSends": {
+        "name": "Trey McBride",
+        "pos": "TE",
+        "value": 6365
+      },
+      "bSends": {
+        "name": "Josh Allen",
+        "pos": "QB",
+        "value": 6774
+      },
+      "fairness": 93.77
     },
     {
       "teamA": "mcooney32",
@@ -1723,14 +1723,14 @@
       "aSends": {
         "name": "Joe Burrow",
         "pos": "QB",
-        "value": 3576
+        "value": 3729
       },
       "bSends": {
         "name": "George Kittle",
         "pos": "TE",
-        "value": 3275
+        "value": 3416
       },
-      "fairness": 91.21
+      "fairness": 91.24
     },
     {
       "teamA": "IR All Stars ",
@@ -1738,14 +1738,14 @@
       "aSends": {
         "name": "Sam LaPorta",
         "pos": "TE",
-        "value": 1685
+        "value": 1742
       },
       "bSends": {
         "name": "Dak Prescott",
         "pos": "QB",
-        "value": 1491
+        "value": 1514
       },
-      "fairness": 87.78
+      "fairness": 86
     }
   ],
   "waiverRoi": [
@@ -2912,11 +2912,11 @@
         },
         {
           "slot": "WR",
-          "id": "7525",
-          "name": "DeVonta Smith",
+          "id": "13276",
+          "name": "Omar Cooper Jr.",
           "pos": "WR",
-          "nflTeam": "PHI",
-          "points": 69,
+          "nflTeam": "NYJ",
+          "points": 22.5,
           "livePoints": 0
         },
         {
@@ -2967,6 +2967,14 @@
       ],
       "bench": [
         {
+          "id": "7525",
+          "name": "DeVonta Smith",
+          "pos": "WR",
+          "nflTeam": "PHI",
+          "points": 69,
+          "livePoints": 0
+        },
+        {
           "id": "5892",
           "name": "David Montgomery",
           "pos": "RB",
@@ -2980,14 +2988,6 @@
           "pos": "WR",
           "nflTeam": "PIT",
           "points": 39.4,
-          "livePoints": 0
-        },
-        {
-          "id": "13276",
-          "name": "Omar Cooper Jr.",
-          "pos": "WR",
-          "nflTeam": "NYJ",
-          "points": 22.5,
           "livePoints": 0
         },
         {
