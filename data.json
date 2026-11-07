@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T14:45:09.266Z",
+  "generatedAt": "2026-11-07T19:11:58.072Z",
   "season": "2026",
   "currentWeek": 9,
   "league": {
@@ -26,7 +26,7 @@
       "efficiency": 88.64,
       "benchPoints": 140.64,
       "playoffOdds": 100,
-      "topSeedOdds": 88.22,
+      "topSeedOdds": 88.33,
       "avgPoints": 137.13,
       "weekly": [
         {
@@ -93,8 +93,8 @@
       "allPlayLosses": 37,
       "efficiency": 85.5,
       "benchPoints": 163.52,
-      "playoffOdds": 98.04,
-      "topSeedOdds": 5.04,
+      "playoffOdds": 98.2,
+      "topSeedOdds": 4.84,
       "avgPoints": 120.51,
       "weekly": [
         {
@@ -161,8 +161,8 @@
       "allPlayLosses": 49,
       "efficiency": 92.97,
       "benchPoints": 67.2,
-      "playoffOdds": 86.39,
-      "topSeedOdds": 0.86,
+      "playoffOdds": 86.92,
+      "topSeedOdds": 1.12,
       "avgPoints": 111.13,
       "weekly": [
         {
@@ -229,8 +229,8 @@
       "allPlayLosses": 31,
       "efficiency": 90.81,
       "benchPoints": 108.46,
-      "playoffOdds": 96.86,
-      "topSeedOdds": 5.36,
+      "playoffOdds": 97,
+      "topSeedOdds": 5.29,
       "avgPoints": 134,
       "weekly": [
         {
@@ -297,8 +297,8 @@
       "allPlayLosses": 32,
       "efficiency": 91.98,
       "benchPoints": 89.7,
-      "playoffOdds": 86.83,
-      "topSeedOdds": 0.39,
+      "playoffOdds": 86.82,
+      "topSeedOdds": 0.36,
       "avgPoints": 128.63,
       "weekly": [
         {
@@ -365,7 +365,7 @@
       "allPlayLosses": 41,
       "efficiency": 91.63,
       "benchPoints": 87.76,
-      "playoffOdds": 66.95,
+      "playoffOdds": 66.67,
       "topSeedOdds": 0.04,
       "avgPoints": 120.11,
       "weekly": [
@@ -433,8 +433,8 @@
       "allPlayLosses": 39,
       "efficiency": 96.06,
       "benchPoints": 38.9,
-      "playoffOdds": 46.35,
-      "topSeedOdds": 0.09,
+      "playoffOdds": 45.11,
+      "topSeedOdds": 0.02,
       "avgPoints": 118.59,
       "weekly": [
         {
@@ -569,7 +569,7 @@
       "allPlayLosses": 54,
       "efficiency": 88.39,
       "benchPoints": 112.94,
-      "playoffOdds": 6.14,
+      "playoffOdds": 6.67,
       "topSeedOdds": 0,
       "avgPoints": 107.44,
       "weekly": [
@@ -705,7 +705,7 @@
       "allPlayLosses": 59,
       "efficiency": 86.36,
       "benchPoints": 132.44,
-      "playoffOdds": 2.05,
+      "playoffOdds": 2.25,
       "topSeedOdds": 0,
       "avgPoints": 104.85,
       "weekly": [
@@ -773,7 +773,7 @@
       "allPlayLosses": 65,
       "efficiency": 90.43,
       "benchPoints": 83.92,
-      "playoffOdds": 0.3,
+      "playoffOdds": 0.27,
       "topSeedOdds": 0,
       "avgPoints": 99.14,
       "weekly": [
@@ -1683,69 +1683,9 @@
       "bSends": {
         "name": "Brock Bowers",
         "pos": "TE",
-        "value": 6736
+        "value": 6768
       },
-      "fairness": 99.79
-    },
-    {
-      "teamA": "Lapointe12",
-      "teamB": "hniehaus",
-      "aSends": {
-        "name": "C.J. Stroud",
-        "pos": "QB",
-        "value": 835
-      },
-      "bSends": {
-        "name": "Matthew Stafford",
-        "pos": "QB",
-        "value": 821
-      },
-      "fairness": 98.31
-    },
-    {
-      "teamA": "DefendingChampion",
-      "teamB": "Champ",
-      "aSends": {
-        "name": "Tucker Kraft",
-        "pos": "TE",
-        "value": 2020
-      },
-      "bSends": {
-        "name": "Isaiah Likely",
-        "pos": "TE",
-        "value": 2061
-      },
-      "fairness": 97.99
-    },
-    {
-      "teamA": "mcooney32",
-      "teamB": "hniehaus",
-      "aSends": {
-        "name": "Joe Burrow",
-        "pos": "QB",
-        "value": 3792
-      },
-      "bSends": {
-        "name": "George Kittle",
-        "pos": "TE",
-        "value": 3662
-      },
-      "fairness": 96.51
-    },
-    {
-      "teamA": "IR All Stars ",
-      "teamB": "Team t-hart",
-      "aSends": {
-        "name": "Sam LaPorta",
-        "pos": "TE",
-        "value": 1730
-      },
-      "bSends": {
-        "name": "Dak Prescott",
-        "pos": "QB",
-        "value": 1640
-      },
-      "fairness": 94.66
+      "fairness": 99.73
     },
     {
       "teamA": "Crashee and Co.",
@@ -1753,14 +1693,59 @@
       "aSends": {
         "name": "Trey McBride",
         "pos": "TE",
-        "value": 6340
+        "value": 6483
       },
       "bSends": {
         "name": "Josh Allen",
         "pos": "QB",
         "value": 6750
       },
-      "fairness": 93.74
+      "fairness": 95.96
+    },
+    {
+      "teamA": "DefendingChampion",
+      "teamB": "Champ",
+      "aSends": {
+        "name": "Tucker Kraft",
+        "pos": "TE",
+        "value": 1993
+      },
+      "bSends": {
+        "name": "Isaiah Likely",
+        "pos": "TE",
+        "value": 2101
+      },
+      "fairness": 94.72
+    },
+    {
+      "teamA": "mcooney32",
+      "teamB": "hniehaus",
+      "aSends": {
+        "name": "Joe Burrow",
+        "pos": "QB",
+        "value": 3954
+      },
+      "bSends": {
+        "name": "George Kittle",
+        "pos": "TE",
+        "value": 3735
+      },
+      "fairness": 94.3
+    },
+    {
+      "teamA": "IR All Stars ",
+      "teamB": "Team t-hart",
+      "aSends": {
+        "name": "Sam LaPorta",
+        "pos": "TE",
+        "value": 1777
+      },
+      "bSends": {
+        "name": "Dak Prescott",
+        "pos": "QB",
+        "value": 1667
+      },
+      "fairness": 93.61
     }
   ],
   "waiverRoi": [
