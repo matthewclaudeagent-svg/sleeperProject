@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T14:38:25.531Z",
+  "generatedAt": "2026-11-14T19:35:39.766Z",
   "season": "2026",
   "currentWeek": 10,
   "league": {
@@ -26,7 +26,7 @@
       "efficiency": 88.91,
       "benchPoints": 153.06,
       "playoffOdds": 100,
-      "topSeedOdds": 82.5,
+      "topSeedOdds": 82.53,
       "avgPoints": 136.38,
       "weekly": [
         {
@@ -99,8 +99,8 @@
       "allPlayLosses": 38,
       "efficiency": 84.27,
       "benchPoints": 209.22,
-      "playoffOdds": 99.93,
-      "topSeedOdds": 9.93,
+      "playoffOdds": 99.95,
+      "topSeedOdds": 9.77,
       "avgPoints": 124.55,
       "weekly": [
         {
@@ -173,8 +173,8 @@
       "allPlayLosses": 31,
       "efficiency": 91.39,
       "benchPoints": 116.36,
-      "playoffOdds": 99.6,
-      "topSeedOdds": 7.43,
+      "playoffOdds": 99.67,
+      "topSeedOdds": 7.57,
       "avgPoints": 137.22,
       "weekly": [
         {
@@ -247,8 +247,8 @@
       "allPlayLosses": 57,
       "efficiency": 93.54,
       "benchPoints": 68.1,
-      "playoffOdds": 86.11,
-      "topSeedOdds": 0.1,
+      "playoffOdds": 86.26,
+      "topSeedOdds": 0.11,
       "avgPoints": 109.54,
       "weekly": [
         {
@@ -321,8 +321,8 @@
       "allPlayLosses": 44,
       "efficiency": 92.11,
       "benchPoints": 92.9,
-      "playoffOdds": 82.62,
-      "topSeedOdds": 0.04,
+      "playoffOdds": 82.63,
+      "topSeedOdds": 0.02,
       "avgPoints": 120.56,
       "weekly": [
         {
@@ -395,7 +395,7 @@
       "allPlayLosses": 43,
       "efficiency": 91.05,
       "benchPoints": 109.46,
-      "playoffOdds": 74,
+      "playoffOdds": 73.47,
       "topSeedOdds": 0,
       "avgPoints": 123.8,
       "weekly": [
@@ -469,7 +469,7 @@
       "allPlayLosses": 46,
       "efficiency": 95.11,
       "benchPoints": 54,
-      "playoffOdds": 36.94,
+      "playoffOdds": 37.08,
       "topSeedOdds": 0,
       "avgPoints": 116.58,
       "weekly": [
@@ -543,7 +543,7 @@
       "allPlayLosses": 56,
       "efficiency": 86.45,
       "benchPoints": 156.98,
-      "playoffOdds": 16.18,
+      "playoffOdds": 16.47,
       "topSeedOdds": 0,
       "avgPoints": 111.32,
       "weekly": [
@@ -617,7 +617,7 @@
       "allPlayLosses": 57,
       "efficiency": 87.65,
       "benchPoints": 136.12,
-      "playoffOdds": 1.07,
+      "playoffOdds": 1.05,
       "topSeedOdds": 0,
       "avgPoints": 107.31,
       "weekly": [
@@ -691,7 +691,7 @@
       "allPlayLosses": 63,
       "efficiency": 88.39,
       "benchPoints": 125.44,
-      "playoffOdds": 2.62,
+      "playoffOdds": 2.68,
       "topSeedOdds": 0,
       "avgPoints": 106.14,
       "weekly": [
@@ -765,7 +765,7 @@
       "allPlayLosses": 65,
       "efficiency": 86.65,
       "benchPoints": 145.54,
-      "playoffOdds": 0.85,
+      "playoffOdds": 0.72,
       "topSeedOdds": 0,
       "avgPoints": 104.94,
       "weekly": [
@@ -839,7 +839,7 @@
       "allPlayLosses": 75,
       "efficiency": 89.84,
       "benchPoints": 99.62,
-      "playoffOdds": 0.08,
+      "playoffOdds": 0.02,
       "topSeedOdds": 0,
       "avgPoints": 97.88,
       "weekly": [
@@ -1817,44 +1817,59 @@
       "aSends": {
         "name": "Josh Allen",
         "pos": "QB",
-        "value": 6738
+        "value": 6636
       },
       "bSends": {
         "name": "Brock Bowers",
         "pos": "TE",
-        "value": 6814
+        "value": 6651
       },
-      "fairness": 98.88
-    },
-    {
-      "teamA": "casper05",
-      "teamB": "mmcelvaney",
-      "aSends": {
-        "name": "Patrick Mahomes",
-        "pos": "QB",
-        "value": 1655
-      },
-      "bSends": {
-        "name": "Jayden Daniels",
-        "pos": "QB",
-        "value": 1730
-      },
-      "fairness": 95.57
+      "fairness": 99.77
     },
     {
       "teamA": "DefendingChampion",
       "teamB": "casper05",
       "aSends": {
-        "name": "Trevor Lawrence",
+        "name": "Jordan Love",
         "pos": "QB",
-        "value": 2196
+        "value": 2163
       },
       "bSends": {
         "name": "Tyler Warren",
         "pos": "TE",
-        "value": 2038
+        "value": 2041
       },
-      "fairness": 92.54
+      "fairness": 94.2
+    },
+    {
+      "teamA": "IR All Stars ",
+      "teamB": "Team t-hart",
+      "aSends": {
+        "name": "Sam LaPorta",
+        "pos": "TE",
+        "value": 1842
+      },
+      "bSends": {
+        "name": "Dak Prescott",
+        "pos": "QB",
+        "value": 1703
+      },
+      "fairness": 92.16
+    },
+    {
+      "teamA": "DefendingChampion",
+      "teamB": "jhuang24",
+      "aSends": {
+        "name": "Tucker Kraft",
+        "pos": "TE",
+        "value": 1512
+      },
+      "bSends": {
+        "name": "Travis Kelce",
+        "pos": "TE",
+        "value": 1655
+      },
+      "fairness": 90.97
     },
     {
       "teamA": "Crashee and Co.",
@@ -1862,14 +1877,29 @@
       "aSends": {
         "name": "Trey McBride",
         "pos": "TE",
-        "value": 6106
+        "value": 5883
       },
       "bSends": {
         "name": "Josh Allen",
         "pos": "QB",
-        "value": 6738
+        "value": 6636
       },
-      "fairness": 90.16
+      "fairness": 87.97
+    },
+    {
+      "teamA": "casper05",
+      "teamB": "mmcelvaney",
+      "aSends": {
+        "name": "Patrick Mahomes",
+        "pos": "QB",
+        "value": 1470
+      },
+      "bSends": {
+        "name": "Jayden Daniels",
+        "pos": "QB",
+        "value": 1682
+      },
+      "fairness": 86.55
     }
   ],
   "waiverRoi": [
@@ -2091,11 +2121,11 @@
         },
         {
           "slot": "RB",
-          "id": "8151",
-          "name": "Kenneth Walker III",
+          "id": "13337",
+          "name": "Emmett Johnson",
           "pos": "RB",
           "nflTeam": "KC",
-          "points": 196.4,
+          "points": 0,
           "livePoints": 0
         },
         {
@@ -2164,6 +2194,14 @@
       ],
       "bench": [
         {
+          "id": "8151",
+          "name": "Kenneth Walker III",
+          "pos": "RB",
+          "nflTeam": "KC",
+          "points": 196.4,
+          "livePoints": 0
+        },
+        {
           "id": "5844",
           "name": "T.J. Hockenson",
           "pos": "TE",
@@ -2192,14 +2230,6 @@
           "name": "Corey Kiner",
           "pos": "RB",
           "nflTeam": "NE",
-          "points": 0,
-          "livePoints": 0
-        },
-        {
-          "id": "13337",
-          "name": "Emmett Johnson",
-          "pos": "RB",
-          "nflTeam": "KC",
           "points": 0,
           "livePoints": 0
         }
@@ -3036,11 +3066,11 @@
         },
         {
           "slot": "RB",
-          "id": "5892",
-          "name": "David Montgomery",
+          "id": "7543",
+          "name": "Travis Etienne Jr.",
           "pos": "RB",
-          "nflTeam": "HOU",
-          "points": 45.5,
+          "nflTeam": "NO",
+          "points": 30.9,
           "livePoints": 0
         },
         {
@@ -3072,11 +3102,11 @@
         },
         {
           "slot": "FLEX",
-          "id": "7543",
-          "name": "Travis Etienne Jr.",
-          "pos": "RB",
-          "nflTeam": "NO",
-          "points": 30.9,
+          "id": "11610",
+          "name": "Malik Washington",
+          "pos": "WR",
+          "nflTeam": "MIA",
+          "points": 46.4,
           "livePoints": 0
         },
         {
@@ -3108,11 +3138,11 @@
           "livePoints": 0
         },
         {
-          "id": "11610",
-          "name": "Malik Washington",
-          "pos": "WR",
-          "nflTeam": "MIA",
-          "points": 46.4,
+          "id": "5892",
+          "name": "David Montgomery",
+          "pos": "RB",
+          "nflTeam": "HOU",
+          "points": 45.5,
           "livePoints": 0
         },
         {
