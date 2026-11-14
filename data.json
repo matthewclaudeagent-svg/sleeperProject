@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T19:35:39.766Z",
+  "generatedAt": "2026-11-14T23:30:02.279Z",
   "season": "2026",
   "currentWeek": 10,
   "league": {
@@ -26,7 +26,7 @@
       "efficiency": 88.91,
       "benchPoints": 153.06,
       "playoffOdds": 100,
-      "topSeedOdds": 82.53,
+      "topSeedOdds": 81.93,
       "avgPoints": 136.38,
       "weekly": [
         {
@@ -99,8 +99,8 @@
       "allPlayLosses": 38,
       "efficiency": 84.27,
       "benchPoints": 209.22,
-      "playoffOdds": 99.95,
-      "topSeedOdds": 9.77,
+      "playoffOdds": 99.94,
+      "topSeedOdds": 10.04,
       "avgPoints": 124.55,
       "weekly": [
         {
@@ -173,8 +173,8 @@
       "allPlayLosses": 31,
       "efficiency": 91.39,
       "benchPoints": 116.36,
-      "playoffOdds": 99.67,
-      "topSeedOdds": 7.57,
+      "playoffOdds": 99.79,
+      "topSeedOdds": 7.89,
       "avgPoints": 137.22,
       "weekly": [
         {
@@ -247,7 +247,7 @@
       "allPlayLosses": 57,
       "efficiency": 93.54,
       "benchPoints": 68.1,
-      "playoffOdds": 86.26,
+      "playoffOdds": 85.42,
       "topSeedOdds": 0.11,
       "avgPoints": 109.54,
       "weekly": [
@@ -321,8 +321,8 @@
       "allPlayLosses": 44,
       "efficiency": 92.11,
       "benchPoints": 92.9,
-      "playoffOdds": 82.63,
-      "topSeedOdds": 0.02,
+      "playoffOdds": 82.58,
+      "topSeedOdds": 0.03,
       "avgPoints": 120.56,
       "weekly": [
         {
@@ -395,7 +395,7 @@
       "allPlayLosses": 43,
       "efficiency": 91.05,
       "benchPoints": 109.46,
-      "playoffOdds": 73.47,
+      "playoffOdds": 74.61,
       "topSeedOdds": 0,
       "avgPoints": 123.8,
       "weekly": [
@@ -469,7 +469,7 @@
       "allPlayLosses": 46,
       "efficiency": 95.11,
       "benchPoints": 54,
-      "playoffOdds": 37.08,
+      "playoffOdds": 37,
       "topSeedOdds": 0,
       "avgPoints": 116.58,
       "weekly": [
@@ -543,7 +543,7 @@
       "allPlayLosses": 56,
       "efficiency": 86.45,
       "benchPoints": 156.98,
-      "playoffOdds": 16.47,
+      "playoffOdds": 15.19,
       "topSeedOdds": 0,
       "avgPoints": 111.32,
       "weekly": [
@@ -617,7 +617,7 @@
       "allPlayLosses": 57,
       "efficiency": 87.65,
       "benchPoints": 136.12,
-      "playoffOdds": 1.05,
+      "playoffOdds": 1.38,
       "topSeedOdds": 0,
       "avgPoints": 107.31,
       "weekly": [
@@ -691,7 +691,7 @@
       "allPlayLosses": 63,
       "efficiency": 88.39,
       "benchPoints": 125.44,
-      "playoffOdds": 2.68,
+      "playoffOdds": 3.06,
       "topSeedOdds": 0,
       "avgPoints": 106.14,
       "weekly": [
@@ -765,7 +765,7 @@
       "allPlayLosses": 65,
       "efficiency": 86.65,
       "benchPoints": 145.54,
-      "playoffOdds": 0.72,
+      "playoffOdds": 0.93,
       "topSeedOdds": 0,
       "avgPoints": 104.94,
       "weekly": [
@@ -839,7 +839,7 @@
       "allPlayLosses": 75,
       "efficiency": 89.84,
       "benchPoints": 99.62,
-      "playoffOdds": 0.02,
+      "playoffOdds": 0.1,
       "topSeedOdds": 0,
       "avgPoints": 97.88,
       "weekly": [
@@ -1817,29 +1817,14 @@
       "aSends": {
         "name": "Josh Allen",
         "pos": "QB",
-        "value": 6636
+        "value": 6718
       },
       "bSends": {
         "name": "Brock Bowers",
         "pos": "TE",
-        "value": 6651
+        "value": 6533
       },
-      "fairness": 99.77
-    },
-    {
-      "teamA": "DefendingChampion",
-      "teamB": "casper05",
-      "aSends": {
-        "name": "Jordan Love",
-        "pos": "QB",
-        "value": 2163
-      },
-      "bSends": {
-        "name": "Tyler Warren",
-        "pos": "TE",
-        "value": 2041
-      },
-      "fairness": 94.2
+      "fairness": 97.21
     },
     {
       "teamA": "IR All Stars ",
@@ -1847,44 +1832,44 @@
       "aSends": {
         "name": "Sam LaPorta",
         "pos": "TE",
-        "value": 1842
+        "value": 1853
       },
       "bSends": {
         "name": "Dak Prescott",
         "pos": "QB",
-        "value": 1703
+        "value": 1777
       },
-      "fairness": 92.16
+      "fairness": 95.81
     },
     {
       "teamA": "DefendingChampion",
       "teamB": "jhuang24",
       "aSends": {
-        "name": "Tucker Kraft",
+        "name": "Harold Fannin Jr.",
         "pos": "TE",
-        "value": 1512
+        "value": 1572
       },
       "bSends": {
         "name": "Travis Kelce",
         "pos": "TE",
-        "value": 1655
+        "value": 1675
       },
-      "fairness": 90.97
+      "fairness": 93.66
     },
     {
-      "teamA": "Crashee and Co.",
-      "teamB": "jhuang24",
+      "teamA": "DefendingChampion",
+      "teamB": "casper05",
       "aSends": {
-        "name": "Trey McBride",
-        "pos": "TE",
-        "value": 5883
+        "name": "Jordan Love",
+        "pos": "QB",
+        "value": 2317
       },
       "bSends": {
-        "name": "Josh Allen",
-        "pos": "QB",
-        "value": 6636
+        "name": "Tyler Warren",
+        "pos": "TE",
+        "value": 2138
       },
-      "fairness": 87.97
+      "fairness": 91.96
     },
     {
       "teamA": "casper05",
@@ -1892,14 +1877,44 @@
       "aSends": {
         "name": "Patrick Mahomes",
         "pos": "QB",
-        "value": 1470
+        "value": 1695
       },
       "bSends": {
         "name": "Jayden Daniels",
         "pos": "QB",
-        "value": 1682
+        "value": 1494
       },
-      "fairness": 86.55
+      "fairness": 87.39
+    },
+    {
+      "teamA": "Crashee and Co.",
+      "teamB": "jhuang24",
+      "aSends": {
+        "name": "Trey McBride",
+        "pos": "TE",
+        "value": 5827
+      },
+      "bSends": {
+        "name": "Josh Allen",
+        "pos": "QB",
+        "value": 6718
+      },
+      "fairness": 85.8
+    },
+    {
+      "teamA": "Schmiddy1",
+      "teamB": "Team t-hart",
+      "aSends": {
+        "name": "Mike Gesicki",
+        "pos": "TE",
+        "value": 354
+      },
+      "bSends": {
+        "name": "Hunter Henry",
+        "pos": "TE",
+        "value": 305
+      },
+      "fairness": 85.13
     }
   ],
   "waiverRoi": [
