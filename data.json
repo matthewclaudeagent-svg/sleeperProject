@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T11:48:44.630Z",
+  "generatedAt": "2026-11-24T21:43:22.235Z",
   "season": "2026",
   "currentWeek": 12,
   "league": {
@@ -26,7 +26,7 @@
       "efficiency": 87.69,
       "benchPoints": 209.48,
       "playoffOdds": 100,
-      "topSeedOdds": 74.65,
+      "topSeedOdds": 73.65,
       "avgPoints": 135.7,
       "weekly": [
         {
@@ -112,7 +112,7 @@
       "efficiency": 91.94,
       "benchPoints": 130.54,
       "playoffOdds": 100,
-      "topSeedOdds": 21.77,
+      "topSeedOdds": 22.99,
       "avgPoints": 135.42,
       "weekly": [
         {
@@ -198,7 +198,7 @@
       "efficiency": 86.02,
       "benchPoints": 218.12,
       "playoffOdds": 100,
-      "topSeedOdds": 3.57,
+      "topSeedOdds": 3.35,
       "avgPoints": 122,
       "weekly": [
         {
@@ -283,7 +283,7 @@
       "allPlayLosses": 65,
       "efficiency": 93.48,
       "benchPoints": 86.1,
-      "playoffOdds": 98.92,
+      "playoffOdds": 99.02,
       "topSeedOdds": 0.01,
       "avgPoints": 112.23,
       "weekly": [
@@ -369,7 +369,7 @@
       "allPlayLosses": 49,
       "efficiency": 94.07,
       "benchPoints": 83.1,
-      "playoffOdds": 88.79,
+      "playoffOdds": 88.82,
       "topSeedOdds": 0,
       "avgPoints": 119.79,
       "weekly": [
@@ -455,7 +455,7 @@
       "allPlayLosses": 58,
       "efficiency": 92.82,
       "benchPoints": 101,
-      "playoffOdds": 86.59,
+      "playoffOdds": 86.65,
       "topSeedOdds": 0,
       "avgPoints": 118.77,
       "weekly": [
@@ -541,7 +541,7 @@
       "allPlayLosses": 57,
       "efficiency": 90.6,
       "benchPoints": 138.56,
-      "playoffOdds": 19.65,
+      "playoffOdds": 19.81,
       "topSeedOdds": 0,
       "avgPoints": 121.44,
       "weekly": [
@@ -627,7 +627,7 @@
       "allPlayLosses": 64,
       "efficiency": 89.89,
       "benchPoints": 137.12,
-      "playoffOdds": 1.95,
+      "playoffOdds": 1.69,
       "topSeedOdds": 0,
       "avgPoints": 110.86,
       "weekly": [
@@ -713,7 +713,7 @@
       "allPlayLosses": 71,
       "efficiency": 86.02,
       "benchPoints": 196.68,
-      "playoffOdds": 2.4,
+      "playoffOdds": 2.48,
       "topSeedOdds": 0,
       "avgPoints": 110.02,
       "weekly": [
@@ -799,7 +799,7 @@
       "allPlayLosses": 81,
       "efficiency": 91.44,
       "benchPoints": 105.96,
-      "playoffOdds": 0.73,
+      "playoffOdds": 0.59,
       "topSeedOdds": 0,
       "avgPoints": 102.93,
       "weekly": [
@@ -885,7 +885,7 @@
       "allPlayLosses": 84,
       "efficiency": 88.29,
       "benchPoints": 149.24,
-      "playoffOdds": 0.97,
+      "playoffOdds": 0.94,
       "topSeedOdds": 0,
       "avgPoints": 102.27,
       "weekly": [
@@ -2450,14 +2450,6 @@
           "nflTeam": "MIN",
           "points": 55.8,
           "livePoints": 0
-        },
-        {
-          "id": "13424",
-          "name": "Seth McGowan",
-          "pos": "RB",
-          "nflTeam": "IND",
-          "points": 1.8,
-          "livePoints": 0
         }
       ],
       "ir": [
@@ -2496,20 +2488,20 @@
         },
         {
           "slot": "RB",
-          "id": "8136",
-          "name": "Rachaad White",
+          "id": "8150",
+          "name": "Kyren Williams",
           "pos": "RB",
-          "nflTeam": "WAS",
-          "points": 75.9,
+          "nflTeam": "LAR",
+          "points": 164.3,
           "livePoints": 0
         },
         {
           "slot": "WR",
-          "id": "7526",
-          "name": "Jaylen Waddle",
+          "id": "8112",
+          "name": "Drake London",
           "pos": "WR",
-          "nflTeam": "DEN",
-          "points": 91.1,
+          "nflTeam": "ATL",
+          "points": 138.5,
           "livePoints": 0
         },
         {
@@ -2550,29 +2542,21 @@
         },
         {
           "slot": "DEF",
-          "id": "CAR",
-          "name": "Panthers",
+          "id": "LAR",
+          "name": "Rams",
           "pos": "DEF",
-          "nflTeam": "CAR",
-          "points": 9,
+          "nflTeam": "LAR",
+          "points": 75,
           "livePoints": 0
         }
       ],
       "bench": [
         {
-          "id": "8150",
-          "name": "Kyren Williams",
-          "pos": "RB",
-          "nflTeam": "LAR",
-          "points": 164.3,
-          "livePoints": 0
-        },
-        {
-          "id": "8112",
-          "name": "Drake London",
+          "id": "7526",
+          "name": "Jaylen Waddle",
           "pos": "WR",
-          "nflTeam": "ATL",
-          "points": 138.5,
+          "nflTeam": "DEN",
+          "points": 91.1,
           "livePoints": 0
         },
         {
@@ -2584,11 +2568,11 @@
           "livePoints": 0
         },
         {
-          "id": "LAR",
-          "name": "Rams",
-          "pos": "DEF",
-          "nflTeam": "LAR",
-          "points": 75,
+          "id": "8136",
+          "name": "Rachaad White",
+          "pos": "RB",
+          "nflTeam": "WAS",
+          "points": 75.9,
           "livePoints": 0
         },
         {
@@ -2597,6 +2581,14 @@
           "pos": "RB",
           "nflTeam": "DEN",
           "points": 62.5,
+          "livePoints": 0
+        },
+        {
+          "id": "CAR",
+          "name": "Panthers",
+          "pos": "DEF",
+          "nflTeam": "CAR",
+          "points": 9,
           "livePoints": 0
         }
       ],
@@ -3090,11 +3082,11 @@
         },
         {
           "slot": "FLEX",
-          "id": "11783",
-          "name": "Ryan Flournoy",
-          "pos": "WR",
-          "nflTeam": "DAL",
-          "points": 9.4,
+          "id": "9753",
+          "name": "Zach Charbonnet",
+          "pos": "RB",
+          "nflTeam": "SEA",
+          "points": 24.9,
           "livePoints": 0
         },
         {
@@ -3142,11 +3134,11 @@
           "livePoints": 0
         },
         {
-          "id": "9753",
-          "name": "Zach Charbonnet",
-          "pos": "RB",
-          "nflTeam": "SEA",
-          "points": 24.9,
+          "id": "11783",
+          "name": "Ryan Flournoy",
+          "pos": "WR",
+          "nflTeam": "DAL",
+          "points": 9.4,
           "livePoints": 0
         },
         {
@@ -3596,11 +3588,11 @@
         },
         {
           "slot": "WR",
-          "id": "2449",
-          "name": "Stefon Diggs",
+          "id": "9488",
+          "name": "Jaxon Smith-Njigba",
           "pos": "WR",
-          "nflTeam": "WAS",
-          "points": 119.1,
+          "nflTeam": "SEA",
+          "points": 263.16,
           "livePoints": 0
         },
         {
@@ -3623,11 +3615,11 @@
         },
         {
           "slot": "FLEX",
-          "id": "4035",
-          "name": "Alvin Kamara",
+          "id": "12533",
+          "name": "Jacory Croskey-Merritt",
           "pos": "RB",
-          "nflTeam": "NO",
-          "points": 97.3,
+          "nflTeam": "WAS",
+          "points": 60.6,
           "livePoints": 0
         },
         {
@@ -3651,11 +3643,19 @@
       ],
       "bench": [
         {
-          "id": "9488",
-          "name": "Jaxon Smith-Njigba",
+          "id": "2449",
+          "name": "Stefon Diggs",
           "pos": "WR",
-          "nflTeam": "SEA",
-          "points": 263.16,
+          "nflTeam": "WAS",
+          "points": 119.1,
+          "livePoints": 0
+        },
+        {
+          "id": "4035",
+          "name": "Alvin Kamara",
+          "pos": "RB",
+          "nflTeam": "NO",
+          "points": 97.3,
           "livePoints": 0
         },
         {
@@ -3691,16 +3691,7 @@
           "livePoints": 0
         }
       ],
-      "ir": [
-        {
-          "id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "pos": "RB",
-          "nflTeam": "WAS",
-          "points": 60.6,
-          "livePoints": 0
-        }
-      ]
+      "ir": []
     },
     {
       "rosterId": 11,
@@ -3866,11 +3857,11 @@
         },
         {
           "slot": "RB",
-          "id": "12507",
-          "name": "Omarion Hampton",
+          "id": "11586",
+          "name": "Blake Corum",
           "pos": "RB",
-          "nflTeam": "LAC",
-          "points": 96,
+          "nflTeam": "LAR",
+          "points": 115.5,
           "livePoints": 0
         },
         {
@@ -3947,19 +3938,11 @@
           "livePoints": 0
         },
         {
-          "id": "11586",
-          "name": "Blake Corum",
+          "id": "12507",
+          "name": "Omarion Hampton",
           "pos": "RB",
-          "nflTeam": "LAR",
-          "points": 115.5,
-          "livePoints": 0
-        },
-        {
-          "id": "8126",
-          "name": "Wan'Dale Robinson",
-          "pos": "WR",
-          "nflTeam": "TEN",
-          "points": 62.6,
+          "nflTeam": "LAC",
+          "points": 96,
           "livePoints": 0
         },
         {
@@ -3979,16 +3962,7 @@
           "livePoints": 0
         }
       ],
-      "ir": [
-        {
-          "id": "10232",
-          "name": "Michael Wilson",
-          "pos": "WR",
-          "nflTeam": "ARI",
-          "points": 120.68,
-          "livePoints": 0
-        }
-      ]
+      "ir": []
     }
   ],
   "recaps": {
