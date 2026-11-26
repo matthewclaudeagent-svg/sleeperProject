@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T05:57:22.474Z",
+  "generatedAt": "2026-11-26T16:18:34.442Z",
   "season": "2026",
   "currentWeek": 12,
   "league": {
@@ -26,7 +26,7 @@
       "efficiency": 87.69,
       "benchPoints": 209.48,
       "playoffOdds": 100,
-      "topSeedOdds": 73.45,
+      "topSeedOdds": 73.99,
       "avgPoints": 135.7,
       "weekly": [
         {
@@ -112,7 +112,7 @@
       "efficiency": 91.94,
       "benchPoints": 130.54,
       "playoffOdds": 100,
-      "topSeedOdds": 22.99,
+      "topSeedOdds": 22.44,
       "avgPoints": 135.42,
       "weekly": [
         {
@@ -198,7 +198,7 @@
       "efficiency": 86.02,
       "benchPoints": 218.12,
       "playoffOdds": 100,
-      "topSeedOdds": 3.56,
+      "topSeedOdds": 3.57,
       "avgPoints": 122,
       "weekly": [
         {
@@ -283,7 +283,7 @@
       "allPlayLosses": 65,
       "efficiency": 93.48,
       "benchPoints": 86.1,
-      "playoffOdds": 98.82,
+      "playoffOdds": 98.8,
       "topSeedOdds": 0,
       "avgPoints": 112.23,
       "weekly": [
@@ -369,7 +369,7 @@
       "allPlayLosses": 49,
       "efficiency": 94.07,
       "benchPoints": 83.1,
-      "playoffOdds": 88.81,
+      "playoffOdds": 88.33,
       "topSeedOdds": 0,
       "avgPoints": 119.79,
       "weekly": [
@@ -455,7 +455,7 @@
       "allPlayLosses": 58,
       "efficiency": 92.82,
       "benchPoints": 101,
-      "playoffOdds": 87.09,
+      "playoffOdds": 87.19,
       "topSeedOdds": 0,
       "avgPoints": 118.77,
       "weekly": [
@@ -541,7 +541,7 @@
       "allPlayLosses": 57,
       "efficiency": 90.6,
       "benchPoints": 138.56,
-      "playoffOdds": 19.57,
+      "playoffOdds": 19.89,
       "topSeedOdds": 0,
       "avgPoints": 121.44,
       "weekly": [
@@ -627,7 +627,7 @@
       "allPlayLosses": 64,
       "efficiency": 89.89,
       "benchPoints": 137.12,
-      "playoffOdds": 1.79,
+      "playoffOdds": 1.84,
       "topSeedOdds": 0,
       "avgPoints": 110.86,
       "weekly": [
@@ -713,7 +713,7 @@
       "allPlayLosses": 71,
       "efficiency": 86.02,
       "benchPoints": 196.68,
-      "playoffOdds": 2.25,
+      "playoffOdds": 2.37,
       "topSeedOdds": 0,
       "avgPoints": 110.02,
       "weekly": [
@@ -799,7 +799,7 @@
       "allPlayLosses": 81,
       "efficiency": 91.44,
       "benchPoints": 105.96,
-      "playoffOdds": 0.66,
+      "playoffOdds": 0.7,
       "topSeedOdds": 0,
       "avgPoints": 102.93,
       "weekly": [
@@ -885,7 +885,7 @@
       "allPlayLosses": 84,
       "efficiency": 88.29,
       "benchPoints": 149.24,
-      "playoffOdds": 1.01,
+      "playoffOdds": 0.88,
       "topSeedOdds": 0,
       "avgPoints": 102.27,
       "weekly": [
@@ -3767,11 +3767,11 @@
         },
         {
           "slot": "WR",
-          "id": "11646",
-          "name": "Jalen Coker",
+          "id": "13301",
+          "name": "Antonio Williams",
           "pos": "WR",
-          "nflTeam": "CAR",
-          "points": 95,
+          "nflTeam": "WAS",
+          "points": 33.4,
           "livePoints": 0
         },
         {
@@ -3830,6 +3830,14 @@
           "livePoints": 0
         },
         {
+          "id": "11646",
+          "name": "Jalen Coker",
+          "pos": "WR",
+          "nflTeam": "CAR",
+          "points": 95,
+          "livePoints": 0
+        },
+        {
           "id": "4881",
           "name": "Lamar Jackson",
           "pos": "QB",
@@ -3843,14 +3851,6 @@
           "pos": "TE",
           "nflTeam": "DAL",
           "points": 54.6,
-          "livePoints": 0
-        },
-        {
-          "id": "13301",
-          "name": "Antonio Williams",
-          "pos": "WR",
-          "nflTeam": "WAS",
-          "points": 33.4,
           "livePoints": 0
         },
         {
