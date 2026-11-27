@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T09:16:58.168Z",
+  "generatedAt": "2026-11-27T19:15:32.745Z",
   "season": "2026",
   "currentWeek": 12,
   "league": {
@@ -26,7 +26,7 @@
       "efficiency": 87.69,
       "benchPoints": 209.48,
       "playoffOdds": 100,
-      "topSeedOdds": 74.33,
+      "topSeedOdds": 74.52,
       "avgPoints": 135.7,
       "weekly": [
         {
@@ -112,7 +112,7 @@
       "efficiency": 91.94,
       "benchPoints": 130.54,
       "playoffOdds": 100,
-      "topSeedOdds": 22.39,
+      "topSeedOdds": 22.23,
       "avgPoints": 135.42,
       "weekly": [
         {
@@ -198,7 +198,7 @@
       "efficiency": 86.02,
       "benchPoints": 218.12,
       "playoffOdds": 100,
-      "topSeedOdds": 3.28,
+      "topSeedOdds": 3.23,
       "avgPoints": 122,
       "weekly": [
         {
@@ -283,8 +283,8 @@
       "allPlayLosses": 65,
       "efficiency": 93.48,
       "benchPoints": 86.1,
-      "playoffOdds": 98.55,
-      "topSeedOdds": 0,
+      "playoffOdds": 98.61,
+      "topSeedOdds": 0.02,
       "avgPoints": 112.23,
       "weekly": [
         {
@@ -369,7 +369,7 @@
       "allPlayLosses": 49,
       "efficiency": 94.07,
       "benchPoints": 83.1,
-      "playoffOdds": 89.07,
+      "playoffOdds": 88.68,
       "topSeedOdds": 0,
       "avgPoints": 119.79,
       "weekly": [
@@ -455,7 +455,7 @@
       "allPlayLosses": 58,
       "efficiency": 92.82,
       "benchPoints": 101,
-      "playoffOdds": 86.21,
+      "playoffOdds": 86.63,
       "topSeedOdds": 0,
       "avgPoints": 118.77,
       "weekly": [
@@ -541,7 +541,7 @@
       "allPlayLosses": 57,
       "efficiency": 90.6,
       "benchPoints": 138.56,
-      "playoffOdds": 19.85,
+      "playoffOdds": 19.56,
       "topSeedOdds": 0,
       "avgPoints": 121.44,
       "weekly": [
@@ -627,7 +627,7 @@
       "allPlayLosses": 64,
       "efficiency": 89.89,
       "benchPoints": 137.12,
-      "playoffOdds": 2.1,
+      "playoffOdds": 2.23,
       "topSeedOdds": 0,
       "avgPoints": 110.86,
       "weekly": [
@@ -713,7 +713,7 @@
       "allPlayLosses": 71,
       "efficiency": 86.02,
       "benchPoints": 196.68,
-      "playoffOdds": 2.67,
+      "playoffOdds": 2.61,
       "topSeedOdds": 0,
       "avgPoints": 110.02,
       "weekly": [
@@ -885,7 +885,7 @@
       "allPlayLosses": 84,
       "efficiency": 88.29,
       "benchPoints": 149.24,
-      "playoffOdds": 0.93,
+      "playoffOdds": 1.06,
       "topSeedOdds": 0,
       "avgPoints": 102.27,
       "weekly": [
