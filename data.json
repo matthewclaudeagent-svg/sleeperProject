@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:18:34.442Z",
+  "generatedAt": "2026-11-27T00:52:15.702Z",
   "season": "2026",
   "currentWeek": 12,
   "league": {
@@ -26,7 +26,7 @@
       "efficiency": 87.69,
       "benchPoints": 209.48,
       "playoffOdds": 100,
-      "topSeedOdds": 73.99,
+      "topSeedOdds": 74.62,
       "avgPoints": 135.7,
       "weekly": [
         {
@@ -112,7 +112,7 @@
       "efficiency": 91.94,
       "benchPoints": 130.54,
       "playoffOdds": 100,
-      "topSeedOdds": 22.44,
+      "topSeedOdds": 21.46,
       "avgPoints": 135.42,
       "weekly": [
         {
@@ -198,7 +198,7 @@
       "efficiency": 86.02,
       "benchPoints": 218.12,
       "playoffOdds": 100,
-      "topSeedOdds": 3.57,
+      "topSeedOdds": 3.92,
       "avgPoints": 122,
       "weekly": [
         {
@@ -283,7 +283,7 @@
       "allPlayLosses": 65,
       "efficiency": 93.48,
       "benchPoints": 86.1,
-      "playoffOdds": 98.8,
+      "playoffOdds": 98.49,
       "topSeedOdds": 0,
       "avgPoints": 112.23,
       "weekly": [
@@ -369,7 +369,7 @@
       "allPlayLosses": 49,
       "efficiency": 94.07,
       "benchPoints": 83.1,
-      "playoffOdds": 88.33,
+      "playoffOdds": 88.32,
       "topSeedOdds": 0,
       "avgPoints": 119.79,
       "weekly": [
@@ -455,7 +455,7 @@
       "allPlayLosses": 58,
       "efficiency": 92.82,
       "benchPoints": 101,
-      "playoffOdds": 87.19,
+      "playoffOdds": 86.45,
       "topSeedOdds": 0,
       "avgPoints": 118.77,
       "weekly": [
@@ -541,7 +541,7 @@
       "allPlayLosses": 57,
       "efficiency": 90.6,
       "benchPoints": 138.56,
-      "playoffOdds": 19.89,
+      "playoffOdds": 20.56,
       "topSeedOdds": 0,
       "avgPoints": 121.44,
       "weekly": [
@@ -627,7 +627,7 @@
       "allPlayLosses": 64,
       "efficiency": 89.89,
       "benchPoints": 137.12,
-      "playoffOdds": 1.84,
+      "playoffOdds": 2.2,
       "topSeedOdds": 0,
       "avgPoints": 110.86,
       "weekly": [
@@ -713,7 +713,7 @@
       "allPlayLosses": 71,
       "efficiency": 86.02,
       "benchPoints": 196.68,
-      "playoffOdds": 2.37,
+      "playoffOdds": 2.42,
       "topSeedOdds": 0,
       "avgPoints": 110.02,
       "weekly": [
@@ -799,7 +799,7 @@
       "allPlayLosses": 81,
       "efficiency": 91.44,
       "benchPoints": 105.96,
-      "playoffOdds": 0.7,
+      "playoffOdds": 0.5,
       "topSeedOdds": 0,
       "avgPoints": 102.93,
       "weekly": [
@@ -885,7 +885,7 @@
       "allPlayLosses": 84,
       "efficiency": 88.29,
       "benchPoints": 149.24,
-      "playoffOdds": 0.88,
+      "playoffOdds": 1.06,
       "topSeedOdds": 0,
       "avgPoints": 102.27,
       "weekly": [
@@ -2127,7 +2127,7 @@
       "team": "Team t-hart",
       "rosterId": 10,
       "week": 2,
-      "points": 198.6
+      "points": 224.66
     },
     {
       "player": "Matthew Golden",
@@ -2298,6 +2298,14 @@
       "points": 43
     },
     {
+      "player": "Jake Bates",
+      "pos": "K",
+      "team": "jhuang24",
+      "rosterId": 7,
+      "week": 7,
+      "points": 43
+    },
+    {
       "player": "C.J. Stroud",
       "pos": "QB",
       "team": "Lapointe12",
@@ -2312,14 +2320,6 @@
       "rosterId": 9,
       "week": 6,
       "points": 39.7
-    },
-    {
-      "player": "Seahawks",
-      "pos": "DEF",
-      "team": "DefendingChampion",
-      "rosterId": 3,
-      "week": 5,
-      "points": 39
     }
   ],
   "rosters": [
@@ -2371,7 +2371,7 @@
           "pos": "WR",
           "nflTeam": "DAL",
           "points": 171.6,
-          "livePoints": 0
+          "livePoints": 7.8
         },
         {
           "slot": "TE",
@@ -2492,7 +2492,7 @@
           "pos": "RB",
           "nflTeam": "DAL",
           "points": 191.4,
-          "livePoints": 0
+          "livePoints": 31.6
         },
         {
           "slot": "RB",
@@ -2573,7 +2573,7 @@
           "pos": "TE",
           "nflTeam": "PHI",
           "points": 78.8,
-          "livePoints": 0
+          "livePoints": 1.9
         },
         {
           "id": "8136",
@@ -2788,7 +2788,7 @@
           "pos": "RB",
           "nflTeam": "CHI",
           "points": 165.7,
-          "livePoints": 0
+          "livePoints": 29.2
         },
         {
           "slot": "WR",
@@ -2874,7 +2874,7 @@
           "id": "96",
           "name": "Aaron Rodgers",
           "pos": "QB",
-          "nflTeam": "PIT",
+          "nflTeam": null,
           "points": 67.58,
           "livePoints": 0
         },
@@ -3057,7 +3057,7 @@
           "pos": "QB",
           "nflTeam": "CHI",
           "points": 130.68,
-          "livePoints": 0
+          "livePoints": 25.3
         },
         {
           "slot": "RB",
@@ -3084,7 +3084,7 @@
           "pos": "WR",
           "nflTeam": "DET",
           "points": 198.1,
-          "livePoints": 0
+          "livePoints": 21.6
         },
         {
           "slot": "WR",
@@ -3093,7 +3093,7 @@
           "pos": "WR",
           "nflTeam": "DAL",
           "points": 252.2,
-          "livePoints": 0
+          "livePoints": 20.4
         },
         {
           "slot": "TE",
@@ -3205,7 +3205,7 @@
           "pos": "RB",
           "nflTeam": "DET",
           "points": 281.2,
-          "livePoints": 0
+          "livePoints": 48.2
         },
         {
           "slot": "RB",
@@ -3232,7 +3232,7 @@
           "pos": "WR",
           "nflTeam": "CHI",
           "points": 139.6,
-          "livePoints": 0
+          "livePoints": 7.5
         },
         {
           "slot": "TE",
@@ -3259,7 +3259,7 @@
           "pos": "K",
           "nflTeam": "DET",
           "points": 92,
-          "livePoints": 0
+          "livePoints": 9
         },
         {
           "slot": "DEF",
@@ -3353,7 +3353,7 @@
           "pos": "RB",
           "nflTeam": "PHI",
           "points": 72.2,
-          "livePoints": 0
+          "livePoints": 0.7
         },
         {
           "slot": "WR",
@@ -3362,7 +3362,7 @@
           "pos": "WR",
           "nflTeam": "PHI",
           "points": 78.1,
-          "livePoints": 0
+          "livePoints": 39.6
         },
         {
           "slot": "WR",
@@ -3380,7 +3380,7 @@
           "pos": "TE",
           "nflTeam": "DET",
           "points": 104.9,
-          "livePoints": 0
+          "livePoints": 14.4
         },
         {
           "slot": "FLEX",
@@ -3466,7 +3466,7 @@
           "pos": "QB",
           "nflTeam": "DET",
           "points": 192.14,
-          "livePoints": 0
+          "livePoints": 16.82
         },
         {
           "slot": "RB",
@@ -3502,7 +3502,7 @@
           "pos": "WR",
           "nflTeam": "CHI",
           "points": 97.3,
-          "livePoints": 0
+          "livePoints": 26.7
         },
         {
           "slot": "TE",
@@ -3580,7 +3580,7 @@
           "pos": "DEF",
           "nflTeam": "CHI",
           "points": 39,
-          "livePoints": 0
+          "livePoints": 2
         }
       ],
       "ir": [
@@ -3606,7 +3606,7 @@
           "pos": "QB",
           "nflTeam": "DAL",
           "points": 228.36,
-          "livePoints": 0
+          "livePoints": 26.06
         },
         {
           "slot": "RB",
@@ -3754,7 +3754,7 @@
           "pos": "RB",
           "nflTeam": "CHI",
           "points": 61.1,
-          "livePoints": 0
+          "livePoints": 15.9
         },
         {
           "slot": "RB",
@@ -3808,7 +3808,7 @@
           "pos": "K",
           "nflTeam": "DAL",
           "points": 100,
-          "livePoints": 0
+          "livePoints": 10
         },
         {
           "slot": "DEF",
@@ -3920,7 +3920,7 @@
           "pos": "WR",
           "nflTeam": "DET",
           "points": 134,
-          "livePoints": 0
+          "livePoints": 14
         },
         {
           "slot": "WR",
@@ -3938,7 +3938,7 @@
           "pos": "TE",
           "nflTeam": "CHI",
           "points": 95.2,
-          "livePoints": 0
+          "livePoints": -0.5
         },
         {
           "slot": "FLEX",
@@ -3991,7 +3991,7 @@
           "pos": "K",
           "nflTeam": "CHI",
           "points": 16,
-          "livePoints": 0
+          "livePoints": 8
         },
         {
           "id": "9502",
